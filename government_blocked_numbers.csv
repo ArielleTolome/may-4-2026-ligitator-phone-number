@@ -1,4 +1,205 @@
 phone_number_e164,phone_number_formatted,phone_number_dashed,entity_name,entity_type,jurisdiction,level,office_type,source_url
++15102678800,(510) 267-8800,510-267-8800,Alameda County District Attorney's Office,district_attorney,"Alameda County, CA",county,main,https://da.alamedacountyca.gov/find-us/
++15102726800,(510) 272-6800,510-272-6800,Alameda County Sheriff's Office,sheriff_non_emergency,"Alameda County, CA",county,main,https://www.alamedasheriff.gov/about-us/contact-us
++14123504401,(412) 350-4401,412-350-4401,Allegheny County District Attorney's Office,district_attorney,"Allegheny County, PA",county,main,https://alleghenycountyda.us/contact/
++14123504700,(412) 350-4700,412-350-4700,Allegheny County Sheriff's Office,sheriff_non_emergency,"Allegheny County, PA",county,main,https://sheriffalleghenycounty.com/contact/
++14102221571,(410) 222-1571,410-222-1571,Anne Arundel County Sheriff's Office,sheriff_non_emergency,"Anne Arundel County, MD",county,main,https://www.aacounty.org/sheriff
++14102221740,(410) 222-1740,410-222-1740,Anne Arundel County State's Attorney's Office,state_attorney,"Anne Arundel County, MD",county,main,https://www.aacounty.org/sao
++14439846000,(443) 984-6000,443-984-6000,Baltimore City State's Attorney's Office,state_attorney,"Baltimore City, MD",county,main,https://www.stattorney.org/office/contact
++14108873151,(410) 887-3151,410-887-3151,Baltimore County Sheriff's Office,sheriff_non_emergency,"Baltimore County, MD",county,main,https://www.baltimorecountymd.gov/departments/sheriff
++14108876600,(410) 887-6600,410-887-6600,Baltimore County State's Attorney's Office,state_attorney,"Baltimore County, MD",county,main,https://www.baltimorecountymd.gov/departments/states-attorney
++12016462300,(201) 646-2300,201-646-2300,Bergen County Prosecutor's Office,prosecuting_attorney,"Bergen County, NJ",county,main,https://www.bcpo.net/address/
++12013363500,(201) 336-3500,201-336-3500,Bergen County Sheriff's Office,sheriff_non_emergency,"Bergen County, NJ",county,main,https://www.bcsd.us/resources/contact-us
++15052221099,(505) 222-1099,505-222-1099,Bernalillo County District Attorney's Office (2nd Judicial District),district_attorney,"Bernalillo County, NM",county,main,https://da2nd.nm.gov/contacts/contact-office/
++15054687100,(505) 468-7100,505-468-7100,Bernalillo County Sheriff's Office,sheriff_non_emergency,"Bernalillo County, NM",county,main,https://www.bernco.gov/bernalillo-county-sheriff/contact-us/
++12103352311,(210) 335-2311,210-335-2311,Bexar County Criminal District Attorney's Office,district_attorney,"Bexar County, TX",county,main,https://www.bexar.org/3273/District-Attorneys-Office
++12103356010,(210) 335-6010,210-335-6010,Bexar County Sheriff's Office,sheriff_non_emergency,"Bexar County, TX",county,main,https://www.bexar.org/600/Sheriffs-Office
++13216177510,(321) 617-7510,321-617-7510,18th Judicial Circuit State Attorney's Office (Brevard/Seminole),state_attorney,"Brevard County, FL",county,main,https://sa18.org/335-2/main-office/
++13212645100,(321) 264-5100,321-264-5100,Brevard County Sheriff's Office,sheriff_non_emergency,"Brevard County, FL",county,main,https://www.brevardsheriff.com/contact/
++17185902000,(718) 590-2000,718-590-2000,Bronx County District Attorney's Office,district_attorney,"Bronx County, NY",county,main,https://www.bronxda.nyc.gov/html/contact/contact.shtml
++19548318900,(954) 831-8900,954-831-8900,Broward County Sheriff's Office,sheriff_non_emergency,"Broward County, FL",county,main,https://www.sheriff.org/Pages/Contact-Us.aspx
++19548316955,(954) 831-6955,954-831-6955,Broward County State Attorney's Office (17th Judicial Circuit),state_attorney,"Broward County, FL",county,main,https://browardsao.com/contact/
++17026712500,(702) 671-2500,702-671-2500,Clark County District Attorney's Office,district_attorney,"Clark County, NV",county,main,https://www.clarkcountynv.gov/government/departments/district_attorney/contact
++17705283080,(770) 528-3080,770-528-3080,Cobb County District Attorney's Office,district_attorney,"Cobb County, GA",county,main,https://www.cobbcounty.gov/district-attorney
++17704994600,(770) 499-4600,770-499-4600,Cobb County Sheriff's Office,sheriff_non_emergency,"Cobb County, GA",county,main,https://www.cobbsheriff.org/contact-us
++19725484323,(972) 548-4323,972-548-4323,Collin County Criminal District Attorney's Office,district_attorney,"Collin County, TX",county,main,https://collincountyda.com/contact-us/
++19725475751,(972) 547-5751,972-547-5751,Collin County Sheriff's Office,sheriff_non_emergency,"Collin County, TX",county,main,https://www.collincountytx.gov/sheriff/about/contact
++19259572200,(925) 957-2200,925-957-2200,Contra Costa County District Attorney's Office,district_attorney,"Contra Costa County, CA",county,main,https://www.contracosta.ca.gov/917/District-Attorneys-Office
++19256550000,(925) 655-0000,925-655-0000,Contra Costa County Sheriff's Office,sheriff_non_emergency,"Contra Costa County, CA",county,main,https://www.cocosheriff.org/contact-us
++13126036444,(312) 603-6444,312-603-6444,Cook County Sheriff's Office,sheriff_non_emergency,"Cook County, IL",county,main,https://cookcountysheriffil.gov/contact-us/
++13126031880,(312) 603-1880,312-603-1880,Cook County State's Attorney's Office,state_attorney,"Cook County, IL",county,main,https://www.cookcountystatesattorney.org/office-directory
++12164437800,(216) 443-7800,216-443-7800,Cuyahoga County Prosecutor's Office,prosecuting_attorney,"Cuyahoga County, OH",county,main,https://www.ccprosecutor.us/contact-us/
++12164436000,(216) 443-6000,216-443-6000,Cuyahoga County Sheriff's Office,sheriff_non_emergency,"Cuyahoga County, OH",county,main,https://cuyahogacounty.gov/sheriff/about-us
++12146533600,(214) 653-3600,214-653-3600,Dallas County District Attorney's Office,district_attorney,"Dallas County, TX",county,main,https://www.dallascounty.org/government/district-attorney/contact-us.php
++12147498641,(214) 749-8641,214-749-8641,Dallas County Sheriff's Office,sheriff_non_emergency,"Dallas County, TX",county,main,https://www.dallascounty.org/departments/sheriff/contact-us/
++16158625500,(615) 862-5500,615-862-5500,Davidson County District Attorney General's Office,district_attorney,"Davidson County, TN",county,main,https://da.nashville.gov/contact/
++16158628170,(615) 862-8170,615-862-8170,Davidson County Sheriff's Office,sheriff_non_emergency,"Davidson County, TN",county,main,https://sheriff.nashville.gov/contact-the-nashville-davidson-county-sheriffs-office/
++14043712561,(404) 371-2561,404-371-2561,DeKalb County District Attorney's Office,district_attorney,"DeKalb County, GA",county,main,https://www.dekalbda.org/court_information/who_do_i_contact/administration.php
++14042988111,(404) 298-8111,404-298-8111,DeKalb County Sheriff's Office,sheriff_non_emergency,"DeKalb County, GA",county,main,https://www.dekalbsheriff.org/contact/
++19403492600,(940) 349-2600,940-349-2600,Denton County Criminal District Attorney's Office,district_attorney,"Denton County, TX",county,main,https://www.dentoncounty.gov/223/District-Attorney
++19403491600,(940) 349-1600,940-349-1600,Denton County Sheriff's Office,sheriff_non_emergency,"Denton County, TX",county,main,https://www.dentoncounty.gov/715/Sheriffs-Office-Helpful-Phone-Numbers
++16304072000,(630) 407-2000,630-407-2000,DuPage County Sheriff's Office,sheriff_non_emergency,"DuPage County, IL",county,main,https://www.dupagesheriff.org/
++16304078000,(630) 407-8000,630-407-8000,DuPage County State's Attorney's Office,state_attorney,"DuPage County, IL",county,main,https://www.dupagecounty.gov/elected_officials/state_s_attorney/
++19042552500,(904) 255-2500,904-255-2500,4th Judicial Circuit State Attorney's Office (Duval),state_attorney,"Duval County, FL",county,main,https://sao4th.com/offices/duval-county/
++19152733542,(915) 273-3542,915-273-3542,El Paso County District Attorney's Office,district_attorney,"El Paso County, TX",county,main,https://www.epcounty.com/da/contact.htm
++19152733800,(915) 273-3800,915-273-3800,El Paso County Sheriff's Office,sheriff_non_emergency,"El Paso County, TX",county,main,https://epcsheriffsoffice.com/contact/
++17168582400,(716) 858-2400,716-858-2400,Erie County District Attorney's Office,district_attorney,"Erie County, NY",county,main,https://www4.erie.gov/da/contact-us
++17168587618,(716) 858-7618,716-858-7618,Erie County Sheriff's Office,sheriff_non_emergency,"Erie County, NY",county,main,https://www4.erie.gov/sheriff/contacts
++19736214700,(973) 621-4700,973-621-4700,Essex County Prosecutor's Office,prosecuting_attorney,"Essex County, NJ",county,main,https://njecpo.org/contact/
++19736214105,(973) 621-4105,973-621-4105,Essex County Sheriff's Office,sheriff_non_emergency,"Essex County, NJ",county,main,https://www.essexsheriff.com/contact-us/
++17032462776,(703) 246-2776,703-246-2776,Fairfax County Commonwealth's Attorney's Office,prosecuting_attorney,"Fairfax County, VA",county,main,https://www.fairfaxcounty.gov/commonwealthattorney/commonwealthattorney
++17032463227,(703) 246-3227,703-246-3227,Fairfax County Sheriff's Office,sheriff_non_emergency,"Fairfax County, VA",county,main,https://www.fairfaxcounty.gov/sheriff/
++12813414460,(281) 341-4460,281-341-4460,Fort Bend County District Attorney's Office,district_attorney,"Fort Bend County, TX",county,main,https://www.fortbendcountytx.gov/government/departments/district-attorney/contact-us
++12813414665,(281) 341-4665,281-341-4665,Fort Bend County Sheriff's Office,sheriff_non_emergency,"Fort Bend County, TX",county,main,https://www.fortbendcountytx.gov/government/departments/sheriff-s-office/contact-us
++16145253555,(614) 525-3555,614-525-3555,Franklin County Prosecutor's Office,prosecuting_attorney,"Franklin County, OH",county,main,https://prosecutor.franklincountyohio.gov/contact
++16145253333,(614) 525-3333,614-525-3333,Franklin County Sheriff's Office,sheriff_non_emergency,"Franklin County, OH",county,main,https://sheriff.franklincountyohio.gov/About/Front-Office
++15596003141,(559) 600-3141,559-600-3141,Fresno County District Attorney's Office,district_attorney,"Fresno County, CA",county,main,https://www.fresnoda.org/Our-Office/Contact-Us
++15596008400,(559) 600-8400,559-600-8400,Fresno County Sheriff's Office,sheriff_non_emergency,"Fresno County, CA",county,main,https://www.fresnosheriff.org/admin/contact-us.html
++14046124981,(404) 612-4981,404-612-4981,Fulton County District Attorney's Office,district_attorney,"Fulton County, GA",county,main,https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/district-attorney
++14046125100,(404) 612-5100,404-612-5100,Fulton County Sheriff's Office,sheriff_non_emergency,"Fulton County, GA",county,main,https://fcsoga.org/contact-us/
++17708228400,(770) 822-8400,770-822-8400,Gwinnett County District Attorney's Office,district_attorney,"Gwinnett County, GA",county,main,https://www.gwinnettcounty.com/government/departments/district-attorney
++17706196500,(770) 619-6500,770-619-6500,Gwinnett County Sheriff's Office,sheriff_non_emergency,"Gwinnett County, GA",county,main,https://www.gwinnettcountysheriff.org/contactus
++15139463000,(513) 946-3000,513-946-3000,Hamilton County Prosecutor's Office,prosecuting_attorney,"Hamilton County, OH",county,main,https://www.hcpros.org/contact
++15139466400,(513) 946-6400,513-946-6400,Hamilton County Sheriff's Office,sheriff_non_emergency,"Hamilton County, OH",county,main,https://www.hcso.org/contact-us/
++14137471097,(413) 747-1097,413-747-1097,Hampden County District Attorney's Office,district_attorney,"Hampden County, MA",county,main,https://hampdenda.com/contact-us/
++17132745800,(713) 274-5800,713-274-5800,Harris County District Attorney's Office,district_attorney,"Harris County, TX",county,main,https://dao.harriscountytx.gov/Contact-Us
++17132216000,(713) 221-6000,713-221-6000,Harris County Sheriff's Office,sheriff_non_emergency,"Harris County, TX",county,main,https://www.harriscountyso.org/ContactUs/Contact
++18605663190,(860) 566-3190,860-566-3190,Hartford Judicial District State's Attorney's Office,state_attorney,"Hartford County, CT",county,main,https://portal.ct.gov/dcj/about/states-attorneys/hartford-judicial-district
++18089610466,(808) 961-0466,808-961-0466,Hawaii County Prosecuting Attorney's Office,prosecuting_attorney,"Hawaii County, HI",county,main,https://www.hawaiicounty.gov/departments/prosecuting-attorney
++16123485073,(612) 348-5073,612-348-5073,Hennepin County Attorney's Office,prosecuting_attorney,"Hennepin County, MN",county,main,https://www.hennepinattorney.org/en/about/contact
++16123482000,(612) 348-2000,612-348-2000,Hennepin County Sheriff's Office,sheriff_non_emergency,"Hennepin County, MN",county,main,https://www.hennepinsheriff.org/en/contact
++19562927600,(956) 292-7600,956-292-7600,Hidalgo County Criminal District Attorney's Office,district_attorney,"Hidalgo County, TX",county,main,https://hidalgocountyda.com/contact/
++19563838114,(956) 383-8114,956-383-8114,Hidalgo County Sheriff's Office,sheriff_non_emergency,"Hidalgo County, TX",county,main,https://www.hidalgocounty.us/209/Sheriff
++18132478000,(813) 247-8000,813-247-8000,Hillsborough County Sheriff's Office,sheriff_non_emergency,"Hillsborough County, FL",county,main,https://teamhcso.com/Home/Directory
++18132725400,(813) 272-5400,813-272-5400,Hillsborough County State Attorney's Office (13th Judicial Circuit),state_attorney,"Hillsborough County, FL",county,main,https://hillsboroughsao.gov/contact-us/
++18085293162,(808) 529-3162,808-529-3162,Honolulu Police Department (county-level),sheriff_non_emergency,"Honolulu County, HI",county,main,https://www.honolulupd.org/contact-us/office-locations/
++18087687400,(808) 768-7400,808-768-7400,Honolulu Prosecuting Attorney's Office,prosecuting_attorney,"Honolulu County, HI",county,main,https://www.honolulu.gov/clerk/clk-prosecuting-attorneys/
++12017956400,(201) 795-6400,201-795-6400,Hudson County Prosecutor's Office,prosecuting_attorney,"Hudson County, NJ",county,main,https://www.hcpo.org/
++12017956300,(201) 795-6300,201-795-6300,Hudson County Sheriff's Office,sheriff_non_emergency,"Hudson County, NJ",county,main,https://www.hudsoncountysheriff.com/telephone-directory
++18168813555,(816) 881-3555,816-881-3555,Jackson County Prosecuting Attorney's Office,prosecuting_attorney,"Jackson County, MO",county,main,https://www.jacksoncountyprosecutor.com/9/Contact-Us
++18167151960,(816) 715-1960,816-715-1960,Jackson County Sheriff's Office,sheriff_non_emergency,"Jackson County, MO",county,main,https://www.jacksoncountysheriff.org/Home
++15025952300,(502) 595-2300,502-595-2300,Jefferson County Commonwealth's Attorney's Office,prosecuting_attorney,"Jefferson County, KY",county,main,https://louisvilleprosecutor.com/contact/
++15025745400,(502) 574-5400,502-574-5400,Jefferson County Sheriff's Office,sheriff_non_emergency,"Jefferson County, KY",county,main,https://www.jcsoky.org/contact
++16166326710,(616) 632-6710,616-632-6710,Kent County Prosecutor's Office,prosecuting_attorney,"Kent County, MI",county,main,https://www.kentcountymi.gov/1103/Prosecutors-Office
++16166326300,(616) 632-6300,616-632-6300,Kent County Sheriff's Office,sheriff_non_emergency,"Kent County, MI",county,main,https://www.kentcountymi.gov/894/Sheriff
++16618682340,(661) 868-2340,661-868-2340,Kern County District Attorney's Office,district_attorney,"Kern County, CA",county,main,https://www.kerncounty.com/government/departments/district-attorney/contact
++16613917500,(661) 391-7500,661-391-7500,Kern County Sheriff's Office,sheriff_non_emergency,"Kern County, CA",county,main,https://www.kernsheriff.org/Contact
++12064773296,(206) 477-3296,206-477-3296,King County Prosecuting Attorney's Office,prosecuting_attorney,"King County, WA",county,main,https://kingcounty.gov/en/dept/pao/about-king-county/about-pao/contact-us
++12062964155,(206) 296-4155,206-296-4155,King County Sheriff's Office,sheriff_non_emergency,"King County, WA",county,main,https://kingcounty.gov/en/dept/sheriff/about-king-county/about-sheriff-office/about-kcso/contact
++17182502000,(718) 250-2000,718-250-2000,Kings County (Brooklyn) District Attorney's Office,district_attorney,"Kings County, NY",county,main,https://www.brooklynda.org/das-action-center/
++18652152515,(865) 215-2515,865-215-2515,Knox County District Attorney General's Office,district_attorney,"Knox County, TN",county,main,https://dag.knoxcountytn.gov/
++18652152243,(865) 215-2243,865-215-2243,Knox County Sheriff's Office,sheriff_non_emergency,"Knox County, TN",county,main,https://knoxsheriff.org/contact/
++13527424000,(352) 742-4000,352-742-4000,Lake County Sheriff's Office (FL),sheriff_non_emergency,"Lake County, FL",county,main,https://www.lcso.org/
++18473774000,(847) 377-4000,847-377-4000,Lake County Sheriff's Office,sheriff_non_emergency,"Lake County, IL",county,main,https://www.lakecountyil.gov/4920/Sheriff
++18473773000,(847) 377-3000,847-377-3000,Lake County State's Attorney's Office,state_attorney,"Lake County, IL",county,main,https://lcsao.org/
++12395331000,(239) 533-1000,239-533-1000,20th Judicial Circuit State Attorney's Office (Lee),state_attorney,"Lee County, FL",county,main,https://sao20.org/offices/
++12394771000,(239) 477-1000,239-477-1000,Lee County Sheriff's Office,sheriff_non_emergency,"Lee County, FL",county,main,https://www.sheriffleefl.org/contact-us-2/
++12139743512,(213) 974-3512,213-974-3512,Los Angeles County District Attorney's Office,district_attorney,"Los Angeles County, CA",county,main,https://da.lacounty.gov/contact/office-directory/district-attorneys-office-headquarters
++13232674800,(323) 267-4800,323-267-4800,Los Angeles County Sheriff's Department,sheriff_non_emergency,"Los Angeles County, CA",county,main,https://lasd.org/lasd-phone-directory/
++17037770242,(703) 777-0242,703-777-0242,Loudoun County Commonwealth's Attorney's Office,prosecuting_attorney,"Loudoun County, VA",county,main,https://www.loudoun.gov/100/Commonwealths-Attorney
++17037770407,(703) 777-0407,703-777-0407,Loudoun County Sheriff's Office,sheriff_non_emergency,"Loudoun County, VA",county,main,https://sheriff.loudoun.gov/
++15864695350,(586) 469-5350,586-469-5350,Macomb County Prosecutor's Office,prosecuting_attorney,"Macomb County, MI",county,main,https://www.macombgov.org/departments/prosecutors-office
++15864695151,(586) 469-5151,586-469-5151,Macomb County Sheriff's Office,sheriff_non_emergency,"Macomb County, MI",county,main,https://www.macombgov.org/departments/sheriffs-office
++19417473011,(941) 747-3011,941-747-3011,Manatee County Sheriff's Office,sheriff_non_emergency,"Manatee County, FL",county,main,https://www.manateesheriff.com/
++16025063411,(602) 506-3411,602-506-3411,Maricopa County Attorney's Office,prosecuting_attorney,"Maricopa County, AZ",county,main,https://maricopacountyattorney.org/directory.aspx
++16028761000,(602) 876-1000,602-876-1000,Maricopa County Sheriff's Office,sheriff_non_emergency,"Maricopa County, AZ",county,main,https://www.mcso.org/Home/ContactUs
++13173273522,(317) 327-3522,317-327-3522,Marion County Prosecutor's Office,prosecuting_attorney,"Marion County, IN",county,main,https://www.indy.gov/agency/marion-county-prosecutors-office
++13173271700,(317) 327-1700,317-327-1700,Marion County Sheriff's Office,sheriff_non_emergency,"Marion County, IN",county,main,https://www.indy.gov/agency/marion-county-sheriffs-office
++17046860700,(704) 686-0700,704-686-0700,Mecklenburg County District Attorney's Office,district_attorney,"Mecklenburg County, NC",county,main,https://charmeckda.com/citizen-resources/map-directions/
++17043362543,(704) 336-2543,704-336-2543,Mecklenburg County Sheriff's Office,sheriff_non_emergency,"Mecklenburg County, NC",county,main,https://www.mecksheriff.com/index.php/contact-us/
++16099896428,(609) 989-6428,609-989-6428,Mercer County Prosecutor's Office,prosecuting_attorney,"Mercer County, NJ",county,main,https://mercercountyprosecutor.com/contact/
++13057437433,(305) 743-7433,305-743-7433,Miami-Dade Sheriff's Office,sheriff_non_emergency,"Miami-Dade County, FL",county,main,https://www.miamidade.gov/global/police/contact-police.page
++13055470100,(305) 547-0100,305-547-0100,Miami-Dade State Attorney's Office (11th Judicial Circuit),state_attorney,"Miami-Dade County, FL",county,main,https://miamisao.com/
++17818978300,(781) 897-8300,781-897-8300,Middlesex County District Attorney's Office,district_attorney,"Middlesex County, MA",county,main,https://www.middlesexda.com/about-us/pages/office-locations
++17819602800,(781) 960-2800,781-960-2800,Middlesex County Sheriff's Office,sheriff_non_emergency,"Middlesex County, MA",county,main,https://www.middlesexsheriff.org/
++15857534500,(585) 753-4500,585-753-4500,Monroe County District Attorney's Office,district_attorney,"Monroe County, NY",county,main,https://www.monroecounty.gov/da
++15857534178,(585) 753-4178,585-753-4178,Monroe County Sheriff's Office,sheriff_non_emergency,"Monroe County, NY",county,main,https://monroecountysheriff-ny.gov/contact
++12407777000,(240) 777-7000,240-777-7000,Montgomery County Sheriff's Office (MD),sheriff_non_emergency,"Montgomery County, MD",county,main,https://www.montgomerycountymd.gov/sheriff/information/contact-us.html
++12407777300,(240) 777-7300,240-777-7300,Montgomery County State's Attorney's Office,state_attorney,"Montgomery County, MD",county,main,https://www.montgomerycountymd.gov/SAO/contact/index.html
++19365397800,(936) 539-7800,936-539-7800,Montgomery County District Attorney's Office (TX),district_attorney,"Montgomery County, TX",county,main,https://www.mctxdao.org/contact-us
++19367605800,(936) 760-5800,936-760-5800,Montgomery County Sheriff's Office (TX),sheriff_non_emergency,"Montgomery County, TX",county,main,https://www.mctxsheriff.org/
++15039883162,(503) 988-3162,503-988-3162,Multnomah County District Attorney's Office,district_attorney,"Multnomah County, OR",county,main,https://www.mcda.us/index.php/resources/contact
++15039884300,(503) 988-4300,503-988-4300,Multnomah County Sheriff's Office,sheriff_non_emergency,"Multnomah County, OR",county,main,https://www.mcso.us/contact-us
++15165713800,(516) 571-3800,516-571-3800,Nassau County District Attorney's Office,district_attorney,"Nassau County, NY",county,main,https://nassauda.org/192/Contact-Us
++15165712113,(516) 571-2113,516-571-2113,Nassau County Sheriff's Department (Mineola Unit),sheriff_non_emergency,"Nassau County, NY",county,main,https://www.nassaucountyny.gov/agencies/Sheriff/mineola_unit.html
++12123359000,(212) 335-9000,212-335-9000,New York County (Manhattan) District Attorney's Office,district_attorney,"New York County, NY",county,main,https://manhattanda.org/contact-us/
++17818304800,(781) 830-4800,781-830-4800,Norfolk County District Attorney's Office,district_attorney,"Norfolk County, MA",county,main,https://www.nfkda.com/
++17813293705,(781) 329-3705,781-329-3705,Norfolk County Sheriff's Office (MA),sheriff_non_emergency,"Norfolk County, MA",county,main,https://www.norfolksheriff.com/contact
++12488580656,(248) 858-0656,248-858-0656,Oakland County Prosecutor's Office,prosecuting_attorney,"Oakland County, MI",county,main,https://www.oakgov.com/government/prosecutor/contact
++12488585000,(248) 858-5000,248-858-5000,Oakland County Sheriff's Office,sheriff_non_emergency,"Oakland County, MI",county,main,https://www.oakgov.com/government/sheriff
++14057131600,(405) 713-1600,405-713-1600,Oklahoma County District Attorney's Office,district_attorney,"Oklahoma County, OK",county,main,https://www.oklahomacounty.org/elected-offices/district-attorney
++14057131000,(405) 713-1000,405-713-1000,Oklahoma County Sheriff's Office,sheriff_non_emergency,"Oklahoma County, OK",county,main,https://www.oklahomacounty.org/elected-offices/sheriff
++13154352470,(315) 435-2470,315-435-2470,Onondaga County District Attorney's Office,district_attorney,"Onondaga County, NY",county,main,https://da.ongov.net/contact/
++13154353044,(315) 435-3044,315-435-3044,Onondaga County Sheriff's Office,sheriff_non_emergency,"Onondaga County, NY",county,main,https://sheriff.ongov.net/contact/
++17148343600,(714) 834-3600,714-834-3600,Orange County District Attorney's Office,district_attorney,"Orange County, CA",county,main,https://orangecountyda.org/contact/
++17148345858,(714) 834-5858,714-834-5858,Orange County Sheriff's Department,sheriff_non_emergency,"Orange County, CA",county,main,https://www.ocsheriff.gov/contact-us
++14072547000,(407) 254-7000,407-254-7000,Orange County Sheriff's Office (FL),sheriff_non_emergency,"Orange County, FL",county,main,https://www.ocso.com/en-us/Contact/Agency-Directory
++14078362400,(407) 836-2400,407-836-2400,Orange County State Attorney's Office (9th Judicial Circuit),state_attorney,"Orange County, FL",county,main,https://sao9.net/about/contact/
++15048222414,(504) 822-2414,504-822-2414,Orleans Parish District Attorney's Office,district_attorney,"Orleans Parish, LA",county,main,https://orleansda.com/contact/
++15616883000,(561) 688-3000,561-688-3000,Palm Beach County Sheriff's Office,sheriff_non_emergency,"Palm Beach County, FL",county,main,https://www.pbso.org/contact-us
++15613557100,(561) 355-7100,561-355-7100,Palm Beach County State Attorney's Office (15th Judicial Circuit),state_attorney,"Palm Beach County, FL",county,main,https://sa15.org/main-office/
++17278475878,(727) 847-5878,727-847-5878,Pasco County Sheriff's Office,sheriff_non_emergency,"Pasco County, FL",county,main,https://pascosheriff.com/contact/
++12156868703,(215) 686-8703,215-686-8703,Philadelphia District Attorney's Office,district_attorney,"Philadelphia County, PA",county,main,https://phillyda.org/contact/
++12156863560,(215) 686-3560,215-686-3560,Philadelphia Sheriff's Office,sheriff_non_emergency,"Philadelphia County, PA",county,main,https://phillysheriff.com/contact-us-mobile/
++12537987400,(253) 798-7400,253-798-7400,Pierce County Prosecuting Attorney's Office,prosecuting_attorney,"Pierce County, WA",county,main,https://www.piercecountywa.gov/118/Prosecuting-Attorney
++12537987530,(253) 798-7530,253-798-7530,Pierce County Sheriff's Department,sheriff_non_emergency,"Pierce County, WA",county,main,https://www.piercecountywa.gov/121/Sheriff
++15207245600,(520) 724-5600,520-724-5600,Pima County Attorney's Office,prosecuting_attorney,"Pima County, AZ",county,main,https://www.pcao.pima.gov/
++15203514600,(520) 351-4600,520-351-4600,Pima County Sheriff's Department,sheriff_non_emergency,"Pima County, AZ",county,main,https://www.pimasheriff.org/about-us/contact-us
++17274646221,(727) 464-6221,727-464-6221,6th Judicial Circuit State Attorney's Office (Pinellas/Pasco),state_attorney,"Pinellas County, FL",county,main,https://www.flsa6.gov/contact/index
++17275826200,(727) 582-6200,727-582-6200,Pinellas County Sheriff's Office,sheriff_non_emergency,"Pinellas County, FL",county,main,https://www.pinellassheriff.gov/ContactUs
++18635344800,(863) 534-4800,863-534-4800,10th Judicial Circuit State Attorney's Office (Polk),state_attorney,"Polk County, FL",county,main,https://www.sao10.com/contact-us/
++18632986200,(863) 298-6200,863-298-6200,Polk County Sheriff's Office,sheriff_non_emergency,"Polk County, FL",county,main,https://polksheriff.org/contact-us
++13017808600,(301) 780-8600,301-780-8600,Prince George's County Sheriff's Office,sheriff_non_emergency,"Prince George's County, MD",county,main,https://www.pgsheriff.com/contactUs
++13019523500,(301) 952-3500,301-952-3500,Prince George's County State's Attorney's Office,state_attorney,"Prince George's County, MD",county,main,https://www.pgsao.org/contact
++17037926050,(703) 792-6050,703-792-6050,Prince William County Commonwealth's Attorney's Office,prosecuting_attorney,"Prince William County, VA",county,main,https://www.pwcva.gov/department/commonwealth-attorney
++17037926070,(703) 792-6070,703-792-6070,Prince William County Sheriff's Office,sheriff_non_emergency,"Prince William County, VA",county,main,https://www.pwcva.gov/department/sheriffs-office
++17182866000,(718) 286-6000,718-286-6000,Queens County District Attorney's Office,district_attorney,"Queens County, NY",county,main,https://queensda.org/contact-us/
++19519555400,(951) 955-5400,951-955-5400,Riverside County District Attorney's Office,district_attorney,"Riverside County, CA",county,main,https://rivcoda.org/office-locations
++19519552400,(951) 955-2400,951-955-2400,Riverside County Sheriff's Department,sheriff_non_emergency,"Riverside County, CA",county,main,https://www.riversidesheriff.org/
++19168746218,(916) 874-6218,916-874-6218,Sacramento County District Attorney's Office,district_attorney,"Sacramento County, CA",county,main,https://www.sacda.org/contact-us/
++19168745115,(916) 874-5115,916-874-5115,Sacramento County Sheriff's Office,sheriff_non_emergency,"Sacramento County, CA",county,main,https://www.sacsheriff.com/
++13854687600,(385) 468-7600,385-468-7600,Salt Lake County District Attorney's Office,district_attorney,"Salt Lake County, UT",county,main,https://www.saltlakecounty.gov/district-attorney/contact/
++13854689898,(385) 468-9898,385-468-9898,Salt Lake County Sheriff's Office,sheriff_non_emergency,"Salt Lake County, UT",county,main,https://www.saltlakecounty.gov/sheriff/contact/
++19093823800,(909) 382-3800,909-382-3800,San Bernardino County District Attorney's Office,district_attorney,"San Bernardino County, CA",county,main,https://sbcountyda.org/contact-san-bernardino/
++16195314040,(619) 531-4040,619-531-4040,San Diego County District Attorney's Office,district_attorney,"San Diego County, CA",county,main,https://www.sdcda.org/office/contact/
++18588683200,(858) 868-3200,858-868-3200,San Diego County Sheriff's Department,sheriff_non_emergency,"San Diego County, CA",county,main,https://www.sdsheriff.gov/i-want-to/contact-us
++16286524000,(628) 652-4000,628-652-4000,San Francisco District Attorney's Office,district_attorney,"San Francisco County, CA",county,main,https://sfdistrictattorney.org/contact/
++14155547225,(415) 554-7225,415-554-7225,San Francisco Sheriff's Department,sheriff_non_emergency,"San Francisco County, CA",county,main,https://sfsheriff.com/contact-us-1
++16503634636,(650) 363-4636,650-363-4636,San Mateo County District Attorney's Office,district_attorney,"San Mateo County, CA",county,main,https://www.smcgov.org/da/contact-us
++16505991664,(650) 599-1664,650-599-1664,San Mateo County Sheriff's Office,sheriff_non_emergency,"San Mateo County, CA",county,main,https://www.smcsheriff.com/contact-us
++14082997500,(408) 299-7500,408-299-7500,Santa Clara County District Attorney's Office,district_attorney,"Santa Clara County, CA",county,main,https://da.santaclaracounty.gov/faq/attorney-directory
++14088084400,(408) 808-4400,408-808-4400,Santa Clara County Sheriff's Office,sheriff_non_emergency,"Santa Clara County, CA",county,main,https://sheriff.santaclaracounty.gov/county-santa-clara-contacts-0
++19418615800,(941) 861-5800,941-861-5800,Sarasota County Sheriff's Office,sheriff_non_emergency,"Sarasota County, FL",county,main,https://www.sarasotasheriff.org/
++14076656650,(407) 665-6650,407-665-6650,Seminole County Sheriff's Office,sheriff_non_emergency,"Seminole County, FL",county,main,https://www.seminolesheriff.org/
++19012221300,(901) 222-1300,901-222-1300,Shelby County District Attorney General's Office,district_attorney,"Shelby County, TN",county,main,https://www.scdag.com/general-info
++19012225500,(901) 222-5500,901-222-5500,Shelby County Sheriff's Office,sheriff_non_emergency,"Shelby County, TN",county,main,https://www.shelby-sheriff.org/contact
++14253883333,(425) 388-3333,425-388-3333,Snohomish County Prosecuting Attorney's Office,prosecuting_attorney,"Snohomish County, WA",county,main,https://snohomishcountywa.gov/202/Prosecutor
++14253883393,(425) 388-3393,425-388-3393,Snohomish County Sheriff's Office,sheriff_non_emergency,"Snohomish County, WA",county,main,https://www.snohomishcountywa.gov/210/Sheriffs-Office
++13146152600,(314) 615-2600,314-615-2600,St. Louis County Prosecuting Attorney's Office,prosecuting_attorney,"St. Louis County, MO",county,main,https://stlcopa.stlouiscountymo.gov/
++13146154724,(314) 615-4724,314-615-4724,St. Louis County Sheriff's Office,sheriff_non_emergency,"St. Louis County, MO",county,main,https://stlcountycourts.com/services/sheriff/
++16318523185,(631) 852-3185,631-852-3185,Suffolk County District Attorney's Office,district_attorney,"Suffolk County, NY",county,main,https://suffolkcountyny.gov/da/Contact-Us/Visit-Us
++18178841400,(817) 884-1400,817-884-1400,Tarrant County Criminal District Attorney's Office,district_attorney,"Tarrant County, TX",county,main,https://www.tarrantcountytx.gov/en/criminal-district-attorney/about-us/contact-us.html
++18178843099,(817) 884-3099,817-884-3099,Tarrant County Sheriff's Office,sheriff_non_emergency,"Tarrant County, TX",county,main,https://www.tarrantcountytx.gov/en/sheriff/sheriff-s-administration.html
++15128549400,(512) 854-9400,512-854-9400,Travis County District Attorney's Office,district_attorney,"Travis County, TX",county,main,https://districtattorney.traviscountytx.gov/contact/
++15128549770,(512) 854-9770,512-854-9770,Travis County Sheriff's Office,sheriff_non_emergency,"Travis County, TX",county,main,https://www.tcsheriff.org/about/about-tcso/contact-us
++19185964805,(918) 596-4805,918-596-4805,Tulsa County District Attorney's Office,district_attorney,"Tulsa County, OK",county,main,https://www2.tulsacounty.org/districtattorney/about/contact-us/
++19185965701,(918) 596-5701,918-596-5701,Tulsa County Sheriff's Office,sheriff_non_emergency,"Tulsa County, OK",county,main,https://tcso.org/contact/
++18056542500,(805) 654-2500,805-654-2500,Ventura County District Attorney's Office,district_attorney,"Ventura County, CA",county,main,https://da.venturacounty.gov/contact-us/
++18056542380,(805) 654-2380,805-654-2380,Ventura County Sheriff's Office,sheriff_non_emergency,"Ventura County, CA",county,main,https://sheriff.venturacounty.gov/contact/
++13863134300,(386) 313-4300,386-313-4300,7th Judicial Circuit State Attorney's Office (Volusia),state_attorney,"Volusia County, FL",county,main,https://circuit7.org/contact/
++13862481777,(386) 248-1777,386-248-1777,Volusia County Sheriff's Office,sheriff_non_emergency,"Volusia County, FL",county,main,https://www.volusiasheriff.gov/contact/
++19197925000,(919) 792-5000,919-792-5000,Wake County District Attorney's Office,district_attorney,"Wake County, NC",county,main,https://www.nccourts.gov/locations/wake-county/contact-directory
++19198566900,(919) 856-6900,919-856-6900,Wake County Sheriff's Office,sheriff_non_emergency,"Wake County, NC",county,main,https://www.wake.gov/departments-government/sheriffs-office/contact-wake-county-sheriffs-office
++13132245777,(313) 224-5777,313-224-5777,Wayne County Prosecutor's Office,prosecuting_attorney,"Wayne County, MI",county,main,https://www.waynecountymi.gov/Government/Elected-Officials/Prosecutor/Contact-Us
++13138330864,(313) 833-0864,313-833-0864,Wayne County Sheriff's Office,sheriff_non_emergency,"Wayne County, MI",county,main,https://www.sheriffconnect.com/contact-us/
++19148647700,(914) 864-7700,914-864-7700,Westchester County Department of Public Safety,sheriff_non_emergency,"Westchester County, NY",county,main,https://publicsafety.westchestercountyny.gov/about-us/contact-us
++19149953414,(914) 995-3414,914-995-3414,Westchester County District Attorney's Office,district_attorney,"Westchester County, NY",county,main,https://www.westchesterda.net/contact-us
++18157278895,(815) 727-8895,815-727-8895,Will County Sheriff's Office,sheriff_non_emergency,"Will County, IL",county,main,https://www.willcosheriff.org/contact-and-locations
++18157278453,(815) 727-8453,815-727-8453,Will County State's Attorney's Office,state_attorney,"Will County, IL",county,main,https://willcountysao.com/talk-to-a-prosecutor/
++15129431234,(512) 943-1234,512-943-1234,Williamson County District Attorney's Office,district_attorney,"Williamson County, TX",county,main,https://www.wilcotx.gov/256/District-Attorney
++15129431300,(512) 943-1300,512-943-1300,Williamson County Sheriff's Office,sheriff_non_emergency,"Williamson County, TX",county,main,https://www.wilcotx.gov/637/Sheriffs-Office
++15087558601,(508) 755-8601,508-755-8601,Worcester County District Attorney's Office,district_attorney,"Worcester County, MA",county,main,https://worcesterda.com/contact/
++15088541800,(508) 854-1800,508-854-1800,Worcester County Sheriff's Office,sheriff_non_emergency,"Worcester County, MA",county,main,https://worcestercountysheriff.com/contact/
 +18008003855,(800) 800-3855,800-800-3855,"ATF (Bureau of Alcohol, Tobacco, Firearms and Explosives) main",agency,United States,federal,main,https://www.atf.gov/contact
 +12026488500,(202) 648-8500,202-648-8500,ATF Headquarters Public Affairs,agency,United States,federal,public_affairs,https://www.atf.gov/contact/locations/contact-atf-headquarters
 +12022281793,(202) 228-1793,202-228-1793,Architect of the Capitol,agency,United States,federal,main,https://www.aoc.gov/contact
@@ -196,6 +397,116 @@ phone_number_e164,phone_number_formatted,phone_number_dashed,entity_name,entity_
 +12024793000,(202) 479-3000,202-479-3000,Supreme Court of the United States,court,United States,federal,main,https://www.supremecourt.gov/contact/contactus.aspx
 +18662898668,(866) 289-8668,866-289-8668,TSA Contact Center,agency,United States,federal,main,https://www.tsa.gov/contact-center
 +18004109417,(800) 410-9417,800-410-9417,Treasury OFAC Compliance Hotline,agency,United States,federal,compliance_hotline,https://ofac.treasury.gov/contact-ofac
++12138942400,(213) 894-2400,213-894-2400,U.S. Attorney's Office - Central District of California (Los Angeles),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-cdca/contact
++19072715075,(907) 271-5075,907-271-5075,U.S. Attorney's Office - District of Alaska (Anchorage),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ak/contact-us
++16025147500,(602) 514-7500,602-514-7500,U.S. Attorney's Office - District of Arizona (Phoenix),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-az
++13034540100,(303) 454-0100,303-454-0100,U.S. Attorney's Office - District of Colorado (Denver),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-co/contact-us
++12022527566,(202) 252-7566,202-252-7566,U.S. Attorney's Office - District of Columbia,us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-dc/contact
++12038213700,(203) 821-3700,203-821-3700,U.S. Attorney's Office - District of Connecticut (New Haven),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ct/contact
++13025736277,(302) 573-6277,302-573-6277,U.S. Attorney's Office - District of Delaware (Wilmington),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-de/contact-us
++18085412850,(808) 541-2850,808-541-2850,U.S. Attorney's Office - District of Hawaii (Honolulu),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-hi/contact-us
++19135516730,(913) 551-6730,913-551-6730,U.S. Attorney's Office - District of Kansas (Kansas City),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ks/contact-us
++12077803257,(207) 780-3257,207-780-3257,U.S. Attorney's Office - District of Maine (Portland),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-me/contact-us
++14102094800,(410) 209-4800,410-209-4800,U.S. Attorney's Office - District of Maryland (Baltimore),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-md/contact-us
++16177483100,(617) 748-3100,617-748-3100,U.S. Attorney's Office - District of Massachusetts (Boston),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ma/contact-us
++16126645600,(612) 664-5600,612-664-5600,U.S. Attorney's Office - District of Minnesota (Minneapolis),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mn/contact-us
++14066576101,(406) 657-6101,406-657-6101,U.S. Attorney's Office - District of Montana (Billings),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mt/contact-us
++14026613700,(402) 661-3700,402-661-3700,U.S. Attorney's Office - District of Nebraska (Omaha),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ne/contact-us
++17023886336,(702) 388-6336,702-388-6336,U.S. Attorney's Office - District of Nevada (Las Vegas),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-nv
++16032251552,(603) 225-1552,603-225-1552,U.S. Attorney's Office - District of New Hampshire (Concord),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-nh/contact
++19736452700,(973) 645-2700,973-645-2700,U.S. Attorney's Office - District of New Jersey (Newark),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-nj/contact-us
++15053467274,(505) 346-7274,505-346-7274,U.S. Attorney's Office - District of New Mexico (Albuquerque),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-nm
++17012977400,(701) 297-7400,701-297-7400,U.S. Attorney's Office - District of North Dakota (Fargo),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-nd/contact
++17877665656,(787) 766-5656,787-766-5656,U.S. Attorney's Office - District of Puerto Rico (San Juan),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-pr/contact-us
++14017095000,(401) 709-5000,401-709-5000,U.S. Attorney's Office - District of Rhode Island (Providence),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ri/contact-us-0
++18039293000,(803) 929-3000,803-929-3000,U.S. Attorney's Office - District of South Carolina (Columbia),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sc
++16053304400,(605) 330-4400,605-330-4400,U.S. Attorney's Office - District of South Dakota (Sioux Falls),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sd/contact-us
++18015245682,(801) 524-5682,801-524-5682,U.S. Attorney's Office - District of Utah (Salt Lake City),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ut/contact-us
++18026518246,(802) 651-8246,802-651-8246,U.S. Attorney's Office - District of Vermont (Burlington),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-vt/contact-us
++13407745757,(340) 774-5757,340-774-5757,U.S. Attorney's Office - District of the Virgin Islands (St. Thomas),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-vi/contact-us
++16714727332,(671) 472-7332,671-472-7332,U.S. Attorney's Office - Districts of Guam and the Northern Mariana Islands (Hagatna),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-gu/contact-us
++15013402600,(501) 340-2600,501-340-2600,U.S. Attorney's Office - Eastern District of Arkansas (Little Rock),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edar/contact-us
++19165542700,(916) 554-2700,916-554-2700,U.S. Attorney's Office - Eastern District of California (Sacramento),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edca/contact-us
++18592332661,(859) 233-2661,859-233-2661,U.S. Attorney's Office - Eastern District of Kentucky (Lexington),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edky/contact-us
++15046803000,(504) 680-3000,504-680-3000,U.S. Attorney's Office - Eastern District of Louisiana (New Orleans),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edla
++13132269100,(313) 226-9100,313-226-9100,U.S. Attorney's Office - Eastern District of Michigan (Detroit),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edmi
++13145392200,(314) 539-2200,314-539-2200,U.S. Attorney's Office - Eastern District of Missouri (St. Louis),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edmo/contact-us
++17182547000,(718) 254-7000,718-254-7000,U.S. Attorney's Office - Eastern District of New York (Brooklyn),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edny/contact-us
++19198564530,(919) 856-4530,919-856-4530,U.S. Attorney's Office - Eastern District of North Carolina (Raleigh),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ednc
++19186845100,(918) 684-5100,918-684-5100,U.S. Attorney's Office - Eastern District of Oklahoma (Muskogee),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edok/contact-us
++18655454167,(865) 545-4167,865-545-4167,U.S. Attorney's Office - Eastern District of Tennessee (Knoxville),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edtn
++17032993700,(703) 299-3700,703-299-3700,U.S. Attorney's Office - Eastern District of Virginia (Alexandria),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edva/contact-us
++15093532767,(509) 353-2767,509-353-2767,U.S. Attorney's Office - Eastern District of Washington (Spokane),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edwa
++14142971700,(414) 297-1700,414-297-1700,U.S. Attorney's Office - Eastern District of Wisconsin (Milwaukee),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-edwi/contact
++18132746000,(813) 274-6000,813-274-6000,U.S. Attorney's Office - Middle District of Florida (Tampa),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mdfl/contact-us
++14787523511,(478) 752-3511,478-752-3511,U.S. Attorney's Office - Middle District of Georgia (Macon),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mdga
++12253890443,(225) 389-0443,225-389-0443,U.S. Attorney's Office - Middle District of Louisiana (Baton Rouge),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mdla/contact-us
++13363335351,(336) 333-5351,336-333-5351,U.S. Attorney's Office - Middle District of North Carolina (Greensboro),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mdnc
++17172214482,(717) 221-4482,717-221-4482,U.S. Attorney's Office - Middle District of Pennsylvania (Harrisburg),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-mdpa/contact-us
++12052442001,(205) 244-2001,205-244-2001,U.S. Attorney's Office - Northern District of Alabama (Birmingham),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndal/contact-us
++14154367200,(415) 436-7200,415-436-7200,U.S. Attorney's Office - Northern District of California (San Francisco),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndca/contact-us
++18509428430,(850) 942-8430,850-942-8430,U.S. Attorney's Office - Northern District of Florida (Tallahassee),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndfl/contact-us
++14045816954,(404) 581-6954,404-581-6954,U.S. Attorney's Office - Northern District of Georgia (Atlanta),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndga
++13123535300,(312) 353-5300,312-353-5300,U.S. Attorney's Office - Northern District of Illinois (Chicago),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndil/contact-us
++12199375500,(219) 937-5500,219-937-5500,U.S. Attorney's Office - Northern District of Indiana (Hammond),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndin
++13193636333,(319) 363-6333,319-363-6333,U.S. Attorney's Office - Northern District of Iowa (Cedar Rapids),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndia
++16622343351,(662) 234-3351,662-234-3351,U.S. Attorney's Office - Northern District of Mississippi (Oxford),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndms/contact-us
++15184310247,(518) 431-0247,518-431-0247,U.S. Attorney's Office - Northern District of New York (Albany),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndny/contact-us
++12166223600,(216) 622-3600,216-622-3600,U.S. Attorney's Office - Northern District of Ohio (Cleveland),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndoh/contact
++19183822700,(918) 382-2700,918-382-2700,U.S. Attorney's Office - Northern District of Oklahoma (Tulsa),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndok/contact-us
++12146598600,(214) 659-8600,214-659-8600,U.S. Attorney's Office - Northern District of Texas (Dallas),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndtx/contact-us
++13042340100,(304) 234-0100,304-234-0100,U.S. Attorney's Office - Northern District of West Virginia (Wheeling),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-ndwv/contact-us
++12514415845,(251) 441-5845,251-441-5845,U.S. Attorney's Office - Southern District of Alabama (Mobile),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdal/contact
++16195575610,(619) 557-5610,619-557-5610,U.S. Attorney's Office - Southern District of California (San Diego),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdca/contact-us
++13059619000,(305) 961-9000,305-961-9000,U.S. Attorney's Office - Southern District of Florida (Miami),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdfl/contact-us
++19126524422,(912) 652-4422,912-652-4422,U.S. Attorney's Office - Southern District of Georgia (Savannah),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdga
++16186283700,(618) 628-3700,618-628-3700,U.S. Attorney's Office - Southern District of Illinois (Fairview Heights),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdil
++13172266333,(317) 226-6333,317-226-6333,U.S. Attorney's Office - Southern District of Indiana (Indianapolis),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdin/contact-us
++15154739300,(515) 473-9300,515-473-9300,U.S. Attorney's Office - Southern District of Iowa (Des Moines),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdia/contact-us
++16019654480,(601) 965-4480,601-965-4480,U.S. Attorney's Office - Southern District of Mississippi (Jackson),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdms/contact-us
++12126372200,(212) 637-2200,212-637-2200,U.S. Attorney's Office - Southern District of New York (Manhattan),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdny/contact-us
++16144695715,(614) 469-5715,614-469-5715,U.S. Attorney's Office - Southern District of Ohio (Columbus),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdoh
++17135679000,(713) 567-9000,713-567-9000,U.S. Attorney's Office - Southern District of Texas (Houston),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdtx/contact-us
++13043452200,(304) 345-2200,304-345-2200,U.S. Attorney's Office - Southern District of West Virginia (Charleston),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-sdwv/contact-us
++14797835125,(479) 783-5125,479-783-5125,U.S. Attorney's Office - Western District of Arkansas (Fort Smith),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdar/contact-us
++15025825911,(502) 582-5911,502-582-5911,U.S. Attorney's Office - Western District of Kentucky (Louisville),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdky/contact-us
++13186763600,(318) 676-3600,318-676-3600,U.S. Attorney's Office - Western District of Louisiana (Shreveport),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdla/contact-us
++16164562404,(616) 456-2404,616-456-2404,U.S. Attorney's Office - Western District of Michigan (Grand Rapids),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdmi
++18164263122,(816) 426-3122,816-426-3122,U.S. Attorney's Office - Western District of Missouri (Kansas City),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdmo/contact-us
++17168435700,(716) 843-5700,716-843-5700,U.S. Attorney's Office - Western District of New York (Buffalo),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdny/contact-us
++17043446222,(704) 344-6222,704-344-6222,U.S. Attorney's Office - Western District of North Carolina (Charlotte),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdnc
++19015444231,(901) 544-4231,901-544-4231,U.S. Attorney's Office - Western District of Tennessee (Memphis),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdtn/contact-us
++12103847100,(210) 384-7100,210-384-7100,U.S. Attorney's Office - Western District of Texas (San Antonio),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdtx/contact-us
++15408572250,(540) 857-2250,540-857-2250,U.S. Attorney's Office - Western District of Virginia (Roanoke),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdva/contact-us
++12065537970,(206) 553-7970,206-553-7970,U.S. Attorney's Office - Western District of Washington (Seattle),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdwa/contact-us
++16082645158,(608) 264-5158,608-264-5158,U.S. Attorney's Office - Western District of Wisconsin (Madison),us_attorneys_office,United States,federal,main_office,https://www.justice.gov/usao-wdwi/contact-information
++12138943118,(213) 894-3118,213-894-3118,U.S. Bankruptcy Court for the Central District of California - Los Angeles,federal_bankruptcy_court,United States,federal,clerks_office,https://www.cacb.uscourts.gov/court-locations/los-angeles
++15202027500,(520) 202-7500,520-202-7500,U.S. Bankruptcy Court for the District of Arizona - Tucson,federal_bankruptcy_court,United States,federal,clerks_office,https://www.azb.uscourts.gov/content/tucson
++18602403675,(860) 240-3675,860-240-3675,U.S. Bankruptcy Court for the District of Connecticut - Hartford,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ctb.uscourts.gov/court-info
++12037732009,(203) 773-2009,203-773-2009,U.S. Bankruptcy Court for the District of Connecticut - New Haven,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ctb.uscourts.gov/content/new-haven
++13022522900,(302) 252-2900,302-252-2900,U.S. Bankruptcy Court for the District of Delaware - Wilmington,federal_bankruptcy_court,United States,federal,clerks_office,https://www.deb.uscourts.gov/contact-information
++14109622688,(410) 962-2688,410-962-2688,U.S. Bankruptcy Court for the District of Maryland - Baltimore,federal_bankruptcy_court,United States,federal,clerks_office,https://www.mdb.uscourts.gov/general-info/locations
++16177485300,(617) 748-5300,617-748-5300,U.S. Bankruptcy Court for the District of Massachusetts - Boston,federal_bankruptcy_court,United States,federal,clerks_office,https://www.mab.uscourts.gov/contact-information
++17025277157,(702) 527-7157,702-527-7157,U.S. Bankruptcy Court for the District of Nevada - Las Vegas,federal_bankruptcy_court,United States,federal,clerks_office,https://www.nvb.uscourts.gov/about-the-court/contact-information/
++17753262100,(775) 326-2100,775-326-2100,U.S. Bankruptcy Court for the District of Nevada - Reno,federal_bankruptcy_court,United States,federal,clerks_office,https://www.nvb.uscourts.gov/about-the-court/contact-information/
++13132340065,(313) 234-0065,313-234-0065,U.S. Bankruptcy Court for the Eastern District of Michigan - Detroit,federal_bankruptcy_court,United States,federal,clerks_office,https://www.mieb.uscourts.gov/court-locations
++13473941700,(347) 394-1700,347-394-1700,U.S. Bankruptcy Court for the Eastern District of New York - Brooklyn,federal_bankruptcy_court,United States,federal,clerks_office,https://www.nyeb.uscourts.gov/contact-us
++12154082800,(215) 408-2800,215-408-2800,U.S. Bankruptcy Court for the Eastern District of Pennsylvania - Philadelphia,federal_bankruptcy_court,United States,federal,clerks_office,https://www.paeb.uscourts.gov/court-contact-information
++19725091240,(972) 509-1240,972-509-1240,U.S. Bankruptcy Court for the Eastern District of Texas - Plano,federal_bankruptcy_court,United States,federal,clerks_office,https://www.txeb.uscourts.gov/content/plano
++19035903200,(903) 590-3200,903-590-3200,U.S. Bankruptcy Court for the Eastern District of Texas - Tyler,federal_bankruptcy_court,United States,federal,clerks_office,https://www.txeb.uscourts.gov/court-info/court-locations
++17032581200,(703) 258-1200,703-258-1200,U.S. Bankruptcy Court for the Eastern District of Virginia - Alexandria,federal_bankruptcy_court,United States,federal,clerks_office,https://www.vaeb.uscourts.gov/telephone-listings
++17572227500,(757) 222-7500,757-222-7500,U.S. Bankruptcy Court for the Eastern District of Virginia - Norfolk,federal_bankruptcy_court,United States,federal,clerks_office,https://www.vaeb.uscourts.gov/content/norfolk
++18049162400,(804) 916-2400,804-916-2400,U.S. Bankruptcy Court for the Eastern District of Virginia - Richmond,federal_bankruptcy_court,United States,federal,clerks_office,https://www.vaeb.uscourts.gov/content/richmond
++18888217606,(888) 821-7606,888-821-7606,U.S. Bankruptcy Court for the Northern District of California,federal_bankruptcy_court,United States,federal,clerks_office,https://www.canb.uscourts.gov/court-info/court-locations/office-clerk
++14042151000,(404) 215-1000,404-215-1000,U.S. Bankruptcy Court for the Northern District of Georgia - Atlanta,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ganb.uscourts.gov/cmecf-help-desk-information
++13124085000,(312) 408-5000,312-408-5000,U.S. Bankruptcy Court for the Northern District of Illinois - Chicago,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ilnb.uscourts.gov/
++12166154300,(216) 615-4300,216-615-4300,U.S. Bankruptcy Court for the Northern District of Ohio - Cleveland,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ohnb.uscourts.gov/court-info/court-locations
++12147532000,(214) 753-2000,214-753-2000,U.S. Bankruptcy Court for the Northern District of Texas - Dallas,federal_bankruptcy_court,United States,federal,clerks_office,https://www.txnb.uscourts.gov/content/dallas
++13057141800,(305) 714-1800,305-714-1800,U.S. Bankruptcy Court for the Southern District of Florida - Miami,federal_bankruptcy_court,United States,federal,clerks_office,https://www.flsb.uscourts.gov/
++12126682870,(212) 668-2870,212-668-2870,U.S. Bankruptcy Court for the Southern District of New York - Manhattan,federal_bankruptcy_court,United States,federal,clerks_office,https://www.nysb.uscourts.gov/content/manhattan
++19144677250,(914) 467-7250,914-467-7250,U.S. Bankruptcy Court for the Southern District of New York - White Plains,federal_bankruptcy_court,United States,federal,clerks_office,https://www.nysb.uscourts.gov/content/white-plains
++15136842572,(513) 684-2572,513-684-2572,U.S. Bankruptcy Court for the Southern District of Ohio - Cincinnati,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ohsb.uscourts.gov/content/cincinnati
++16144696638,(614) 469-6638,614-469-6638,U.S. Bankruptcy Court for the Southern District of Ohio - Columbus,federal_bankruptcy_court,United States,federal,clerks_office,https://www.ohsb.uscourts.gov/content/columbus
 +12022250911,(202) 225-0911,202-225-0911,U.S. Capitol Police - House side,law_enforcement,United States,federal,main,https://www.uscp.gov/contact
 +12022241677,(202) 224-1677,202-224-1677,U.S. Capitol Police - Public Information Office,law_enforcement,United States,federal,PIO,https://www.uscp.gov/contact
 +12022240911,(202) 224-0911,202-224-0911,U.S. Capitol Police - Senate side,law_enforcement,United States,federal,main,https://www.uscp.gov/contact
@@ -231,6 +542,130 @@ phone_number_e164,phone_number_formatted,phone_number_dashed,entity_name,entity_
 +12023664000,(202) 366-4000,202-366-4000,U.S. Department of Transportation (DOT),department,United States,federal,main,https://www.transportation.gov/
 +12022083100,(202) 208-3100,202-208-3100,U.S. Department of the Interior,department,United States,federal,main,https://www.doi.gov/contact-us
 +12026222000,(202) 622-2000,202-622-2000,U.S. Department of the Treasury,department,United States,federal,main,https://home.treasury.gov/utility/contact
++12138941565,(213) 894-1565,213-894-1565,U.S. District Court for the Central District of California - Los Angeles,federal_district_court,United States,federal,clerks_office,https://www.cacd.uscourts.gov/contact
++19513284450,(951) 328-4450,951-328-4450,U.S. District Court for the Central District of California - Riverside,federal_district_court,United States,federal,clerks_office,https://www.cacd.uscourts.gov/contact
++17143384750,(714) 338-4750,714-338-4750,U.S. District Court for the Central District of California - Santa Ana,federal_district_court,United States,federal,clerks_office,https://www.cacd.uscourts.gov/contact
++13096717117,(309) 671-7117,309-671-7117,U.S. District Court for the Central District of Illinois - Peoria,federal_district_court,United States,federal,clerks_office,https://www.ilcd.uscourts.gov/content/peoria
++12174924020,(217) 492-4020,217-492-4020,U.S. District Court for the Central District of Illinois - Springfield,federal_district_court,United States,federal,clerks_office,https://www.ilcd.uscourts.gov/court-info/court-locations/springfield
++19076776100,(907) 677-6100,907-677-6100,U.S. District Court for the District of Alaska - Anchorage,federal_district_court,United States,federal,clerks_office,https://www.akd.uscourts.gov/contacts
++16023227200,(602) 322-7200,602-322-7200,U.S. District Court for the District of Arizona - Phoenix,federal_district_court,United States,federal,clerks_office,https://www.azd.uscourts.gov/clerk/phone-directory/phoenix
++15202054200,(520) 205-4200,520-205-4200,U.S. District Court for the District of Arizona - Tucson,federal_district_court,United States,federal,clerks_office,https://www.azd.uscourts.gov/clerk/phone-directory/tucson
++13038443433,(303) 844-3433,303-844-3433,U.S. District Court for the District of Colorado - Denver,federal_district_court,United States,federal,clerks_office,http://www.cod.uscourts.gov/AbouttheDistrict/AlfredAArrajCourthouse.aspx
++12023543000,(202) 354-3000,202-354-3000,U.S. District Court for the District of Columbia,federal_district_court,United States,federal,clerks_office,https://www.dcd.uscourts.gov/contact
++18602403200,(860) 240-3200,860-240-3200,U.S. District Court for the District of Connecticut - Hartford,federal_district_court,United States,federal,clerks_office,https://www.ctd.uscourts.gov/contact
++12037732334,(203) 773-2334,203-773-2334,U.S. District Court for the District of Connecticut - New Haven,federal_district_court,United States,federal,clerks_office,https://www.ctd.uscourts.gov/contact
++13025736170,(302) 573-6170,302-573-6170,U.S. District Court for the District of Delaware - Wilmington,federal_district_court,United States,federal,clerks_office,https://www.ded.uscourts.gov/hours-and-directions
++16719694500,(671) 969-4500,671-969-4500,U.S. District Court for the District of Guam - Hagatna,federal_district_court,United States,federal,clerks_office,https://www.gud.uscourts.gov/public/contact-us
++18085411300,(808) 541-1300,808-541-1300,U.S. District Court for the District of Hawaii - Honolulu,federal_district_court,United States,federal,clerks_office,https://www.hid.uscourts.gov/contact-us/clerks-office
++12083341361,(208) 334-1361,208-334-1361,U.S. District Court for the District of Idaho - Boise,federal_district_court,United States,federal,clerks_office,https://www.id.uscourts.gov/
++12084784123,(208) 478-4123,208-478-4123,U.S. District Court for the District of Idaho - Pocatello,federal_district_court,United States,federal,clerks_office,https://www.id.uscourts.gov/clerks/contact/Pocatello_Office.cfm
++19137352200,(913) 735-2200,913-735-2200,U.S. District Court for the District of Kansas - Kansas City,federal_district_court,United States,federal,clerks_office,https://www.ksd.uscourts.gov/kansascity
++12079450575,(207) 945-0575,207-945-0575,U.S. District Court for the District of Maine - Bangor,federal_district_court,United States,federal,clerks_office,https://www.med.uscourts.gov/content/bangor
++12077803356,(207) 780-3356,207-780-3356,U.S. District Court for the District of Maine - Portland,federal_district_court,United States,federal,clerks_office,https://www.med.uscourts.gov/clerk-offices
++14109622600,(410) 962-2600,410-962-2600,U.S. District Court for the District of Maryland - Baltimore,federal_district_court,United States,federal,clerks_office,https://www.mdd.uscourts.gov/content/contact
++13013440660,(301) 344-0660,301-344-0660,U.S. District Court for the District of Maryland - Greenbelt,federal_district_court,United States,federal,clerks_office,https://www.mdd.uscourts.gov/content/greenbelt
++16177489152,(617) 748-9152,617-748-9152,U.S. District Court for the District of Massachusetts - Boston,federal_district_court,United States,federal,clerks_office,https://www.mad.uscourts.gov/divisions.htm
++16126645000,(612) 664-5000,612-664-5000,U.S. District Court for the District of Minnesota - Minneapolis,federal_district_court,United States,federal,clerks_office,https://www.mnd.uscourts.gov/content/minneapolis
++16518481100,(651) 848-1100,651-848-1100,U.S. District Court for the District of Minnesota - St. Paul,federal_district_court,United States,federal,clerks_office,https://www.mnd.uscourts.gov/content/st-paul
++14062477000,(406) 247-7000,406-247-7000,U.S. District Court for the District of Montana - Billings,federal_district_court,United States,federal,clerks_office,https://www.mtd.uscourts.gov/court-info/court-locations/billings
++14067271922,(406) 727-1922,406-727-1922,U.S. District Court for the District of Montana - Great Falls,federal_district_court,United States,federal,clerks_office,https://www.mtd.uscourts.gov/content/great-falls
++14065427260,(406) 542-7260,406-542-7260,U.S. District Court for the District of Montana - Missoula,federal_district_court,United States,federal,clerks_office,https://www.mtd.uscourts.gov/content/missoula
++14026617350,(402) 661-7350,402-661-7350,U.S. District Court for the District of Nebraska - Omaha,federal_district_court,United States,federal,clerks_office,https://www.ned.uscourts.gov/public/directory
++17024645400,(702) 464-5400,702-464-5400,U.S. District Court for the District of Nevada - Las Vegas,federal_district_court,United States,federal,clerks_office,https://www.nvd.uscourts.gov/self-help/contact-clerks-office/
++17756865800,(775) 686-5800,775-686-5800,U.S. District Court for the District of Nevada - Reno,federal_district_court,United States,federal,clerks_office,https://www.nvd.uscourts.gov/self-help/contact-clerks-office/
++16032251423,(603) 225-1423,603-225-1423,U.S. District Court for the District of New Hampshire - Concord,federal_district_court,United States,federal,clerks_office,https://www.nhd.uscourts.gov/clerks-office-contact-information
++18567575021,(856) 757-5021,856-757-5021,U.S. District Court for the District of New Jersey - Camden,federal_district_court,United States,federal,clerks_office,https://www.njd.uscourts.gov/court-info/court-locations/
++19736453730,(973) 645-3730,973-645-3730,U.S. District Court for the District of New Jersey - Newark,federal_district_court,United States,federal,clerks_office,https://www.njd.uscourts.gov/court-info/court-locations/
++15053482000,(505) 348-2000,505-348-2000,U.S. District Court for the District of New Mexico - Albuquerque,federal_district_court,United States,federal,clerks_office,https://www.nmd.uscourts.gov/contact-us
++17015302300,(701) 530-2300,701-530-2300,U.S. District Court for the District of North Dakota - Bismarck,federal_district_court,United States,federal,clerks_office,https://www.ndd.uscourts.gov/Location/Bismarck
++17012977000,(701) 297-7000,701-297-7000,U.S. District Court for the District of North Dakota - Fargo,federal_district_court,United States,federal,clerks_office,https://www.ndd.uscourts.gov/Location/Fargo
++15414314100,(541) 431-4100,541-431-4100,U.S. District Court for the District of Oregon - Eugene,federal_district_court,United States,federal,clerks_office,https://www.ord.uscourts.gov/index.php/court-info/contact-us/eugene-division
++15033268000,(503) 326-8000,503-326-8000,U.S. District Court for the District of Oregon - Portland,federal_district_court,United States,federal,clerks_office,https://ord.uscourts.gov/index.php/court-info/contact-us
++17877723000,(787) 772-3000,787-772-3000,U.S. District Court for the District of Puerto Rico - San Juan,federal_district_court,United States,federal,clerks_office,https://www.prd.uscourts.gov/content/office-clerk
++14017527200,(401) 752-7200,401-752-7200,U.S. District Court for the District of Rhode Island - Providence,federal_district_court,United States,federal,clerks_office,https://www.rid.uscourts.gov/contact-us
++18037655816,(803) 765-5816,803-765-5816,U.S. District Court for the District of South Carolina - Columbia,federal_district_court,United States,federal,clerks_office,https://www.scd.uscourts.gov/court/columbia.asp
++16053306600,(605) 330-6600,605-330-6600,U.S. District Court for the District of South Dakota - Sioux Falls,federal_district_court,United States,federal,clerks_office,https://www.sdd.uscourts.gov/content/sioux-falls
++18015246100,(801) 524-6100,801-524-6100,U.S. District Court for the District of Utah - Salt Lake City,federal_district_court,United States,federal,clerks_office,https://www.utd.uscourts.gov/general-information
++18029516301,(802) 951-6301,802-951-6301,U.S. District Court for the District of Vermont - Burlington,federal_district_court,United States,federal,clerks_office,https://www.vtd.uscourts.gov/
++18027730245,(802) 773-0245,802-773-0245,U.S. District Court for the District of Vermont - Rutland,federal_district_court,United States,federal,clerks_office,https://www.vtd.uscourts.gov/content/rutland
++13074332120,(307) 433-2120,307-433-2120,U.S. District Court for the District of Wyoming - Cheyenne,federal_district_court,United States,federal,clerks_office,https://www.wyd.uscourts.gov/court-info/court-locations
++15016045351,(501) 604-5351,501-604-5351,U.S. District Court for the Eastern District of Arkansas - Little Rock,federal_district_court,United States,federal,clerks_office,https://www.are.uscourts.gov/court-info/court-locations/Little-Rock
++15594995600,(559) 499-5600,559-499-5600,U.S. District Court for the Eastern District of California - Fresno,federal_district_court,United States,federal,clerks_office,https://www.caed.uscourts.gov/caednew/index.cfm/clerks-office/court-directions/fresno-courthouse-and-directions/
++19169304000,(916) 930-4000,916-930-4000,U.S. District Court for the Eastern District of California - Sacramento,federal_district_court,United States,federal,clerks_office,https://www.caed.uscourts.gov/caednew/index.cfm/clerks-office/
++18592332503,(859) 233-2503,859-233-2503,U.S. District Court for the Eastern District of Kentucky - Lexington,federal_district_court,United States,federal,clerks_office,https://www.kyed.uscourts.gov/maps-lex
++15045897650,(504) 589-7650,504-589-7650,U.S. District Court for the Eastern District of Louisiana - New Orleans,federal_district_court,United States,federal,clerks_office,https://www.laed.uscourts.gov/court-information/directory/clerks-office
++13132345000,(313) 234-5000,313-234-5000,U.S. District Court for the Eastern District of Michigan - Detroit,federal_district_court,United States,federal,clerks_office,https://www.mied.uscourts.gov/index.cfm?pageFunction=coContactUs
++13145397900,(314) 539-7900,314-539-7900,U.S. District Court for the Eastern District of Missouri - St. Louis,federal_district_court,United States,federal,clerks_office,https://www.moed.uscourts.gov/clerks-office-hours-contact-information
++17186132600,(718) 613-2600,718-613-2600,U.S. District Court for the Eastern District of New York - Brooklyn,federal_district_court,United States,federal,clerks_office,https://www.nyed.uscourts.gov/contact-us
++19196451700,(919) 645-1700,919-645-1700,U.S. District Court for the Eastern District of North Carolina - Raleigh,federal_district_court,United States,federal,clerks_office,https://www.nced.uscourts.gov/courtlocations/default.aspx
++19186847920,(918) 684-7920,918-684-7920,U.S. District Court for the Eastern District of Oklahoma - Muskogee,federal_district_court,United States,federal,clerks_office,https://www.oked.uscourts.gov/court-info/court-locations
++12155977704,(215) 597-7704,215-597-7704,U.S. District Court for the Eastern District of Pennsylvania - Philadelphia,federal_district_court,United States,federal,clerks_office,https://www.paed.uscourts.gov/contact-information
++18655454228,(865) 545-4228,865-545-4228,U.S. District Court for the Eastern District of Tennessee - Knoxville,federal_district_court,United States,federal,clerks_office,https://www.tned.uscourts.gov/contact-information
++14096547000,(409) 654-7000,409-654-7000,U.S. District Court for the Eastern District of Texas - Beaumont,federal_district_court,United States,federal,clerks_office,https://www.txed.uscourts.gov/?q=location/beaumont
++19035901000,(903) 590-1000,903-590-1000,U.S. District Court for the Eastern District of Texas - Tyler,federal_district_court,United States,federal,clerks_office,https://www.txed.uscourts.gov/?q=location/tyler
++17032992100,(703) 299-2100,703-299-2100,U.S. District Court for the Eastern District of Virginia - Alexandria,federal_district_court,United States,federal,clerks_office,https://www.vaed.uscourts.gov/court-info/court-locations
++17572470784,(757) 247-0784,757-247-0784,U.S. District Court for the Eastern District of Virginia - Newport News,federal_district_court,United States,federal,clerks_office,https://www.vaed.uscourts.gov/court-info/court-locations
++17572227201,(757) 222-7201,757-222-7201,U.S. District Court for the Eastern District of Virginia - Norfolk,federal_district_court,United States,federal,clerks_office,https://www.vaed.uscourts.gov/Norfolk
++18049162200,(804) 916-2200,804-916-2200,U.S. District Court for the Eastern District of Virginia - Richmond,federal_district_court,United States,federal,clerks_office,https://www.vaed.uscourts.gov/Richmond
++15094583400,(509) 458-3400,509-458-3400,U.S. District Court for the Eastern District of Washington - Spokane,federal_district_court,United States,federal,clerks_office,https://www.waed.uscourts.gov/spokane
++15095736600,(509) 573-6600,509-573-6600,U.S. District Court for the Eastern District of Washington - Yakima,federal_district_court,United States,federal,clerks_office,https://www.waed.uscourts.gov/yakima
++14142973372,(414) 297-3372,414-297-3372,U.S. District Court for the Eastern District of Wisconsin - Milwaukee,federal_district_court,United States,federal,clerks_office,https://www.wied.uscourts.gov/court-locations/milwaukee
++13349543600,(334) 954-3600,334-954-3600,U.S. District Court for the Middle District of Alabama - Montgomery,federal_district_court,United States,federal,clerks_office,https://www.almd.uscourts.gov/locations
++14078354200,(407) 835-4200,407-835-4200,U.S. District Court for the Middle District of Florida - Orlando,federal_district_court,United States,federal,clerks_office,https://www.flmd.uscourts.gov/contact-us/
++14787523497,(478) 752-3497,478-752-3497,U.S. District Court for the Middle District of Georgia - Macon,federal_district_court,United States,federal,clerks_office,https://www.gamd.uscourts.gov/offices/macon
++12253893500,(225) 389-3500,225-389-3500,U.S. District Court for the Middle District of Louisiana - Baton Rouge,federal_district_court,United States,federal,clerks_office,https://www.lamd.uscourts.gov/court-information
++13363326000,(336) 332-6000,336-332-6000,U.S. District Court for the Middle District of North Carolina - Greensboro,federal_district_court,United States,federal,clerks_office,https://www.ncmd.uscourts.gov/phone-directory
++17172213920,(717) 221-3920,717-221-3920,U.S. District Court for the Middle District of Pennsylvania - Harrisburg,federal_district_court,United States,federal,clerks_office,https://www.pamd.uscourts.gov/court-info/court-locations/harrisburg
++15702075680,(570) 207-5680,570-207-5680,U.S. District Court for the Middle District of Pennsylvania - Scranton,federal_district_court,United States,federal,clerks_office,https://www.pamd.uscourts.gov/court-info/court-locations
++16157365498,(615) 736-5498,615-736-5498,U.S. District Court for the Middle District of Tennessee - Nashville,federal_district_court,United States,federal,clerks_office,https://www.tnmd.uscourts.gov/clerks-office
++12052781700,(205) 278-1700,205-278-1700,U.S. District Court for the Northern District of Alabama - Birmingham,federal_district_court,United States,federal,clerks_office,https://www.alnd.uscourts.gov/content/birmingham
++15106373530,(510) 637-3530,510-637-3530,U.S. District Court for the Northern District of California - Oakland,federal_district_court,United States,federal,clerks_office,https://cand.uscourts.gov/locations/oakland
++14155222000,(415) 522-2000,415-522-2000,U.S. District Court for the Northern District of California - San Francisco,federal_district_court,United States,federal,clerks_office,https://cand.uscourts.gov/about-court/contacting-court
++14085355363,(408) 535-5363,408-535-5363,U.S. District Court for the Northern District of California - San Jose,federal_district_court,United States,federal,clerks_office,https://cand.uscourts.gov/about-court/court-locations
++18505213501,(850) 521-3501,850-521-3501,U.S. District Court for the Northern District of Florida - Tallahassee,federal_district_court,United States,federal,clerks_office,https://www.flnd.uscourts.gov/tallahassee
++14042151660,(404) 215-1660,404-215-1660,U.S. District Court for the Northern District of Georgia - Atlanta,federal_district_court,United States,federal,clerks_office,https://www.gand.uscourts.gov/court-info/court-locations/atlanta
++13124355670,(312) 435-5670,312-435-5670,U.S. District Court for the Northern District of Illinois - Chicago,federal_district_court,United States,federal,clerks_office,https://www.ilnd.uscourts.gov/ClerksOffice.aspx
++12198526500,(219) 852-6500,219-852-6500,U.S. District Court for the Northern District of Indiana - Hammond,federal_district_court,United States,federal,clerks_office,https://www.innd.uscourts.gov/HammondDivision
++13192862300,(319) 286-2300,319-286-2300,U.S. District Court for the Northern District of Iowa - Cedar Rapids,federal_district_court,United States,federal,clerks_office,https://www.iand.uscourts.gov/contact-information-clerk-court
++16622341971,(662) 234-1971,662-234-1971,U.S. District Court for the Northern District of Mississippi - Oxford,federal_district_court,United States,federal,clerks_office,https://www.msnd.uscourts.gov/contact-court
++15182571800,(518) 257-1800,518-257-1800,U.S. District Court for the Northern District of New York - Albany,federal_district_court,United States,federal,clerks_office,https://www.nynd.uscourts.gov/contacts-committees
++13152348500,(315) 234-8500,315-234-8500,U.S. District Court for the Northern District of New York - Syracuse,federal_district_court,United States,federal,clerks_office,https://www.nynd.uscourts.gov/contacts-committees
++13302526000,(330) 252-6000,330-252-6000,U.S. District Court for the Northern District of Ohio - Akron,federal_district_court,United States,federal,clerks_office,https://www.ohnd.uscourts.gov/content/akron
++12163577000,(216) 357-7000,216-357-7000,U.S. District Court for the Northern District of Ohio - Cleveland,federal_district_court,United States,federal,clerks_office,https://www.ohnd.uscourts.gov/contact-us
++19186994700,(918) 699-4700,918-699-4700,U.S. District Court for the Northern District of Oklahoma - Tulsa,federal_district_court,United States,federal,clerks_office,https://www.oknd.uscourts.gov/court-directory
++12147532200,(214) 753-2200,214-753-2200,U.S. District Court for the Northern District of Texas - Dallas,federal_district_court,United States,federal,clerks_office,https://www.txnd.uscourts.gov/location/dallas
++16195575600,(619) 557-5600,619-557-5600,U.S. District Court for the Southern District of California - San Diego,federal_district_court,United States,federal,clerks_office,https://www.casd.uscourts.gov/clerksoffice.aspx
++13055235100,(305) 523-5100,305-523-5100,U.S. District Court for the Southern District of Florida - Miami,federal_district_court,United States,federal,clerks_office,https://www.flsd.uscourts.gov/contact-us
++19126504020,(912) 650-4020,912-650-4020,U.S. District Court for the Southern District of Georgia - Savannah,federal_district_court,United States,federal,clerks_office,https://www.gasd.uscourts.gov/content/savannah
++16184397760,(618) 439-7760,618-439-7760,U.S. District Court for the Southern District of Illinois - Benton,federal_district_court,United States,federal,clerks_office,https://www.ilsd.uscourts.gov/court-info/court-locations/Benton
++16184829371,(618) 482-9371,618-482-9371,U.S. District Court for the Southern District of Illinois - East St. Louis,federal_district_court,United States,federal,clerks_office,https://www.ilsd.uscourts.gov/court-info/court-locations/eastsaintlouis
++13172293700,(317) 229-3700,317-229-3700,U.S. District Court for the Southern District of Indiana - Indianapolis,federal_district_court,United States,federal,clerks_office,https://www.insd.uscourts.gov/directory
++15152846248,(515) 284-6248,515-284-6248,U.S. District Court for the Southern District of Iowa - Des Moines,federal_district_court,United States,federal,clerks_office,https://www.iasd.uscourts.gov/contact
++16016084000,(601) 608-4000,601-608-4000,U.S. District Court for the Southern District of Mississippi - Jackson,federal_district_court,United States,federal,clerks_office,https://www.mssd.uscourts.gov/content/jackson
++12128050136,(212) 805-0136,212-805-0136,U.S. District Court for the Southern District of New York - Manhattan,federal_district_court,United States,federal,clerks_office,https://www.nysd.uscourts.gov/about/directory
++15135647500,(513) 564-7500,513-564-7500,U.S. District Court for the Southern District of Ohio - Cincinnati,federal_district_court,United States,federal,clerks_office,https://www.ohsd.uscourts.gov/content/cincinnati
++16147193000,(614) 719-3000,614-719-3000,U.S. District Court for the Southern District of Ohio - Columbus,federal_district_court,United States,federal,clerks_office,https://www.ohsd.uscourts.gov/content/columbus
++17132505500,(713) 250-5500,713-250-5500,U.S. District Court for the Southern District of Texas - Houston,federal_district_court,United States,federal,clerks_office,https://www.txs.uscourts.gov/page/address-hours-phone-information
++13045295588,(304) 529-5588,304-529-5588,U.S. District Court for the Southern District of West Virginia - Huntington,federal_district_court,United States,federal,clerks_office,https://www.wvsd.uscourts.gov/court-info/court-locations/huntington
++13407181130,(340) 718-1130,340-718-1130,U.S. District Court for the Virgin Islands - St. Croix,federal_district_court,United States,federal,clerks_office,https://www.vid.uscourts.gov/court-info/court-locations/stx
++13407740640,(340) 774-0640,340-774-0640,U.S. District Court for the Virgin Islands - St. Thomas,federal_district_court,United States,federal,clerks_office,https://www.vid.uscourts.gov/court-info/court-locations/stt
++14797836833,(479) 783-6833,479-783-6833,U.S. District Court for the Western District of Arkansas - Fort Smith,federal_district_court,United States,federal,clerks_office,https://www.arwd.uscourts.gov/court-info/court-locations
++15026253500,(502) 625-3500,502-625-3500,U.S. District Court for the Western District of Kentucky - Louisville,federal_district_court,United States,federal,clerks_office,https://www.kywd.uscourts.gov/court-info/court-locations/louisville
++13186764273,(318) 676-4273,318-676-4273,U.S. District Court for the Western District of Louisiana - Shreveport,federal_district_court,United States,federal,clerks_office,https://www.lawd.uscourts.gov/content/shreveport
++16164562381,(616) 456-2381,616-456-2381,U.S. District Court for the Western District of Michigan - Grand Rapids,federal_district_court,United States,federal,clerks_office,https://www.miwd.uscourts.gov/content/contact-us
++18165125000,(816) 512-5000,816-512-5000,U.S. District Court for the Western District of Missouri - Kansas City,federal_district_court,United States,federal,clerks_office,https://www.mow.uscourts.gov/offices/kansas-city-western-division
++17165511700,(716) 551-1700,716-551-1700,U.S. District Court for the Western District of New York - Buffalo,federal_district_court,United States,federal,clerks_office,https://www.nywd.uscourts.gov/clerks-office-0
++15856134000,(585) 613-4000,585-613-4000,U.S. District Court for the Western District of New York - Rochester,federal_district_court,United States,federal,clerks_office,https://www.nywd.uscourts.gov/clerks-office-0
++17043508000,(704) 350-8000,704-350-8000,U.S. District Court for the Western District of North Carolina - Charlotte,federal_district_court,United States,federal,clerks_office,https://www.ncwd.uscourts.gov/court-info/court-locations
++14056095000,(405) 609-5000,405-609-5000,U.S. District Court for the Western District of Oklahoma - Oklahoma City,federal_district_court,United States,federal,clerks_office,https://www.okwd.uscourts.gov/contact-us
++14122087500,(412) 208-7500,412-208-7500,U.S. District Court for the Western District of Pennsylvania - Pittsburgh,federal_district_court,United States,federal,clerks_office,https://www.pawd.uscourts.gov/contact-us
++19014951200,(901) 495-1200,901-495-1200,U.S. District Court for the Western District of Tennessee - Memphis,federal_district_court,United States,federal,clerks_office,https://www.tnwd.uscourts.gov/
++12104726550,(210) 472-6550,210-472-6550,U.S. District Court for the Western District of Texas - San Antonio,federal_district_court,United States,federal,clerks_office,https://www.txwd.uscourts.gov/
++14342969284,(434) 296-9284,434-296-9284,U.S. District Court for the Western District of Virginia - Charlottesville,federal_district_court,United States,federal,clerks_office,https://www.vawd.uscourts.gov/court-information/court-and-probation-office-locations/charlottesville/
++15408575100,(540) 857-5100,540-857-5100,U.S. District Court for the Western District of Virginia - Roanoke,federal_district_court,United States,federal,clerks_office,https://www.vawd.uscourts.gov/court-information/court-and-probation-office-locations/roanoke/
++12063708400,(206) 370-8400,206-370-8400,U.S. District Court for the Western District of Washington - Seattle,federal_district_court,United States,federal,clerks_office,https://www.wawd.uscourts.gov/about/directory
++12538823800,(253) 882-3800,253-882-3800,U.S. District Court for the Western District of Washington - Tacoma,federal_district_court,United States,federal,clerks_office,https://www.wawd.uscourts.gov/visitors/tacoma-courthouse
++16082645156,(608) 264-5156,608-264-5156,U.S. District Court for the Western District of Wisconsin - Madison,federal_district_court,United States,federal,clerks_office,https://www.wiwd.uscourts.gov/contact-information
 +18884474722,(888) 447-4722,888-447-4722,U.S. Geological Survey (USGS),agency,United States,federal,main,https://www.usgs.gov/
 +12025124400,(202) 512-4400,202-512-4400,U.S. Government Accountability Office (GAO),agency,United States,federal,main,https://www.gao.gov/about/contact-us
 +12025121800,(202) 512-1800,202-512-1800,U.S. Government Publishing Office (GPO),agency,United States,federal,main,https://www.gpo.gov/
@@ -249,6 +684,67 @@ phone_number_e164,phone_number_formatted,phone_number_dashed,entity_name,entity_
 +12024566213,(202) 456-6213,202-456-6213,White House Comments TTY,executive,United States,federal,comments_tty,https://www.whitehouse.gov/contact/
 +12024561414,(202) 456-1414,202-456-1414,White House Switchboard,executive,United States,federal,switchboard,https://www.whitehouse.gov/contact/
 +12024562121,(202) 456-2121,202-456-2121,White House Visitor's Office,executive,United States,federal,visitors,https://www.whitehouse.gov/contact/
++19253004455,(925) 300-4455,925-300-4455,"Bursor & Fisher, P.A. (Walnut Creek, CA)",consumer_class_action_firm,California,law_firm,branch,https://www.bursor.com/contact/
++13105564811,(310) 556-4811,310-556-4811,Capstone Law APC,consumer_class_action_firm,California,law_firm,main,https://capstonelawyers.com/mobile-contact-v2/
++14152129300,(415) 212-9300,415-212-9300,Edelson PC (San Francisco),consumer_class_action_firm,California,law_firm,branch,https://edelson.com/contact/
++16192337770,(619) 233-7770,619-233-7770,Hyde & Swigart,tcpa_plaintiff_firm,California,law_firm,main,https://www.hydeswigart.com/
++19496129999,(949) 612-9999,949-612-9999,Kazerouni Law Group APC (Costa Mesa),tcpa_plaintiff_firm,California,law_firm,main,https://www.kazlg.com/contact/
++18004006808,(800) 400-6808,800-400-6808,Kazerouni Law Group APC (toll-free),tcpa_plaintiff_firm,California,law_firm,main,https://www.kazlg.com/contact/
++13236901688,(323) 690-1688,323-690-1688,"Law Offices of Todd M. Friedman, PC",tcpa_plaintiff_firm,California,law_firm,main,https://toddflaw.com/contact/
++14159561000,(415) 956-1000,415-956-1000,Lieff Cabraser Heimann & Bernstein LLP,consumer_class_action_firm,California,law_firm,main,https://www.lieffcabraser.com/contact/
++18007835006,(800) 783-5006,800-783-5006,"Manning Law, APC",consumer_class_action_firm,California,law_firm,main,https://www.manninglawapc.com/
++19497066464,(949) 706-6464,949-706-6464,Pacific Trial Attorneys,consumer_class_action_firm,California,law_firm,main,https://www.pacifictrialattorneys.com/contact-us/
++18662193343,(866) 219-3343,866-219-3343,"Swigart Law Group, APC",tcpa_plaintiff_firm,California,law_firm,main,https://www.swigartlawgroup.com/
++15102546808,(510) 254-6808,510-254-6808,Tycko & Zavareei LLP (Oakland),consumer_class_action_firm,California,law_firm,branch,https://www.tzlegal.com/offices/
++12036532250,(203) 653-2250,203-653-2250,Lemberg Law LLC,tcpa_plaintiff_firm,Connecticut,law_firm,main,https://www.lemberglaw.com/
++12024084600,(202) 408-4600,202-408-4600,Cohen Milstein Sellers & Toll PLLC,consumer_class_action_firm,District of Columbia,law_firm,main,https://www.cohenmilstein.com/
++12027893960,(202) 789-3960,202-789-3960,"Cuneo Gilbert & LaDuca, LLP",consumer_class_action_firm,District of Columbia,law_firm,main,https://www.cuneolaw.com/contact/
++12024703520,(202) 470-3520,202-470-3520,Migliaccio & Rathod LLP,consumer_class_action_firm,District of Columbia,law_firm,main,https://classlawdc.com/contact/
++12022730900,(202) 273-0900,202-273-0900,Tycko & Zavareei LLP (DC),consumer_class_action_firm,District of Columbia,law_firm,main,https://www.tzlegal.com/offices/
++13053305512,(305) 330-5512,305-330-5512,"Bursor & Fisher, P.A. (Florida)",consumer_class_action_firm,Florida,law_firm,branch,https://www.bursor.com/offices/florida/
++19545334092,(954) 533-4092,954-533-4092,"Eisenband Law, P.A.",tcpa_plaintiff_firm,Florida,law_firm,main,https://eisenbandlaw.com/
++15618265477,(561) 826-5477,561-826-5477,Greenwald Davidson Radbil PLLC (Boca Raton),tcpa_plaintiff_firm,Florida,law_firm,main,https://www.gdrlawfirm.com/contact-us
++13053572107,(305) 357-2107,305-357-2107,Hedin LLP,consumer_class_action_firm,Florida,law_firm,main,https://hedinllp.com/miami/
++13054695881,(305) 469-5881,305-469-5881,Kaufman P.A.,tcpa_plaintiff_firm,Florida,law_firm,main,https://kaufmanpa.com/
++18773339427,(877) 333-9427,877-333-9427,Law Offices of Stefan Coleman,tcpa_plaintiff_firm,Florida,law_firm,main,https://www.stefancoleman.com/
++13054792299,(305) 479-2299,305-479-2299,"Shamis & Gentile, P.A.",tcpa_plaintiff_firm,Florida,law_firm,main,https://shamisgentile.com/
++18473681500,(847) 368-1500,847-368-1500,Anderson + Wanca,tcpa_plaintiff_firm,Illinois,law_firm,main,https://andersonwanca.com/contact/
++18447867772,(844) 786-7772,844-786-7772,"Bock Hatch & Oppenheim, LLC",tcpa_plaintiff_firm,Illinois,law_firm,main,https://bockhatchllc.com/contact-us/
++13127295288,(312) 729-5288,312-729-5288,"Burke Law Offices, LLC",tcpa_plaintiff_firm,Illinois,law_firm,main,https://burkelawllc.com/contact-us/
++13125896370,(312) 589-6370,312-589-6370,Edelson PC (Chicago),consumer_class_action_firm,Illinois,law_firm,main,https://edelson.com/contact/
++18667261092,(866) 726-1092,866-726-1092,"Keogh Law, Ltd.",tcpa_plaintiff_firm,Illinois,law_firm,main,https://www.keoghlaw.com/contact/
++13128996625,(312) 899-6625,312-899-6625,"Loftus & Eisenberg, Ltd.",consumer_class_action_firm,Illinois,law_firm,main,https://www.loftusandeisenberg.com/contact-us/
++13313214748,(331) 321-4748,331-321-4748,"Sulaiman Law Group, Ltd. (Atlas Consumer Law)",tcpa_plaintiff_firm,Illinois,law_firm,main,https://www.atlaslawcenter.com/contact/
++13124191008,(312) 419-1008,312-419-1008,Werman Salas P.C.,consumer_class_action_firm,Illinois,law_firm,main,https://flsalaw.com/contact-us/
++13177219214,(317) 721-9214,317-721-9214,"Saeed & Little, LLP",tcpa_plaintiff_firm,Indiana,law_firm,main,https://creditharassmentlawyer.com/
++16174850018,(617) 485-0018,617-485-0018,"Paronich Law, P.C.",tcpa_plaintiff_firm,Massachusetts,law_firm,main,https://paronichlaw.com/
++16126051495,(612) 605-1495,612-605-1495,Consumer Justice Center P.A.,tcpa_plaintiff_firm,Minnesota,law_firm,main,https://www.consumerjusticecenter.com/
++19529339655,(952) 933-9655,952-933-9655,"Heaney Law Firm, LLC",tcpa_plaintiff_firm,Minnesota,law_firm,main,https://www.heaneylaw.com/
++16123498500,(612) 349-8500,612-349-8500,Robins Kaplan LLP,consumer_class_action_firm,Minnesota,law_firm,main,https://www.robinskaplan.com/contact
++18567979951,(856) 797-9951,856-797-9951,"DeNittis Osefchen Prince, P.C.",consumer_class_action_firm,New Jersey,law_firm,main,https://www.denittislaw.com/contact/
++17326953282,(732) 695-3282,732-695-3282,"Marcus & Zelman, LLC",tcpa_plaintiff_firm,New Jersey,law_firm,main,https://marcuszelman.com/contact-marcus-zelman/
++12012826500,(201) 282-6500,201-282-6500,"Stein Saks, PLLC",tcpa_plaintiff_firm,New Jersey,law_firm,main,https://steinsakslegal.com/contact-us/
++17324559737,(732) 455-9737,732-455-9737,"The Glapion Law Firm, LLC",tcpa_plaintiff_firm,New Jersey,law_firm,main,https://www.glapionlaw.com/
++12122487906,(212) 248-7906,212-248-7906,"Bromberg Law Office, P.C.",tcpa_plaintiff_firm,New York,law_firm,main,https://brianbromberg.com/contact-us/
++16468377150,(646) 837-7150,646-837-7150,"Bursor & Fisher, P.A. (New York)",consumer_class_action_firm,New York,law_firm,main,https://www.bursor.com/contact/
++19149349200,(914) 934-9200,914-934-9200,Klafter Lesser LLP,consumer_class_action_firm,New York,law_firm,main,https://klafterlesser.com/
++12126430500,(212) 643-0500,212-643-0500,Reese LLP,consumer_class_action_firm,New York,law_firm,main,http://www.reesellp.com/contact.html
++18454837100,(845) 483-7100,845-483-7100,"The Sultzer Law Group, P.C. (NY)",consumer_class_action_firm,New York,law_firm,branch,https://www.sultzerlipari.com/
++18005520265,(800) 552-0265,800-552-0265,"The Sultzer Law Group, P.C. (Toll-Free)",consumer_class_action_firm,New York,law_firm,main,https://www.sultzerlipari.com/
++19147758862,(914) 775-8862,914-775-8862,Wittels McInturff Palikovic,consumer_class_action_firm,New York,law_firm,main,https://wittelslaw.com
++12125454600,(212) 545-4600,212-545-4600,Wolf Haldenstein Adler Freeman & Herz LLP,consumer_class_action_firm,New York,law_firm,main,https://www.whafh.com/new-york/
++12163730539,(216) 373-0539,216-373-0539,DannLaw (The Dann Law Firm) (Cleveland),consumer_class_action_firm,Ohio,law_firm,main,https://dannlaw.com/contact/cleveland-ohio-office/
++18774758100,(877) 475-8100,877-475-8100,DannLaw (The Dann Law Firm) (Toll-Free),consumer_class_action_firm,Ohio,law_firm,main,https://dannlaw.com/
++15139821569,(513) 982-1569,513-982-1569,"Goldenberg Schneider, LPA",consumer_class_action_firm,Ohio,law_firm,main,https://www.gs-legal.com/
++12158753000,(215) 875-3000,215-875-3000,Berger Montague PC (Philadelphia),consumer_class_action_firm,Pennsylvania,law_firm,main,https://bergermontague.com/offices/philadelphia/
++18004246690,(800) 424-6690,800-424-6690,Berger Montague PC (Toll-Free),consumer_class_action_firm,Pennsylvania,law_firm,main,https://bergermontague.com/contact-us/
++14123229243,(412) 322-9243,412-322-9243,Lynch Carpenter LLP (Pittsburgh),consumer_class_action_firm,Pennsylvania,law_firm,main,https://lynchcarpenter.com/
++18004675241,(800) 467-5241,800-467-5241,Lynch Carpenter LLP (formerly Carlson Lynch) (Toll-Free),consumer_class_action_firm,Pennsylvania,law_firm,main,https://lynchcarpenter.com/
++18652470080,(865) 247-0080,865-247-0080,"Milberg Coleman Bryson Phillips Grossman, PLLC",consumer_class_action_firm,Tennessee,law_firm,main,https://milberg.com/location/knoxville/
++16159216500,(615) 921-6500,615-921-6500,Whitfield Bryson & Mason LLP,consumer_class_action_firm,Tennessee,law_firm,main,https://www.wbmllp.com/
++15123223912,(512) 322-3912,512-322-3912,Greenwald Davidson Radbil PLLC (Austin),tcpa_plaintiff_firm,Texas,law_firm,branch,https://www.gdrlawfirm.com/
++12068166603,(206) 816-6603,206-816-6603,Terrell Marshall Law Group PLLC,consumer_class_action_firm,Washington,law_firm,main,https://www.terrellmarshall.com/contact
++13043456555,(304) 345-6555,304-345-6555,"Bailey & Glasser, LLP",consumer_class_action_firm,West Virginia,law_firm,main,https://www.baileyglasser.com/contact-charleston-west-virginia
 +15057682000,(505) 768-2000,505-768-2000,Albuquerque City Hall / 311,city_hall,"Albuquerque, NM",municipal,main,https://www.cabq.gov/mayor/311/311-information/contacting-311/
 +15052422677,(505) 242-2677,505-242-2677,Albuquerque Police Department non-emergency (242-COPS),police_non_emergency,"Albuquerque, NM",municipal,main,https://www.cabq.gov/police/contact-the-police
 +17147655247,(714) 765-5247,714-765-5247,Anaheim Mayor's Office,mayor,"Anaheim, CA",municipal,main,https://www.anaheim.net/2495/Customer-Service
@@ -458,167 +954,508 @@ phone_number_e164,phone_number_formatted,phone_number_dashed,entity_name,entity_
 +12024429828,(202) 442-9828,202-442-9828,DC Office of the Attorney General Consumer Protection,consumer_affairs,"Washington, DC",municipal,consumer,https://oag.dc.gov/about-oag/contact-us
 +13162684331,(316) 268-4331,316-268-4331,Wichita Mayor's Office,mayor,"Wichita, KS",municipal,main,https://www.wichita.gov/785/Mayor-Lily-Wu
 +13162684221,(316) 268-4221,316-268-4221,Wichita Police Department Case Desk,police_non_emergency,"Wichita, KS",municipal,main,https://www.wichita.gov/536/Police
++18886872277,(888) 687-2277,888-687-2277,AARP,consumer_advocacy,United States,national_org,main,https://help.aarp.org/s/article/contact-aarp
++18002852221,(800) 285-2221,800-285-2221,American Bar Association,bar_association,United States,national_org,main_toll_free,https://www.americanbar.org/about_the_aba/contact/
++13129885000,(312) 988-5000,312-988-5000,American Bar Association,bar_association,United States,national_org,main_international,https://www.americanbar.org/about_the_aba/contact/
++14157779648,(415) 777-9648,415-777-9648,Consumer Action,consumer_advocacy,United States,national_org,main_san_francisco,https://www.consumer-action.org/about/articles/contact_us/
++12025443088,(202) 544-3088,202-544-3088,Consumer Action,consumer_advocacy,United States,national_org,washington_office,https://www.consumer-action.org/about/articles/contact_us/
++12023876121,(202) 387-6121,202-387-6121,Consumer Federation of America,consumer_advocacy,United States,national_org,main,https://consumerfed.org/contact-us/
++18003330663,(800) 333-0663,800-333-0663,Consumer Reports,consumer_advocacy,United States,national_org,member_support,https://www.consumerreports.org/member-support/
++19143782000,(914) 378-2000,914-378-2000,Consumer Reports,consumer_advocacy,United States,national_org,main,https://www.consumerreports.org/member-support/
++12024831140,(202) 483-1140,202-483-1140,Electronic Privacy Information Center,consumer_advocacy,United States,national_org,main,https://epic.org/about/contact/
++17032760100,(703) 276-0100,703-276-0100,International Association of Better Business Bureaus,consumer_advocacy,United States,national_org,main,https://www.bbb.org/local-bbb/international-association-of-better-business-bureaus
++12023266000,(202) 326-6000,202-326-6000,National Association of Attorneys General,regulatory_org,United States,national_org,main,https://www.naag.org/contact-us/
++12024521989,(202) 452-1989,202-452-1989,National Association of Consumer Advocates,plaintiffs_attorney_org,United States,national_org,main,https://www.consumeradvocates.org/about-naca/contact/
++18168423600,(816) 842-3600,816-842-3600,National Association of Insurance Commissioners,regulatory_org,United States,national_org,main_kansas_city,https://content.naic.org/contact
++12028982200,(202) 898-2200,202-898-2200,National Association of Regulatory Utility Commissioners,regulatory_org,United States,national_org,main,https://www.naruc.org/contact-us/
++12028353323,(202) 835-3323,202-835-3323,National Consumers League,consumer_advocacy,United States,national_org,main,https://www.nclnet.org/contact_us
++18008767060,(800) 876-7060,800-876-7060,National Consumers League / Fraud.org,consumer_advocacy,United States,national_org,fraud_hotline,https://fraud.org/about-us/
++12025881000,(202) 588-1000,202-588-1000,Public Citizen,consumer_advocacy,United States,national_org,main_and_litigation,https://www.citizen.org/about/contact/
++12055582222,(205) 558-2222,205-558-2222,BBB Serving Central and South Alabama,consumer_advocacy,Alabama,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-central-and-south-alabama
++16022641721,(602) 264-1721,602-264-1721,BBB serving Southern Arizona / Pacific Southwest,consumer_advocacy,Arizona,regional_org,main,https://www.bbb.org/phoenix/get-to-know-us/contact
++12136313600,(213) 631-3600,213-631-3600,BBB serving Los Angeles and Silicon Valley,consumer_advocacy,California,regional_org,main,https://www.bbb.org/losangelessiliconvalley/get-to-know-us/contact
++18584962131,(858) 496-2131,858-496-2131,BBB serving the Pacific Southwest (San Diego),consumer_advocacy,California,regional_org,main_san_diego,https://www.bbb.org/local-bbb/pacific-southwest-central-inland-california
++18664112221,(866) 411-2221,866-411-2221,BBB serving the San Francisco Bay Area and Northern Coastal California,consumer_advocacy,California,regional_org,main,https://www.bbb.org/local-bbb/golden-gate-better-business-bureau
++13037582100,(303) 758-2100,303-758-2100,BBB serving Denver / Great West and Pacific,consumer_advocacy,Colorado,regional_org,main_denver,https://www.bbb.org/denver/get-to-know-us/contact-your-denver-bbb/
++18607404500,(860) 740-4500,860-740-4500,BBB Serving Connecticut,consumer_advocacy,Connecticut,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-connecticut
++12023938000,(202) 393-8000,202-393-8000,"BBB serving Metro Washington DC, Metro Philadelphia and Eastern PA",consumer_advocacy,District of Columbia,regional_org,main_dc,https://www.bbb.org/local-bbb/bbb-serving-metro-washington-dc-metro-philadelphia-and-eastern-pennsylvania
++15614421918,(561) 442-1918,561-442-1918,BBB Serving Southeast Florida and the Caribbean,consumer_advocacy,Florida,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-southeast-florida-and-the-caribbean
++14076213300,(407) 621-3300,407-621-3300,BBB serving Central Florida,consumer_advocacy,Florida,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-central-florida
++14047660875,(404) 766-0875,404-766-0875,BBB Atlanta and NE Georgia,consumer_advocacy,Georgia,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-metro-atlanta-athens-and-ne-georgia
++18085366956,(808) 536-6956,808-536-6956,BBB Great West + Pacific (Hawaii),consumer_advocacy,Hawaii,regional_org,main,https://www.bbb.org/us/hi/honolulu
++13128320500,(312) 832-0500,312-832-0500,BBB of Chicago and Northern Illinois,consumer_advocacy,Illinois,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-chicago-and-northern-illinois
++13174882222,(317) 488-2222,317-488-2222,BBB serving Central Indiana,consumer_advocacy,Indiana,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-central-indiana
++13162633542,(316) 263-3542,316-263-3542,BBB Serving Wichita / Midwest Plains,consumer_advocacy,Kansas,regional_org,main_wichita,https://www.bbb.org/local-bbb/bbb-of-midwest-plains
++13379813497,(337) 981-3497,337-981-3497,BBB Serving Acadiana,consumer_advocacy,Louisiana,regional_org,main,https://www.bbb.org/local-bbb/better-business-bureau-serving-acadiana
++15045816222,(504) 581-6222,504-581-6222,BBB of Greater New Orleans Area,consumer_advocacy,Louisiana,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-greater-new-orleans-area
++14103473990,(410) 347-3990,410-347-3990,BBB of Greater Maryland,consumer_advocacy,Maryland,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-greater-maryland
++15086524800,(508) 652-4800,508-652-4800,"BBB serving Eastern MA, ME, RI and VT",consumer_advocacy,Massachusetts,regional_org,main,https://www.bbb.org/local-bbb/better-business-bureau-serving-eastern-ma-me-ri-and-vt
++15178372162,(517) 837-2162,517-837-2162,BBB of Detroit and Eastern Michigan,consumer_advocacy,Michigan,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-detroit-and-eastern-michigan
++16127676844,(612) 767-6844,612-767-6844,BBB of Minnesota and North Dakota,consumer_advocacy,Minnesota,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-minnesota-and-north-dakota
++18164717800,(816) 471-7800,816-471-7800,BBB of Greater Kansas City,consumer_advocacy,Missouri,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-midwest-plains
++13146453300,(314) 645-3300,314-645-3300,BBB serving Greater Missouri and Southern Illinois,consumer_advocacy,Missouri,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-eastern-and-southwest-missouri-and-southern-illinois
++17023204500,(702) 320-4500,702-320-4500,BBB of Southern Nevada,consumer_advocacy,Nevada,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-southern-nevada-inc
++17168815222,(716) 881-5222,716-881-5222,BBB of Upstate New York,consumer_advocacy,New York,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-upstate-new-york
++12125336200,(212) 533-6200,212-533-6200,BBB serving Metropolitan New York,consumer_advocacy,New York,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-metropolitan-new-york
++19192774222,(919) 277-4222,919-277-4222,BBB of Eastern Carolinas,consumer_advocacy,North Carolina,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-eastern-carolinas
++15134213015,(513) 421-3015,513-421-3015,BBB Cincinnati,consumer_advocacy,Ohio,regional_org,main,https://www.bbb.org/local-bbb/bbb-cincinnati
++18002330361,(800) 233-0361,800-233-0361,BBB serving Greater Cleveland,consumer_advocacy,Ohio,regional_org,toll_free,https://www.bbb.org/local-bbb/bbb-serving-greater-cleveland
++18772675222,(877) 267-5222,877-267-5222,BBB of Western Pennsylvania,consumer_advocacy,Pennsylvania,regional_org,toll_free,https://www.bbb.org/local-bbb/bbb-of-western-pennsylvania
++12159859313,(215) 985-9313,215-985-9313,"BBB serving Metro Washington DC, Metro Philadelphia and Eastern PA (Phila)",consumer_advocacy,Pennsylvania,regional_org,main_philadelphia,https://www.bbb.org/local-bbb/bbb-serving-metro-washington-dc-metro-philadelphia-and-eastern-pennsylvania
++18656921600,(865) 692-1600,865-692-1600,BBB of Greater East Tennessee,consumer_advocacy,Tennessee,regional_org,main_knoxville,https://www.bbb.org/local-bbb/bbb-of-greater-east-tennessee
++16152424222,(615) 242-4222,615-242-4222,BBB of Middle Tennessee and Southern Kentucky,consumer_advocacy,Tennessee,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-middle-tennessee
++19017591300,(901) 759-1300,901-759-1300,BBB of the Mid-South,consumer_advocacy,Tennessee,regional_org,main_memphis,https://www.bbb.org/local-bbb/bbb-of-the-mid-south
++17138689500,(713) 868-9500,713-868-9500,BBB of Greater Houston and South Texas,consumer_advocacy,Texas,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-greater-houston-and-south-texas
++18774689222,(877) 468-9222,877-468-9222,BBB of Greater Houston and South Texas (Consumer),consumer_advocacy,Texas,regional_org,consumer_complaint,https://www.bbb.org/local-bbb/bbb-of-greater-houston-and-south-texas
++12142202000,(214) 220-2000,214-220-2000,BBB serving North Central Texas,consumer_advocacy,Texas,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-north-central-texas
++18444771099,(844) 477-1099,844-477-1099,BBB serving the Heart of Texas,consumer_advocacy,Texas,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-the-heart-of-texas
++18018926009,(801) 892-6009,801-892-6009,BBB serving Northern Nevada and Utah,consumer_advocacy,Utah,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-northern-nevada-and-utah
++17575311300,(757) 531-1300,757-531-1300,BBB of Greater Hampton Roads,consumer_advocacy,Virginia,regional_org,main,https://www.bbb.org/local-bbb/bbb-of-greater-hampton-roads
++12538302924,(253) 830-2924,253-830-2924,BBB serving the Pacific Northwest,consumer_advocacy,Washington,regional_org,main,https://www.bbb.org/local-bbb/bbb-serving-western-washington
++14148476000,(414) 847-6000,414-847-6000,BBB serving Wisconsin,consumer_advocacy,Wisconsin,regional_org,main,https://www.bbb.org/local-bbb/wisconsin
 +18003925658,(800) 392-5658,800-392-5658,Alabama AG Consumer Interest Division,attorney_general_consumer_protection,Alabama,state,consumer_complaint,https://www.alabamaag.gov/divisions/consumer-interest-division/
 +13342427300,(334) 242-7300,334-242-7300,Alabama Attorney General,attorney_general,Alabama,state,main,https://www.alabamaag.gov/general-contact/
 +13342427100,(334) 242-7100,334-242-7100,Alabama Governor,governor,Alabama,state,main,https://governor.alabama.gov/
++13342619590,(334) 261-9590,334-261-9590,Alabama Lieutenant Governor,lieutenant_governor,Alabama,state,main,https://ltgov.alabama.gov/contact/
 +18003928050,(800) 392-8050,800-392-8050,Alabama PSC Consumer Services,public_utility_commission,Alabama,state,consumer_complaint,https://psc.alabama.gov/
 +13342425218,(334) 242-5218,334-242-5218,Alabama Public Service Commission,public_utility_commission,Alabama,state,main,https://psc.alabama.gov/contacts/
++13342427500,(334) 242-7500,334-242-7500,Alabama State Treasurer,treasurer,Alabama,state,main,https://treasury.alabama.gov/contact-us/
++13342424128,(334) 242-4128,334-242-4128,Alabama State Troopers (ALEA Highway Patrol),state_police,Alabama,state,main,https://www.alea.gov/dps/highway-patrol/highway-patrol-contact-information
++13342290700,(334) 229-0700,334-229-0700,Supreme Court of Alabama,state_supreme_court,Alabama,state,clerk,https://judicial.alabama.gov/Appellate/SupremeCourt
 +19072695100,(907) 269-5100,907-269-5100,Alaska Attorney General (Department of Law),attorney_general,Alaska,state,main,https://law.alaska.gov/department/about.html
 +19074653500,(907) 465-3500,907-465-3500,Alaska Governor,governor,Alaska,state,main,https://gov.alaska.gov/contact/
++19074654648,(907) 465-4648,907-465-4648,Alaska Lieutenant Governor,lieutenant_governor,Alaska,state,main,https://ltgov.alaska.gov/contact/
++19072695511,(907) 269-5511,907-269-5511,Alaska State Troopers (DPS HQ),state_police,Alaska,state,main,https://dps.alaska.gov/contact/
++19072640608,(907) 264-0608,907-264-0608,Alaska Supreme Court (Appellate Clerk),state_supreme_court,Alaska,state,clerk,https://courts.alaska.gov/contactus/
++19074652361,(907) 465-2361,907-465-2361,Alaska Treasury Division (Department of Revenue),treasurer,Alaska,state,main,https://treasury.dor.alaska.gov/home/contact-treasury
 +16846331900,(684) 633-1900,684-633-1900,American Samoa Attorney General,attorney_general,American Samoa,state,main,https://www.americansamoa.gov/
++16846334116,(684) 633-4116,684-633-4116,American Samoa Lieutenant Governor,lieutenant_governor,American Samoa,state,main,https://www.americansamoa.gov/
 +16025425763,(602) 542-5763,602-542-5763,Arizona AG Consumer Protection,attorney_general_consumer_protection,Arizona,state,consumer_complaint,https://www.azag.gov/contact-us
 +16025425025,(602) 542-5025,602-542-5025,Arizona Attorney General,attorney_general,Arizona,state,main,https://www.azag.gov/contact-us
 +16025422237,(602) 542-2237,602-542-2237,Arizona Corporation Commission,public_utility_commission,Arizona,state,main,https://azcc.gov/contact
++16022232000,(602) 223-2000,602-223-2000,Arizona Department of Public Safety,state_police,Arizona,state,main,https://www.azdps.gov/contact-0
 +16025424331,(602) 542-4331,602-542-4331,Arizona Governor,governor,Arizona,state,main,https://azgovernor.gov/
++16025427800,(602) 542-7800,602-542-7800,Arizona State Treasurer,treasurer,Arizona,state,main,https://www.aztreasury.gov/contact
++16024523300,(602) 452-3300,602-452-3300,Arizona Supreme Court Clerk,state_supreme_court,Arizona,state,clerk,https://www.azcourts.gov/clerkofcourt/Contact-Us
 +18004828982,(800) 482-8982,800-482-8982,Arkansas AG Consumer Protection,attorney_general_consumer_protection,Arkansas,state,consumer_complaint,https://arkansasag.gov/contact-us/
 +15016822007,(501) 682-2007,501-682-2007,Arkansas Attorney General,attorney_general,Arkansas,state,main,https://arkansasag.gov/contact-us/
 +15016822345,(501) 682-2345,501-682-2345,Arkansas Governor,governor,Arkansas,state,main,https://governor.arkansas.gov/
++15016822144,(501) 682-2144,501-682-2144,Arkansas Lieutenant Governor,lieutenant_governor,Arkansas,state,main,https://ltgovernor.arkansas.gov/
++15016188000,(501) 618-8000,501-618-8000,Arkansas State Police Headquarters,state_police,Arkansas,state,main,https://dps.arkansas.gov/law-enforcement/arkansas-state-police/
++15016825888,(501) 682-5888,501-682-5888,Arkansas State Treasurer,treasurer,Arkansas,state,main,https://artreasury.gov/for-arkansans/about-us/contact-us/
++15016826849,(501) 682-6849,501-682-6849,Arkansas Supreme Court Clerk,state_supreme_court,Arkansas,state,clerk,https://arcourts.gov/courts/clerk-of-the-courts
 +19163192800,(916) 319-2800,916-319-2800,California Assembly Committee on Rules,state_house,California,state,main,https://www.assembly.ca.gov/
 +18009525225,(800) 952-5225,800-952-5225,California Attorney General Public Inquiry/Consumer Hotline,attorney_general,California,state,main,https://oag.ca.gov/contact
 +19164459555,(916) 445-9555,916-445-9555,California Attorney General Sacramento Office,attorney_general,California,state,regional,https://oag.ca.gov/contact/mailing-addresses
 +18009679331,(800) 967-9331,800-967-9331,California Department of Insurance,insurance_commissioner,California,state,consumer_hotline,https://www.insurance.ca.gov/0500-about-us/05-contact/
 +18004007115,(800) 400-7115,800-400-7115,California Franchise Tax Board / Tax Service Center,department_of_revenue,California,state,consumer_hotline,https://taxes.ca.gov/contact-us/
 +19164452841,(916) 445-2841,916-445-2841,California Governor,governor,California,state,main,https://www.gov.ca.gov/contact/
++19168433000,(916) 843-3000,916-843-3000,California Highway Patrol Headquarters,state_police,California,state,main,https://www.chp.ca.gov/find-an-office/headquarters/
++19164458994,(916) 445-8994,916-445-8994,California Lieutenant Governor,lieutenant_governor,California,state,main,https://ltg.ca.gov/contact/
 +18006497570,(800) 649-7570,800-649-7570,California Public Utilities Commission Consumer Affairs,public_utility_commission,California,state,consumer_complaint,https://www.cpuc.ca.gov/about-cpuc/contacting-the-puc
 +19166536814,(916) 653-6814,916-653-6814,California Secretary of State,secretary_of_state,California,state,main,https://www.sos.ca.gov/contact-information
 +19166514171,(916) 651-4171,916-651-4171,California Senate Secretary,state_senate,California,state,main,https://secretary.senate.ca.gov/contactus
++19166532995,(916) 653-2995,916-653-2995,California State Treasurer,treasurer,California,state,main,https://www.treasurer.ca.gov/inside/directory
++14158657000,(415) 865-7000,415-865-7000,California Supreme Court Clerk,state_supreme_court,California,state,clerk,https://supreme.courts.ca.gov/about-court/court-locations-and-contacts
 +13038664500,(303) 866-4500,303-866-4500,Colorado Attorney General,attorney_general,Colorado,state,main,https://coag.gov/contact-us/
 +13038662471,(303) 866-2471,303-866-2471,Colorado Governor,governor,Colorado,state,main,https://www.colorado.gov/governor
++13038664075,(303) 866-4075,303-866-4075,Colorado Lieutenant Governor,lieutenant_governor,Colorado,state,main,https://ltgovernor.colorado.gov/contact-the-lt-governor
 +13038942070,(303) 894-2070,303-894-2070,Colorado PUC Consumer Assistance,public_utility_commission,Colorado,state,consumer_complaint,https://puc.colorado.gov/about-the-puc/contact-the-puc
 +13038942000,(303) 894-2000,303-894-2000,Colorado Public Utilities Commission,public_utility_commission,Colorado,state,main,https://puc.colorado.gov/about-the-puc/contact-the-puc
++13032394500,(303) 239-4500,303-239-4500,Colorado State Patrol Headquarters,state_police,Colorado,state,main,https://csp.colorado.gov/talk-with-us/main-offices
++13038666070,(303) 866-6070,303-866-6070,Colorado State Treasurer,treasurer,Colorado,state,main,https://treasury.colorado.gov/contact-us
++17206255150,(720) 625-5150,720-625-5150,Colorado Supreme Court Clerk,state_supreme_court,Colorado,state,clerk,https://www.coloradojudicial.gov/supreme-court/supreme-court-judges-and-staff
 +18608085318,(860) 808-5318,860-808-5318,Connecticut Attorney General,attorney_general,Connecticut,state,main,https://portal.ct.gov/AG/Contact-Us
 +18605664840,(860) 566-4840,860-566-4840,Connecticut Governor,governor,Connecticut,state,main,https://portal.ct.gov/governor/contact/mailing-address-and-phone-numbers
++18605247384,(860) 524-7384,860-524-7384,Connecticut Lieutenant Governor,lieutenant_governor,Connecticut,state,main,https://portal.ct.gov/Office-of-the-Lt-Governor/Contact/Mailing-Address-and-Phone-Numbers
 +18608271553,(860) 827-1553,860-827-1553,Connecticut Public Utilities Regulatory Authority,public_utility_commission,Connecticut,state,main,https://portal.ct.gov/pura/about/contact-us
++18606858000,(860) 685-8000,860-685-8000,Connecticut State Police Headquarters,state_police,Connecticut,state,main,https://portal.ct.gov/despp/services/connecticut-state-police-csp
++18607023000,(860) 702-3000,860-702-3000,Connecticut State Treasurer,treasurer,Connecticut,state,main,https://portal.ct.gov/ott/about-the-treasury/contact-us
++18607572200,(860) 757-2200,860-757-2200,Connecticut Supreme Court Clerk,state_supreme_court,Connecticut,state,clerk,https://www.jud.ct.gov/faq/clerks.html
 +13025778338,(302) 577-8338,302-577-8338,Delaware Attorney General,attorney_general,Delaware,state,main,https://attorneygeneral.delaware.gov/contact/
 +13027444101,(302) 744-4101,302-744-4101,Delaware Governor (Dover),governor,Delaware,state,main,https://governor.delaware.gov/contact/
 +13025773210,(302) 577-3210,302-577-3210,Delaware Governor (Wilmington),governor,Delaware,state,main,https://governor.delaware.gov/contact/
++13027444333,(302) 744-4333,302-744-4333,Delaware Lieutenant Governor,lieutenant_governor,Delaware,state,main,https://ltgov.delaware.gov/contact/
++13027395901,(302) 739-5901,302-739-5901,Delaware State Police Headquarters,state_police,Delaware,state,main,https://dsp.delaware.gov/contact/
++13026726700,(302) 672-6700,302-672-6700,Delaware State Treasurer,treasurer,Delaware,state,main,https://treasurer.delaware.gov/contact-information/
++13027394155,(302) 739-4155,302-739-4155,Delaware Supreme Court,state_supreme_court,Delaware,state,main,https://courts.delaware.gov/supreme/
 +12027273400,(202) 727-3400,202-727-3400,DC Attorney General,attorney_general,District of Columbia,state,main,https://oag.dc.gov/about-oag/contact-us
++12028791010,(202) 879-1010,202-879-1010,DC Court of Appeals Clerk,state_supreme_court,District of Columbia,state,clerk,https://www.dccourts.gov/court-of-appeals/clerk
 +12027272643,(202) 727-2643,202-727-2643,DC Mayor,governor,District of Columbia,state,main,https://mayor.dc.gov/agency/executive-office-of-the-mayor
++12027272476,(202) 727-2476,202-727-2476,DC Office of Finance and Treasury (CFO),treasurer,District of Columbia,state,main,https://cfo.dc.gov/page/office-finance-and-treasury
 +18504143990,(850) 414-3990,850-414-3990,Florida Attorney General,attorney_general,Florida,state,main,https://www.myfloridalegal.com/how-to-contact-us/ag-office-and-phone-numbers
 +18669667226,(866) 966-7226,866-966-7226,Florida Attorney General Citizen Services Hotline,attorney_general_consumer_protection,Florida,state,consumer_complaint,https://www.myfloridalegal.com/how-to-contact-us/ag-office-and-phone-numbers
++18504133100,(850) 413-3100,850-413-3100,Florida Chief Financial Officer,treasurer,Florida,state,main,https://www.myfloridacfo.com/division/aa/contact-us
 +18003523671,(800) 352-3671,800-352-3671,Florida Department of Revenue,department_of_revenue,Florida,state,main,https://floridarevenue.com/Pages/contact.aspx
 +18502456500,(850) 245-6500,850-245-6500,Florida Department of State,secretary_of_state,Florida,state,main,https://dos.fl.gov/contact-us/
 +18504887146,(850) 488-7146,850-488-7146,Florida Governor,governor,Florida,state,main,https://www.flgov.com/eog/leadership/people/ron-desantis/contact
++18506172315,(850) 617-2315,850-617-2315,Florida Highway Patrol Headquarters,state_police,Florida,state,main,https://www.flhsmv.gov/florida-highway-patrol/contact-fhp/
 +18504133089,(850) 413-3089,850-413-3089,Florida Office of Insurance Regulation Consumer Helpline,insurance_commissioner,Florida,state,consumer_hotline,https://floir.gov/about-us/contact-us
 +18003423552,(800) 342-3552,800-342-3552,Florida PSC Consumer Hotline,public_utility_commission,Florida,state,consumer_complaint,https://www.psc.state.fl.us/about
 +18504136100,(850) 413-6100,850-413-6100,Florida Public Service Commission,public_utility_commission,Florida,state,main,https://www.psc.state.fl.us/about
++18504880125,(850) 488-0125,850-488-0125,Florida Supreme Court Clerk,state_supreme_court,Florida,state,clerk,https://supremecourt.flcourts.gov/About-the-Court/Departments-of-the-Court/Clerk-s-Office
 +14046563300,(404) 656-3300,404-656-3300,Georgia Attorney General,attorney_general,Georgia,state,main,https://law.georgia.gov/
 +14046561776,(404) 656-1776,404-656-1776,Georgia Governor,governor,Georgia,state,main,https://gov.georgia.gov/
++14046565030,(404) 656-5030,404-656-5030,Georgia Lieutenant Governor,lieutenant_governor,Georgia,state,main,https://ltgov.georgia.gov/contact-lt-governor
 +14046562070,(404) 656-2070,404-656-2070,Georgia Office of Insurance Commissioner,insurance_commissioner,Georgia,state,main,https://oci.georgia.gov/
 +18002825813,(800) 282-5813,800-282-5813,Georgia PSC Toll-Free,public_utility_commission,Georgia,state,consumer_complaint,https://psc.ga.gov/contact-the-gpsc/
 +14046564501,(404) 656-4501,404-656-4501,Georgia Public Service Commission,public_utility_commission,Georgia,state,main,https://psc.ga.gov/contact-the-gpsc/
++14046247500,(404) 624-7500,404-624-7500,Georgia State Patrol Headquarters,state_police,Georgia,state,main,https://dps.georgia.gov/contacts/georgia-state-patrol
++14046562168,(404) 656-2168,404-656-2168,Georgia State Treasurer,treasurer,Georgia,state,main,https://ost.georgia.gov/contact-information
++14046563470,(404) 656-3470,404-656-3470,Supreme Court of Georgia Clerk,state_supreme_court,Georgia,state,clerk,https://www.gasupreme.us/court-information/clerks-office/
 +16714753409,(671) 475-3409,671-475-3409,Guam Attorney General,attorney_general,Guam,state,main,https://www.oagguam.org/
++16714759380,(671) 475-9380,671-475-9380,Guam Lieutenant Governor,lieutenant_governor,Guam,state,main,https://governor.guam.gov/contact-us/
++16714728911,(671) 472-8911,671-472-8911,Guam Police Department (Non-Emergency),state_police,Guam,state,main,https://gpd.guam.gov/contact-us/
 +18085861500,(808) 586-1500,808-586-1500,Hawaii Attorney General,attorney_general,Hawaii,state,main,https://ag.hawaii.gov/contact-us/
++18085875045,(808) 587-5045,808-587-5045,Hawaii Department of Law Enforcement,state_police,Hawaii,state,main,https://law.hawaii.gov/resources/frequently-called-numbers/
 +18085860034,(808) 586-0034,808-586-0034,Hawaii Governor,governor,Hawaii,state,main,https://governor.hawaii.gov/
++18085860255,(808) 586-0255,808-586-0255,Hawaii Lieutenant Governor,lieutenant_governor,Hawaii,state,main,https://ltgov.hawaii.gov/contact-us/
++18085394777,(808) 539-4777,808-539-4777,Hawaii Supreme Court Clerk,state_supreme_court,Hawaii,state,clerk,https://www.courts.state.hi.us/general_information/contact/courts_of_appeal
 +12083342400,(208) 334-2400,208-334-2400,Idaho Attorney General,attorney_general,Idaho,state,main,https://www.ag.idaho.gov/contact/
 +12083342100,(208) 334-2100,208-334-2100,Idaho Governor,governor,Idaho,state,main,https://gov.idaho.gov/contact-us/
++12083342200,(208) 334-2200,208-334-2200,Idaho Lieutenant Governor,lieutenant_governor,Idaho,state,main,https://lgo.idaho.gov/
 +12083340300,(208) 334-0300,208-334-0300,Idaho Public Utilities Commission,public_utility_commission,Idaho,state,main,https://puc.idaho.gov/Page/Standard/11
++12088847000,(208) 884-7000,208-884-7000,Idaho State Police Headquarters,state_police,Idaho,state,main,https://isp.idaho.gov/contact/
++12083343200,(208) 334-3200,208-334-3200,Idaho State Treasurer,treasurer,Idaho,state,main,https://sto.idaho.gov/Contact-Us
++12083342210,(208) 334-2210,208-334-2210,Idaho Supreme Court Clerk,state_supreme_court,Idaho,state,clerk,https://isc.idaho.gov/main/contactus
 +12177821090,(217) 782-1090,217-782-1090,Illinois Attorney General (Springfield),attorney_general,Illinois,state,main,https://illinoisattorneygeneral.gov/
 +12177827907,(217) 782-7907,217-782-7907,Illinois Commerce Commission (Springfield),public_utility_commission,Illinois,state,main,https://www.icc.illinois.gov/about/contact-us
 +18005240795,(800) 524-0795,800-524-0795,Illinois Commerce Commission Consumer Services,public_utility_commission,Illinois,state,consumer_complaint,https://www.icc.illinois.gov/about/contact-us
 +12177824515,(217) 782-4515,217-782-4515,Illinois Department of Insurance,insurance_commissioner,Illinois,state,main,https://idoi.illinois.gov/aboutus/contactus.html
 +12177826830,(217) 782-6830,217-782-6830,Illinois Governor,governor,Illinois,state,main,https://gov.illinois.gov/contact-us/contact-the-governor.html
++12175583085,(217) 558-3085,217-558-3085,Illinois Lieutenant Governor,lieutenant_governor,Illinois,state,main,https://ltgov.illinois.gov/contact-us.html
 +12177826961,(217) 782-6961,217-782-6961,Illinois Secretary of State,secretary_of_state,Illinois,state,main,https://www.ilsos.gov/
++12175242500,(217) 524-2500,217-524-2500,Illinois State Police,state_police,Illinois,state,main,https://isp.illinois.gov/Home/ContactISP
++12177856998,(217) 785-6998,217-785-6998,Illinois State Treasurer,treasurer,Illinois,state,main,https://illinoistreasurer.gov/home/office-of-the-treasurer/contact-the-treasurers-office/
++13127933250,(312) 793-3250,312-793-3250,Illinois Supreme Court Clerk (Chicago),state_supreme_court,Illinois,state,clerk,https://www.illinoiscourts.gov/courts/supreme-court/staff-and-contact-information/
 +13172326201,(317) 232-6201,317-232-6201,Indiana Attorney General,attorney_general,Indiana,state,main,https://www.in.gov/attorneygeneral/
 +13172324567,(317) 232-4567,317-232-4567,Indiana Governor,governor,Indiana,state,main,https://www.in.gov/gov/contact-the-governor/
++13172324545,(317) 232-4545,317-232-4545,Indiana Lieutenant Governor,lieutenant_governor,Indiana,state,main,https://www.in.gov/lg/
++13172328250,(317) 232-8250,317-232-8250,Indiana State Police Headquarters,state_police,Indiana,state,main,https://www.in.gov/isp/contact-isp/
++13172323072,(317) 232-3072,317-232-3072,Indiana State Treasurer,treasurer,Indiana,state,main,https://www.in.gov/tos/about-the-office/contact-us/
++13172321930,(317) 232-1930,317-232-1930,Indiana Supreme Court (Appellate Clerk),state_supreme_court,Indiana,state,clerk,https://www.in.gov/courts/clerk/contact/
 +15152815164,(515) 281-5164,515-281-5164,Iowa Attorney General,attorney_general,Iowa,state,main,https://www.iowaattorneygeneral.gov/contact-us
 +15152815211,(515) 281-5211,515-281-5211,Iowa Governor,governor,Iowa,state,main,https://governor.iowa.gov/contact-us
++15157256090,(515) 725-6090,515-725-6090,Iowa State Patrol Headquarters,state_police,Iowa,state,main,https://dps.iowa.gov/contacts/iowa-state-patrol-headquarters
++15152815368,(515) 281-5368,515-281-5368,Iowa State Treasurer,treasurer,Iowa,state,main,https://www.iowatreasurer.gov/contact
++15153484700,(515) 348-4700,515-348-4700,Iowa Supreme Court Clerk,state_supreme_court,Iowa,state,clerk,https://www.iowacourts.gov/iowa-courts/supreme-court
 +17852962215,(785) 296-2215,785-296-2215,Kansas Attorney General,attorney_general,Kansas,state,main,https://ag.ks.gov/
 +17852963232,(785) 296-3232,785-296-3232,Kansas Governor,governor,Kansas,state,main,https://governor.kansas.gov/
++17852966800,(785) 296-6800,785-296-6800,Kansas Highway Patrol,state_police,Kansas,state,main,https://kansashighwaypatrol.gov/
++17853688500,(785) 368-8500,785-368-8500,Kansas Lieutenant Governor,lieutenant_governor,Kansas,state,main,https://www.governor.ks.gov/contact
++17852963171,(785) 296-3171,785-296-3171,Kansas State Treasurer,treasurer,Kansas,state,main,https://www.kansasstatetreasurer.com/contact_us.html
++17852963229,(785) 296-3229,785-296-3229,Kansas Supreme Court (Appellate Clerk),state_supreme_court,Kansas,state,clerk,https://kscourts.gov/Footer/Contact-Us
 +15026965300,(502) 696-5300,502-696-5300,Kentucky Attorney General,attorney_general,Kentucky,state,main,https://www.ag.ky.gov/
 +15025642611,(502) 564-2611,502-564-2611,Kentucky Governor,governor,Kentucky,state,main,https://governor.ky.gov/contact/contact-us
++18002225555,(800) 222-5555,800-222-5555,Kentucky State Police,state_police,Kentucky,state,main,https://www.kentuckystatepolice.ky.gov/
++15025644722,(502) 564-4722,502-564-4722,Kentucky State Treasurer,treasurer,Kentucky,state,main,https://treasury.ky.gov/contact/Pages/contact.aspx
++15025645444,(502) 564-5444,502-564-5444,Kentucky Supreme Court Clerk,state_supreme_court,Kentucky,state,clerk,https://www.kycourts.gov/Courts/Supreme-Court/Pages/default.aspx
 +12253266079,(225) 326-6079,225-326-6079,Louisiana Attorney General,attorney_general,Louisiana,state,main,https://ag.louisiana.gov/
 +12253420991,(225) 342-0991,225-342-0991,Louisiana Governor,governor,Louisiana,state,main,https://gov.louisiana.gov/
++12253427009,(225) 342-7009,225-342-7009,Louisiana Lieutenant Governor,lieutenant_governor,Louisiana,state,main,https://www.crt.state.la.us/lt-governor/contact/
++18004694828,(800) 469-4828,800-469-4828,Louisiana State Police,state_police,Louisiana,state,main,https://lsp.org/about/contact-info/
++12253420010,(225) 342-0010,225-342-0010,Louisiana State Treasurer,treasurer,Louisiana,state,main,https://www.treasury.la.gov/contact-us
++15043102300,(504) 310-2300,504-310-2300,Louisiana Supreme Court Clerk,state_supreme_court,Louisiana,state,clerk,https://www.lasc.org/ClerksOffice
 +12076268800,(207) 626-8800,207-626-8800,Maine Attorney General,attorney_general,Maine,state,main,https://www.maine.gov/ag/
 +12072873531,(207) 287-3531,207-287-3531,Maine Governor,governor,Maine,state,main,https://www.maine.gov/governor/
++12076247076,(207) 624-7076,207-624-7076,Maine State Police Headquarters,state_police,Maine,state,main,https://www.maine.gov/dps/msp/about/contact
++12076247477,(207) 624-7477,207-624-7477,Maine State Treasurer,treasurer,Maine,state,main,https://www.maine.gov/treasurer/contact-us
++12078224146,(207) 822-4146,207-822-4146,Maine Supreme Judicial Court Clerk,state_supreme_court,Maine,state,clerk,https://www.courts.maine.gov/courts/sjc/index.html
 +14105766300,(410) 576-6300,410-576-6300,Maryland Attorney General,attorney_general,Maryland,state,main,https://www.marylandattorneygeneral.gov/
++14109743901,(410) 974-3901,410-974-3901,Maryland Governor,governor,Maryland,state,main,https://governor.maryland.gov/contact-us/Pages/default.aspx
++14109742461,(410) 974-2461,410-974-2461,Maryland Lieutenant Governor,lieutenant_governor,Maryland,state,main,https://governor.maryland.gov/leadership/ltgovernor/contact-us/Pages/default.aspx
++14104863101,(410) 486-3101,410-486-3101,Maryland State Police Headquarters,state_police,Maryland,state,main,https://mdsp.maryland.gov/Pages/ContactUs.aspx
++14102607533,(410) 260-7533,410-260-7533,Maryland State Treasurer,treasurer,Maryland,state,main,https://treasurer.state.md.us/contact-us/
++14102601500,(410) 260-1500,410-260-1500,Supreme Court of Maryland Clerk,state_supreme_court,Maryland,state,clerk,https://www.courts.state.md.us/scm/clerk
 +16177278400,(617) 727-8400,617-727-8400,Massachusetts Attorney General,attorney_general,Massachusetts,state,main,https://www.mass.gov/contact-the-attorney-generals-office
 +16177372836,(617) 737-2836,617-737-2836,Massachusetts DPU Consumer Division,public_utility_commission,Massachusetts,state,consumer_complaint,https://www.mass.gov/orgs/consumer-division
 +16173053500,(617) 305-3500,617-305-3500,Massachusetts Department of Public Utilities,public_utility_commission,Massachusetts,state,main,https://www.mass.gov/orgs/department-of-public-utilities
 +16175217794,(617) 521-7794,617-521-7794,Massachusetts Division of Insurance,insurance_commissioner,Massachusetts,state,main,https://www.mass.gov/orgs/division-of-insurance
 +16177254005,(617) 725-4005,617-725-4005,Massachusetts Governor,governor,Massachusetts,state,main,https://www.mass.gov/orgs/office-of-the-governor
++16177254000,(617) 725-4000,617-725-4000,Massachusetts Lieutenant Governor,lieutenant_governor,Massachusetts,state,main,https://www.mass.gov/orgs/governor-maura-healey-and-lt-governor-kim-driscoll
 +16177279640,(617) 727-9640,617-727-9640,Massachusetts Secretary of the Commonwealth,secretary_of_state,Massachusetts,state,main,https://www.sec.state.ma.us/
++15088202300,(508) 820-2300,508-820-2300,Massachusetts State Police Headquarters,state_police,Massachusetts,state,main,https://www.mass.gov/info-details/phone-listings-for-massachusetts-state-police
++16173676900,(617) 367-6900,617-367-6900,Massachusetts State Treasurer,treasurer,Massachusetts,state,main,https://www.masstreasury.org/
++16175571020,(617) 557-1020,617-557-1020,Massachusetts Supreme Judicial Court Clerk for the Commonwealth,state_supreme_court,Massachusetts,state,clerk,https://www.mass.gov/info-details/supreme-judicial-court-contact-information
 +15173357622,(517) 335-7622,517-335-7622,Michigan Attorney General,attorney_general,Michigan,state,main,https://www.michigan.gov/ag/ag-contact-directory
 +15172848800,(517) 284-8800,517-284-8800,Michigan Department of Insurance and Financial Services,insurance_commissioner,Michigan,state,main,https://www.michigan.gov/difs
++15173357508,(517) 335-7508,517-335-7508,Michigan Department of Treasury,treasurer,Michigan,state,main,https://www.michigan.gov/treasury/contact-us
 +15173733400,(517) 373-3400,517-373-3400,Michigan Governor,governor,Michigan,state,main,https://www.michigan.gov/whitmer/contact
++15173736800,(517) 373-6800,517-373-6800,Michigan Lieutenant Governor,lieutenant_governor,Michigan,state,main,https://www.michigan.gov/whitmer/ltgov
 +15172848100,(517) 284-8100,517-284-8100,Michigan Public Service Commission,public_utility_commission,Michigan,state,main,https://www.michigan.gov/mpsc/about/contact-us
 +18002929555,(800) 292-9555,800-292-9555,Michigan Public Service Commission Consumer Hotline,public_utility_commission,Michigan,state,consumer_complaint,https://www.michigan.gov/mpsc/about/contact-us
 +18887676424,(888) 767-6424,888-767-6424,Michigan Secretary of State,secretary_of_state,Michigan,state,main,https://www.michigan.gov/sos
++15173322521,(517) 332-2521,517-332-2521,Michigan State Police Headquarters,state_police,Michigan,state,main,https://www.michigan.gov/msp/about-msp/contact
++15173730130,(517) 373-0130,517-373-0130,Michigan Supreme Court,state_supreme_court,Michigan,state,main,https://www.courts.michigan.gov/courts/supreme-court/clerks-office/
 +18006573787,(800) 657-3787,800-657-3787,Minnesota AG Statewide Toll-Free,attorney_general_consumer_protection,Minnesota,state,consumer_complaint,https://www.ag.state.mn.us/office/contactus.asp
 +16512963353,(651) 296-3353,651-296-3353,Minnesota Attorney General,attorney_general,Minnesota,state,main,https://www.ag.state.mn.us/office/contactus.asp
 +16512013400,(651) 201-3400,651-201-3400,Minnesota Governor,governor,Minnesota,state,main,https://mn.gov/governor/
++16512017100,(651) 201-7100,651-201-7100,Minnesota State Patrol Headquarters,state_police,Minnesota,state,main,https://dps.mn.gov/divisions/msp/contact-state-patrol/state-patrol-contact-information
++16512915297,(651) 291-5297,651-291-5297,Minnesota Supreme Court (Appellate Clerk),state_supreme_court,Minnesota,state,clerk,https://www.mncourts.gov/Clerk-of-Appellate-courts.aspx
 +16013593680,(601) 359-3680,601-359-3680,Mississippi Attorney General,attorney_general,Mississippi,state,main,https://www.ago.state.ms.us/
 +16013593150,(601) 359-3150,601-359-3150,Mississippi Governor,governor,Mississippi,state,main,https://www.governor.ms.gov/
++16013593200,(601) 359-3200,601-359-3200,Mississippi Lieutenant Governor,lieutenant_governor,Mississippi,state,main,https://ltgovhosemann.ms.gov/contact/
++16013593600,(601) 359-3600,601-359-3600,Mississippi State Treasurer,treasurer,Mississippi,state,main,https://treasury.ms.gov/about/contact-us/
++16013593694,(601) 359-3694,601-359-3694,Mississippi Supreme Court Clerk,state_supreme_court,Mississippi,state,clerk,https://courts.ms.gov/appellatecourts/clerk/clerk.php
 +15737513321,(573) 751-3321,573-751-3321,Missouri Attorney General,attorney_general,Missouri,state,main,https://ago.mo.gov/
 +15737513222,(573) 751-3222,573-751-3222,Missouri Governor,governor,Missouri,state,main,https://governor.mo.gov/contact-us/mo-governor
++15737514727,(573) 751-4727,573-751-4727,Missouri Lieutenant Governor,lieutenant_governor,Missouri,state,main,https://ltgov.mo.gov/contact-us/
++15737513313,(573) 751-3313,573-751-3313,Missouri State Highway Patrol Headquarters,state_police,Missouri,state,main,https://statepatrol.dps.mo.gov/pages/contactus
++15737518533,(573) 751-8533,573-751-8533,Missouri State Treasurer,treasurer,Missouri,state,main,https://treasurer.mo.gov/Content/ContactUsForm
++15737514144,(573) 751-4144,573-751-4144,Missouri Supreme Court Clerk,state_supreme_court,Missouri,state,clerk,https://www.courts.mo.gov/page.jsp?id=214
 +14064442026,(406) 444-2026,406-444-2026,Montana Attorney General,attorney_general,Montana,state,main,https://dojmt.gov/
 +14064443111,(406) 444-3111,406-444-3111,Montana Governor,governor,Montana,state,main,https://governor.mt.gov/contact/
++14064443278,(406) 444-3278,406-444-3278,Montana Highway Patrol Headquarters,state_police,Montana,state,main,https://dojmt.gov/montana-highway-patrol/contact-mhp/
++14064443858,(406) 444-3858,406-444-3858,Montana Supreme Court Clerk,state_supreme_court,Montana,state,clerk,https://courts.mt.gov/clerk/
 +14024712683,(402) 471-2683,402-471-2683,Nebraska Attorney General,attorney_general,Nebraska,state,main,https://ago.nebraska.gov/contact-us
 +14024712244,(402) 471-2244,402-471-2244,Nebraska Governor,governor,Nebraska,state,main,https://governor.nebraska.gov/contact-governor
++14024714545,(402) 471-4545,402-471-4545,Nebraska State Patrol Headquarters,state_police,Nebraska,state,main,https://statepatrol.nebraska.gov/contact
++14024712455,(402) 471-2455,402-471-2455,Nebraska State Treasurer,treasurer,Nebraska,state,main,https://treasurer.nebraska.gov/contact.aspx
++14024713731,(402) 471-3731,402-471-3731,Nebraska Supreme Court Clerk,state_supreme_court,Nebraska,state,clerk,https://nebraskajudicial.gov/courts/appellate-courts-offices/clerk-supreme-court-and-court-appeals
 +17756841100,(775) 684-1100,775-684-1100,Nevada Attorney General,attorney_general,Nevada,state,main,https://ag.nv.gov/
 +17756845670,(775) 684-5670,775-684-5670,Nevada Governor,governor,Nevada,state,main,https://gov.nv.gov/contact/contact/
++17756875300,(775) 687-5300,775-687-5300,Nevada Highway Patrol Headquarters,state_police,Nevada,state,main,https://nhp.nv.gov/Offices/Headquarters/
++17756847111,(775) 684-7111,775-684-7111,Nevada Lieutenant Governor,lieutenant_governor,Nevada,state,main,https://ltgov.nv.gov/Contact/Contact/
++17024864140,(702) 486-4140,702-486-4140,Nevada State Treasurer,treasurer,Nevada,state,main,https://www.nevadatreasurer.gov/Contact/Contact/
++17756841600,(775) 684-1600,775-684-1600,Nevada Supreme Court Clerk (Carson City),state_supreme_court,Nevada,state,clerk,https://nvcourts.gov/supreme/contact/supreme_court_of_nevada_clerk_s_office
 +16032713658,(603) 271-3658,603-271-3658,New Hampshire Attorney General,attorney_general,New Hampshire,state,main,https://www.doj.nh.gov/
 +16032712121,(603) 271-2121,603-271-2121,New Hampshire Governor,governor,New Hampshire,state,main,https://www.governor.nh.gov/contact-governor-ayotte
++16032234381,(603) 223-4381,603-223-4381,New Hampshire State Police Headquarters Communications,state_police,New Hampshire,state,main,https://www.nhsp.dos.nh.gov/our-services/justice-information-bureau/headquarters-communications
++16032712621,(603) 271-2621,603-271-2621,New Hampshire State Treasurer,treasurer,New Hampshire,state,main,https://www.treasury.nh.gov/contact-us
++16032712646,(603) 271-2646,603-271-2646,New Hampshire Supreme Court Clerk,state_supreme_court,New Hampshire,state,clerk,https://www.courts.nh.gov/our-courts/supreme-court/contact
 +19735046200,(973) 504-6200,973-504-6200,New Jersey Attorney General,attorney_general,New Jersey,state,main,https://www.njoag.gov/
++16092926000,(609) 292-6000,609-292-6000,New Jersey Governor,governor,New Jersey,state,main,https://www.nj.gov/governor/contact/index.shtml
++16098822000,(609) 882-2000,609-882-2000,New Jersey State Police Headquarters,state_police,New Jersey,state,main,https://www.nj.gov/njsp/contact-us.shtml
++16092926748,(609) 292-6748,609-292-6748,New Jersey State Treasurer,treasurer,New Jersey,state,main,https://www.nj.gov/treasury/
++16098152955,(609) 815-2955,609-815-2955,Supreme Court of New Jersey Clerk,state_supreme_court,New Jersey,state,clerk,https://www.njcourts.gov/courts/supreme
 +15058276000,(505) 827-6000,505-827-6000,New Mexico Attorney General (Department of Justice),attorney_general,New Mexico,state,main,https://nmdoj.gov/contact-us/
 +15054762200,(505) 476-2200,505-476-2200,New Mexico Governor,governor,New Mexico,state,main,https://www.governor.state.nm.us/contact-the-governor/
++15054762250,(505) 476-2250,505-476-2250,New Mexico Lieutenant Governor,lieutenant_governor,New Mexico,state,main,https://www.lgo.nm.gov/contact-form-lt-gov/
++15058279300,(505) 827-9300,505-827-9300,New Mexico State Police Headquarters,state_police,New Mexico,state,main,https://www.dps.nm.gov/contact-us/
++15059551120,(505) 955-1120,505-955-1120,New Mexico State Treasurer,treasurer,New Mexico,state,main,https://www.nmsto.gov/contact
++15058274860,(505) 827-4860,505-827-4860,New Mexico Supreme Court Clerk,state_supreme_court,New Mexico,state,clerk,https://supremecourt.nmcourts.gov/location-hours-contact/
 +15187762000,(518) 776-2000,518-776-2000,New York Attorney General,attorney_general,New York,state,main,https://ag.ny.gov/contact-attorney-general-letitia-james
 +18007717755,(800) 771-7755,800-771-7755,New York Attorney General Consumer Hotline,attorney_general_consumer_protection,New York,state,consumer_complaint,https://ag.ny.gov/contact-attorney-general-letitia-james
++15184557700,(518) 455-7700,518-455-7700,New York Court of Appeals Clerk,state_supreme_court,New York,state,clerk,https://www.nycourts.gov/ctapps/phone.htm
 +18003423736,(800) 342-3736,800-342-3736,New York DFS Licensing,insurance_commissioner,New York,state,consumer_hotline,https://www.dfs.ny.gov/contact_us/main
 +12124806400,(212) 480-6400,212-480-6400,New York Department of Financial Services (Insurance),insurance_commissioner,New York,state,main,https://www.dfs.ny.gov/contact_us/main
 +15184732492,(518) 473-2492,518-473-2492,New York Department of State,secretary_of_state,New York,state,main,https://dos.ny.gov/form/contact-us
 +15184575149,(518) 457-5149,518-457-5149,New York Department of Taxation and Finance,department_of_revenue,New York,state,main,https://www.tax.ny.gov/
 +15184748390,(518) 474-8390,518-474-8390,New York Governor,governor,New York,state,main,https://www.governor.ny.gov/content/governor-contact-form
++15184022292,(518) 402-2292,518-402-2292,New York Lieutenant Governor,lieutenant_governor,New York,state,main,https://www.governor.ny.gov/keywords/lieutenant-governor
 +18003423377,(800) 342-3377,800-342-3377,New York PSC Consumer Services,public_utility_commission,New York,state,consumer_complaint,https://dps.ny.gov/helpful-information-about-public-service-commission
 +15184746530,(518) 474-6530,518-474-6530,New York Public Service Commission,public_utility_commission,New York,state,main,https://dps.ny.gov/contact-us
++15184744044,(518) 474-4044,518-474-4044,New York State Comptroller,treasurer,New York,state,main,https://www.osc.ny.gov/help/contact-us
++15182793403,(518) 279-3403,518-279-3403,New York State Police Headquarters (PSB),state_police,New York,state,main,https://troopers.ny.gov/contact-us
 +19197166400,(919) 716-6400,919-716-6400,North Carolina Attorney General,attorney_general,North Carolina,state,main,https://ncdoj.gov/
 +19198142000,(919) 814-2000,919-814-2000,North Carolina Governor,governor,North Carolina,state,main,https://governor.nc.gov/contact
++19198143680,(919) 814-3680,919-814-3680,North Carolina Lieutenant Governor,lieutenant_governor,North Carolina,state,main,https://ltgov.nc.gov/contact
++19197337952,(919) 733-7952,919-733-7952,North Carolina State Highway Patrol Headquarters,state_police,North Carolina,state,main,https://www.ncshp.gov/our-organization/troop-offices/patrol-headquarters
++19198144000,(919) 814-4000,919-814-4000,North Carolina State Treasurer,treasurer,North Carolina,state,main,https://www.nctreasurer.gov/contact-us
 +19197337328,(919) 733-7328,919-733-7328,North Carolina Utilities Commission,public_utility_commission,North Carolina,state,main,https://www.ncuc.gov/contactus.html
++19198315700,(919) 831-5700,919-831-5700,Supreme Court of North Carolina Clerk,state_supreme_court,North Carolina,state,clerk,https://www.nccourts.gov/courts/supreme-court
 +17013282210,(701) 328-2210,701-328-2210,North Dakota Attorney General,attorney_general,North Dakota,state,main,https://attorneygeneral.nd.gov/attorney-generals-office/contact-us/
 +17013282200,(701) 328-2200,701-328-2200,North Dakota Governor,governor,North Dakota,state,main,https://www.governor.nd.gov/contact
++17013289921,(701) 328-9921,701-328-9921,North Dakota State Emergency Communications Center (NDHP),state_police,North Dakota,state,main,https://www.statepatrol.nd.gov/ndhp-about-us/contact-ndhp
++17013282643,(701) 328-2643,701-328-2643,North Dakota State Treasurer,treasurer,North Dakota,state,main,https://www.treasurer.nd.gov/contact
++17013284216,(701) 328-4216,701-328-4216,North Dakota Supreme Court Clerk,state_supreme_court,North Dakota,state,clerk,https://www.ndcourts.gov/contact-us
 +16706642341,(670) 664-2341,670-664-2341,Northern Mariana Islands Attorney General,attorney_general,Northern Mariana Islands,state,main,https://www.cnmioag.org/
++16702372200,(670) 237-2200,670-237-2200,Northern Mariana Islands Lieutenant Governor,lieutenant_governor,Northern Mariana Islands,state,main,https://governor.cnmi.gov/
 +16144664320,(614) 466-4320,614-466-4320,Ohio Attorney General,attorney_general,Ohio,state,main,https://www.ohioattorneygeneral.gov/
 +16146442658,(614) 644-2658,614-644-2658,Ohio Department of Insurance,insurance_commissioner,Ohio,state,main,https://insurance.ohio.gov/
 +16144663555,(614) 466-3555,614-466-3555,Ohio Governor,governor,Ohio,state,main,https://governor.ohio.gov/
++16144663396,(614) 466-3396,614-466-3396,Ohio Lieutenant Governor,lieutenant_governor,Ohio,state,main,https://ohioroster.ohiosos.gov/
 +18006867826,(800) 686-7826,800-686-7826,Ohio PUCO Consumer Hotline,public_utility_commission,Ohio,state,consumer_complaint,https://www.puco.ohio.gov/
 +16144662655,(614) 466-2655,614-466-2655,Ohio Secretary of State,secretary_of_state,Ohio,state,main,https://www.ohiosos.gov/
++16144662660,(614) 466-2660,614-466-2660,Ohio State Highway Patrol,state_police,Ohio,state,main,https://statepatrol.ohio.gov/
++16144662160,(614) 466-2160,614-466-2160,Ohio State Treasurer,treasurer,Ohio,state,main,https://tos.ohio.gov/contact-us/
 +16144662552,(614) 466-2552,614-466-2552,Public Utilities Commission of Ohio,public_utility_commission,Ohio,state,main,https://www.puco.ohio.gov/
++16143879000,(614) 387-9000,614-387-9000,Supreme Court of Ohio,state_supreme_court,Ohio,state,main,https://www.supremecourt.ohio.gov/SCO/contact/phone-faq.asp
 +14055213921,(405) 521-3921,405-521-3921,Oklahoma Attorney General,attorney_general,Oklahoma,state,main,https://www.oag.ok.gov/contact
 +14055212342,(405) 521-2342,405-521-2342,Oklahoma Governor,governor,Oklahoma,state,main,https://oklahoma.gov/governor/contact/general-information/contact-the-governor.html
++14054252424,(405) 425-2424,405-425-2424,Oklahoma Highway Patrol Headquarters,state_police,Oklahoma,state,main,https://oklahoma.gov/dps/programs-services/ohp.html
++14055212161,(405) 521-2161,405-521-2161,Oklahoma Lieutenant Governor,lieutenant_governor,Oklahoma,state,main,https://oklahoma.gov/ltgovpinnell/contact.html
++14055213191,(405) 521-3191,405-521-3191,Oklahoma State Treasurer,treasurer,Oklahoma,state,main,https://oklahoma.gov/treasurer/contact-us.html
++14055569400,(405) 556-9400,405-556-9400,Oklahoma Supreme Court Clerk,state_supreme_court,Oklahoma,state,clerk,https://oksc.oscn.net/clerk-of-the-supreme-court/
 +15033784732,(503) 378-4732,503-378-4732,Oregon Attorney General (DOJ),attorney_general,Oregon,state,main,https://www.doj.state.or.us/
 +15033784582,(503) 378-4582,503-378-4582,Oregon Governor,governor,Oregon,state,main,https://www.oregon.gov/gov/pages/contact-us.aspx
++15033783720,(503) 378-3720,503-378-3720,Oregon State Police General Headquarters,state_police,Oregon,state,main,https://www.oregon.gov/osp/pages/contact.aspx
++15033784000,(503) 378-4000,503-378-4000,Oregon State Treasurer,treasurer,Oregon,state,main,https://www.oregon.gov/treasury/pages/contact.aspx
++15039865555,(503) 986-5555,503-986-5555,Oregon Supreme Court,state_supreme_court,Oregon,state,main,https://www.courts.oregon.gov/courts/appellate/supreme/pages/default.aspx
 +17177873391,(717) 787-3391,717-787-3391,Pennsylvania Attorney General,attorney_general,Pennsylvania,state,main,https://www.attorneygeneral.gov/
 +18887282937,(888) 728-2937,888-728-2937,Pennsylvania Department of Revenue,department_of_revenue,Pennsylvania,state,main,https://www.pa.gov/agencies/revenue/contact-us/contact-us-by-phone
 +17177876458,(717) 787-6458,717-787-6458,Pennsylvania Department of State,secretary_of_state,Pennsylvania,state,main,https://www.pa.gov/agencies/dos.html
++17177872500,(717) 787-2500,717-787-2500,Pennsylvania Governor,governor,Pennsylvania,state,main,https://www.pa.gov/governor/contact-us
++17177873300,(717) 787-3300,717-787-3300,Pennsylvania Lieutenant Governor,lieutenant_governor,Pennsylvania,state,main,https://www.pa.gov/ltgovernor/contact-the-lt--governor-s-office
 +18006927380,(800) 692-7380,800-692-7380,Pennsylvania PUC Consumer,public_utility_commission,Pennsylvania,state,consumer_complaint,https://www.puc.pa.gov/about-the-puc/contact-us/
++17177835599,(717) 783-5599,717-783-5599,Pennsylvania State Police Headquarters,state_police,Pennsylvania,state,main,https://www.pa.gov/agencies/psp/contact-psp
++17177872465,(717) 787-2465,717-787-2465,Pennsylvania State Treasurer,treasurer,Pennsylvania,state,main,https://www.patreasury.gov/contact/
++17177876181,(717) 787-6181,717-787-6181,"Supreme Court of Pennsylvania (Prothonotary, Harrisburg)",state_supreme_court,Pennsylvania,state,clerk,https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses
 +17877212900,(787) 721-2900,787-721-2900,Puerto Rico Department of Justice,attorney_general,Puerto Rico,state,main,https://www.justicia.pr.gov/
 +14012744400,(401) 274-4400,401-274-4400,Rhode Island Attorney General,attorney_general,Rhode Island,state,main,https://riag.ri.gov/about-our-office/contact-us
++14012222397,(401) 222-2397,401-222-2397,Rhode Island General Treasurer,treasurer,Rhode Island,state,main,https://treasury.ri.gov/contact-us
 +14012222080,(401) 222-2080,401-222-2080,Rhode Island Governor,governor,Rhode Island,state,main,https://governor.ri.gov/contact
++14012222371,(401) 222-2371,401-222-2371,Rhode Island Lieutenant Governor,lieutenant_governor,Rhode Island,state,main,https://ltgov.ri.gov/contact
++14014441000,(401) 444-1000,401-444-1000,Rhode Island State Police Headquarters,state_police,Rhode Island,state,main,https://risp.ri.gov/contact
++14012223272,(401) 222-3272,401-222-3272,Rhode Island Supreme Court Clerk,state_supreme_court,Rhode Island,state,clerk,https://www.courts.ri.gov/Courts/SupremeCourt/Pages/default.aspx
 +18037343970,(803) 734-3970,803-734-3970,South Carolina Attorney General,attorney_general,South Carolina,state,main,https://www.scag.gov/
 +18037342100,(803) 734-2100,803-734-2100,South Carolina Governor,governor,South Carolina,state,main,https://governor.sc.gov/
++18038967920,(803) 896-7920,803-896-7920,South Carolina Highway Patrol Headquarters,state_police,South Carolina,state,main,https://scdps.sc.gov/schp/contact/Headquarters
++18037341080,(803) 734-1080,803-734-1080,South Carolina Supreme Court Clerk,state_supreme_court,South Carolina,state,clerk,https://www.sccourts.org/courts/supreme-court/clerk-of-court/
 +16057733215,(605) 773-3215,605-773-3215,South Dakota Attorney General,attorney_general,South Dakota,state,main,https://atg.sd.gov/contact.aspx
 +16057733212,(605) 773-3212,605-773-3212,South Dakota Governor,governor,South Dakota,state,main,https://governor.sd.gov/
++16057733105,(605) 773-3105,605-773-3105,South Dakota Highway Patrol Headquarters,state_police,South Dakota,state,main,https://dps.sd.gov/safety-enforcement/highway-patrol
++16057733378,(605) 773-3378,605-773-3378,South Dakota State Treasurer,treasurer,South Dakota,state,main,https://sdtreasurer.gov/contact/
++16057733511,(605) 773-3511,605-773-3511,South Dakota Supreme Court Clerk,state_supreme_court,South Dakota,state,clerk,https://ujs.sd.gov/sd-unified-judicial-system-directory/clerk-of-the-south-dakota-supreme-court/
 +16157413491,(615) 741-3491,615-741-3491,Tennessee Attorney General,attorney_general,Tennessee,state,main,https://www.tn.gov/attorneygeneral/contact-us.html
++16155328025,(615) 532-8025,615-532-8025,Tennessee Department of Treasury,treasurer,Tennessee,state,main,https://treasury.tn.gov/
 +16157412001,(615) 741-2001,615-741-2001,Tennessee Governor,governor,Tennessee,state,main,https://www.tn.gov/governor/contact-us.html
++16157434990,(615) 743-4990,615-743-4990,Tennessee Highway Patrol (Nashville District HQ),state_police,Tennessee,state,main,https://www.tn.gov/safety/tnhp/thpcontacts.html
++16157416806,(615) 741-6806,615-741-6806,Tennessee Lieutenant Governor,lieutenant_governor,Tennessee,state,main,https://capitol.tn.gov/senate/
++16157412681,(615) 741-2681,615-741-2681,"Tennessee Supreme Court (Appellate Court Clerk, Nashville)",state_supreme_court,Tennessee,state,clerk,https://www.tncourts.gov/courts/appellate-court-clerks-office/offices
 +15129367000,(512) 936-7000,512-936-7000,Public Utility Commission of Texas,public_utility_commission,Texas,state,main,https://www.puc.texas.gov/agency/about/contact/directions/Default.aspx
++15124631312,(512) 463-1312,512-463-1312,Supreme Court of Texas Clerk,state_supreme_court,Texas,state,clerk,https://www.txcourts.gov/supreme/about-the-court/clerks-office/
 +15129361200,(512) 936-1200,512-936-1200,Texas Attorney General,attorney_general,Texas,state,main,https://www.texasattorneygeneral.gov/contact-us
 +18006210508,(800) 621-0508,800-621-0508,Texas Attorney General Consumer Protection Hotline,attorney_general_consumer_protection,Texas,state,consumer_complaint,https://www.texasattorneygeneral.gov/contact-us
++18005315441,(800) 531-5441,800-531-5441,Texas Comptroller of Public Accounts,treasurer,Texas,state,main,https://comptroller.texas.gov/about/contact/
++18005255555,(800) 525-5555,800-525-5555,Texas DPS Highway Patrol (24-hour non-emergency),state_police,Texas,state,main,https://www.dps.texas.gov/section/media-and-communications-office/contact-us
 +15126766000,(512) 676-6000,512-676-6000,Texas Department of Insurance,insurance_commissioner,Texas,state,main,https://www.tdi.texas.gov/general/contactus.html
 +18002523439,(800) 252-3439,800-252-3439,Texas Department of Insurance Help Line,insurance_commissioner,Texas,state,consumer_hotline,https://www.tdi.texas.gov/general/contactus.html
 +15124632000,(512) 463-2000,512-463-2000,Texas Governor,governor,Texas,state,main,https://gov.texas.gov/contact
++15124630001,(512) 463-0001,512-463-0001,Texas Lieutenant Governor,lieutenant_governor,Texas,state,main,https://www.ltgov.texas.gov/contact/
 +15124635555,(512) 463-5555,512-463-5555,Texas Secretary of State,secretary_of_state,Texas,state,main,https://www.sos.texas.gov/
++13407736449,(340) 773-6449,340-773-6449,U.S. Virgin Islands Lieutenant Governor (St. Croix),lieutenant_governor,U.S. Virgin Islands,state,branch,https://ltg.gov.vi/contact-us/
++13407742991,(340) 774-2991,340-774-2991,U.S. Virgin Islands Lieutenant Governor (St. Thomas),lieutenant_governor,U.S. Virgin Islands,state,main,https://ltg.gov.vi/contact-us/
++13407126005,(340) 712-6005,340-712-6005,U.S. Virgin Islands Police Department (St. Croix Commissioner),state_police,U.S. Virgin Islands,state,branch,https://vipd.vi.gov/contact-us/
++13407155506,(340) 715-5506,340-715-5506,U.S. Virgin Islands Police Department (St. Thomas/St. John Commissioner),state_police,U.S. Virgin Islands,state,main,https://vipd.vi.gov/contact-us/
 +13407745666,(340) 774-5666,340-774-5666,US Virgin Islands Attorney General,attorney_general,US Virgin Islands,state,main,https://www.justice.gov.vi/
 +18013660260,(801) 366-0260,801-366-0260,Utah Attorney General,attorney_general,Utah,state,main,https://attorneygeneral.utah.gov/contact-us/
 +18015381000,(801) 538-1000,801-538-1000,Utah Governor,governor,Utah,state,main,https://governor.utah.gov/contact/
++18019654518,(801) 965-4518,801-965-4518,Utah Highway Patrol Headquarters,state_police,Utah,state,main,https://highwaypatrol.utah.gov/contact/
++18015381041,(801) 538-1041,801-538-1041,Utah Lieutenant Governor,lieutenant_governor,Utah,state,main,https://ltgovernor.utah.gov/
++18015381042,(801) 538-1042,801-538-1042,Utah State Treasurer,treasurer,Utah,state,main,https://treasurer.utah.gov/about/contact-information/
++18015783900,(801) 578-3900,801-578-3900,Utah Supreme Court (Appellate Clerk),state_supreme_court,Utah,state,clerk,https://www.utcourts.gov/en/about/miscellaneous/directory.html
 +18028283171,(802) 828-3171,802-828-3171,Vermont Attorney General,attorney_general,Vermont,state,main,https://ago.vermont.gov/
 +18028283333,(802) 828-3333,802-828-3333,Vermont Governor,governor,Vermont,state,main,https://governor.vermont.gov/contact
++18028282226,(802) 828-2226,802-828-2226,Vermont Lieutenant Governor,lieutenant_governor,Vermont,state,main,https://ltgov.vermont.gov/form/contact
++18022447345,(802) 244-7345,802-244-7345,Vermont State Police Headquarters,state_police,Vermont,state,main,https://vsp.vermont.gov/headquarters
++18028282301,(802) 828-2301,802-828-2301,Vermont State Treasurer,treasurer,Vermont,state,main,https://www.vermonttreasurer.gov/contact-us
++18028284774,(802) 828-4774,802-828-4774,Vermont Supreme Court Clerk,state_supreme_court,Vermont,state,clerk,https://www.vermontjudiciary.org/court-locations/supreme-court
++18047862251,(804) 786-2251,804-786-2251,Supreme Court of Virginia Clerk,state_supreme_court,Virginia,state,clerk,https://www.vacourts.gov/courts/scv/home
 +18047862071,(804) 786-2071,804-786-2071,Virginia Attorney General,attorney_general,Virginia,state,main,https://www.oag.state.va.us/contact-us/contact-info
++18042252142,(804) 225-2142,804-225-2142,Virginia Department of the Treasury,treasurer,Virginia,state,main,https://trs.virginia.gov/About-Us/Contact-Us
 +18047862211,(804) 786-2211,804-786-2211,Virginia Governor,governor,Virginia,state,main,https://www.governor.virginia.gov/
++18047862078,(804) 786-2078,804-786-2078,Virginia Lieutenant Governor,lieutenant_governor,Virginia,state,main,https://www.virginia.gov/agencies/office-of-the-lieutenant-governor/
++18046742000,(804) 674-2000,804-674-2000,Virginia State Police Headquarters,state_police,Virginia,state,main,https://vsp.virginia.gov/contact/
 +12064646684,(206) 464-6684,206-464-6684,Washington Attorney General,attorney_general,Washington,state,main,https://www.atg.wa.gov/
 +13609024111,(360) 902-4111,360-902-4111,Washington Governor,governor,Washington,state,main,https://governor.wa.gov/contacting-governor/contacting-governors-office
++13607867700,(360) 786-7700,360-786-7700,Washington Lieutenant Governor,lieutenant_governor,Washington,state,main,https://www.ltgov.wa.gov/by-e-mail-phone-and-postal
++13605964000,(360) 596-4000,360-596-4000,Washington State Patrol Headquarters,state_police,Washington,state,main,https://wsp.wa.gov/about-us/contact-us/
++13603572077,(360) 357-2077,360-357-2077,Washington State Supreme Court Clerk,state_supreme_court,Washington,state,clerk,https://www.courts.wa.gov/appellate_trial_courts/supreme/clerks/
++13609029000,(360) 902-9000,360-902-9000,Washington State Treasurer,treasurer,Washington,state,main,https://tre.wa.gov/our-office/contact-us
 +13045582021,(304) 558-2021,304-558-2021,West Virginia Attorney General,attorney_general,West Virginia,state,main,https://ago.wv.gov/contact-us-0
 +13045582000,(304) 558-2000,304-558-2000,West Virginia Governor,governor,West Virginia,state,main,https://governor.wv.gov/
++13047462100,(304) 746-2100,304-746-2100,West Virginia State Police Headquarters,state_police,West Virginia,state,main,https://www.wvsp.gov/contact/Pages/default.aspx
++13045585000,(304) 558-5000,304-558-5000,West Virginia State Treasurer,treasurer,West Virginia,state,main,https://wvtreasury.gov/About/Connect-With-Us/Contact-Information
++13045582601,(304) 558-2601,304-558-2601,West Virginia Supreme Court of Appeals Clerk,state_supreme_court,West Virginia,state,clerk,https://www.courtswv.gov/appellate-courts/office-of-the-clerk
 +16082661221,(608) 266-1221,608-266-1221,Wisconsin Attorney General (DOJ),attorney_general,Wisconsin,state,main,https://www.doj.state.wi.us/
 +16082661212,(608) 266-1212,608-266-1212,Wisconsin Governor,governor,Wisconsin,state,main,https://evers.wi.gov/Pages/Connect.aspx
++18448471234,(844) 847-1234,844-847-1234,Wisconsin State Patrol,state_police,Wisconsin,state,main,https://wsp.wi.gov/Pages/Contact.aspx
++16082661714,(608) 266-1714,608-266-1714,Wisconsin State Treasurer,treasurer,Wisconsin,state,main,https://statetreasurer.wi.gov/Pages/Contact.aspx
++16082661880,(608) 266-1880,608-266-1880,Wisconsin Supreme Court Clerk,state_supreme_court,Wisconsin,state,clerk,https://www.wicourts.gov/courts/offices/clerk.htm
 +13077777841,(307) 777-7841,307-777-7841,Wyoming Attorney General,attorney_general,Wyoming,state,main,https://attorneygeneral.wyo.gov/contact-us
 +13077777434,(307) 777-7434,307-777-7434,Wyoming Governor,governor,Wyoming,state,main,https://governor.wyo.gov/contact/governor
++13077774301,(307) 777-4301,307-777-4301,Wyoming Highway Patrol Headquarters,state_police,Wyoming,state,main,https://whp.wyo.gov/contact
++13077777408,(307) 777-7408,307-777-7408,Wyoming State Treasurer,treasurer,Wyoming,state,main,https://statetreasurer.wyo.gov/office/contact/
++13077777316,(307) 777-7316,307-777-7316,Wyoming Supreme Court Clerk,state_supreme_court,Wyoming,state,clerk,https://www.wyocourts.gov/supreme-court/clerk-of-court-supreme-court/
++13342691515,(334) 269-1515,334-269-1515,Alabama State Bar Association,bar_association,Alabama,state_org,main,https://www.alabar.org/contact/
++18003546154,(800) 354-6154,800-354-6154,Alabama State Bar Association,bar_association,Alabama,state_org,toll_free,https://www.alabar.org/contact/
++18003925660,(800) 392-5660,800-392-5660,Alabama State Bar Association Lawyer Referral,bar_association,Alabama,state_org,lawyer_referral,https://www.alabar.org/contact/
++19072727469,(907) 272-7469,907-272-7469,Alaska Bar Association,bar_association,Alaska,state_org,main,https://alaskabar.org/
++16022524804,(602) 252-4804,602-252-4804,Arizona State Bar Association,bar_association,Arizona,state_org,main,https://www.azbar.org/about-us/contact-us/
++18664829227,(866) 482-9227,866-482-9227,Arizona State Bar Association Toll-Free,bar_association,Arizona,state_org,toll_free,https://www.azbar.org/about-us/contact-us/
++15013754606,(501) 375-4606,501-375-4606,Arkansas State Bar Association,bar_association,Arkansas,state_org,main,https://www.arkbar.com/
++18006095668,(800) 609-5668,800-609-5668,Arkansas State Bar Association Toll-Free,bar_association,Arkansas,state_org,toll_free,https://www.arkbar.com/
++18664483614,(866) 448-3614,866-448-3614,AARP California,consumer_advocacy,California,state_org,main,https://states.aarp.org/contact-aarp-california
++14155382000,(415) 538-2000,415-538-2000,California State Bar Association,bar_association,California,state_org,main,https://www.calbar.ca.gov/contact-us
++18008439053,(800) 843-9053,800-843-9053,California State Bar Complaint Hotline,bar_association,California,state_org,complaint_hotline,https://www.calbar.ca.gov/contact-us
++18664422529,(866) 442-2529,866-442-2529,California State Bar Lawyer Referral,bar_association,California,state_org,lawyer_referral,https://www.calbar.ca.gov/public/find-legal-professionals/find-lawyer-referral-service
++13038601115,(303) 860-1115,303-860-1115,Colorado State Bar Association,bar_association,Colorado,state_org,main,https://www.cobar.org/contact
++18602234400,(860) 223-4400,860-223-4400,Connecticut State Bar Association,bar_association,Connecticut,state_org,main,https://www.ctbar.org/about
++13026585279,(302) 658-5279,302-658-5279,Delaware State Bar Association,bar_association,Delaware,state_org,main,https://www.dsba.org/contact-us/
++12027374700,(202) 737-4700,202-737-4700,District of Columbia Bar Association,bar_association,District of Columbia,state_org,main,https://www.dcbar.org/about/contact
++12026263475,(202) 626-3475,202-626-3475,District of Columbia Bar Association Member Service,bar_association,District of Columbia,state_org,member_service,https://www.dcbar.org/about/contact
++18665957678,(866) 595-7678,866-595-7678,AARP Florida,consumer_advocacy,Florida,state_org,main,https://states.aarp.org/florida/aarp-florida-state-offices
++18505615600,(850) 561-5600,850-561-5600,Florida State Bar Association,bar_association,Florida,state_org,main,https://www.floridabar.org/about/contact/
++18662957281,(866) 295-7281,866-295-7281,AARP Georgia,consumer_advocacy,Georgia,state_org,main,https://states.aarp.org/its-easy-to-contact-aarp-georgia
++14045278700,(404) 527-8700,404-527-8700,Georgia State Bar Association,bar_association,Georgia,state_org,main,https://www.gabar.org/about-the-bar/contact-us
++18003346865,(800) 334-6865,800-334-6865,Georgia State Bar Association Toll-Free,bar_association,Georgia,state_org,toll_free,https://www.gabar.org/about-the-bar/contact-us
++16719894227,(671) 989-4227,671-989-4227,Guam Bar Association,bar_association,Guam,state_org,main,https://guambar.org/
++18085371868,(808) 537-1868,808-537-1868,Hawaii State Bar Association,bar_association,Hawaii,state_org,main,https://hsba.org/contact
++12083344500,(208) 334-4500,208-334-4500,Idaho State Bar Association,bar_association,Idaho,state_org,main,https://isb.idaho.gov/contact-us/
++18664483613,(866) 448-3613,866-448-3613,AARP Illinois,consumer_advocacy,Illinois,state_org,main,https://states.aarp.org/aarp-illinois-contact-us
++12175251760,(217) 525-1760,217-525-1760,Illinois State Bar Association,bar_association,Illinois,state_org,main_springfield,https://www.isba.org/contact
++18002528908,(800) 252-8908,800-252-8908,Illinois State Bar Association Toll-Free,bar_association,Illinois,state_org,toll_free,https://www.isba.org/contact
++13176395465,(317) 639-5465,317-639-5465,Indiana State Bar Association,bar_association,Indiana,state_org,main,https://www.inbar.org/
++15152433179,(515) 243-3179,515-243-3179,Iowa State Bar Association,bar_association,Iowa,state_org,main,https://www.iowabar.org/
++17852345696,(785) 234-5696,785-234-5696,Kansas State Bar Association,bar_association,Kansas,state_org,main,https://ksbar.org/
++15025643795,(502) 564-3795,502-564-3795,Kentucky State Bar Association,bar_association,Kentucky,state_org,main,https://www.kybar.org/
++15045661600,(504) 566-1600,504-566-1600,Louisiana State Bar Association,bar_association,Louisiana,state_org,main,https://www.lsba.org/
++18004215722,(800) 421-5722,800-421-5722,Louisiana State Bar Association Toll-Free,bar_association,Louisiana,state_org,toll_free,https://www.lsba.org/
++12076227523,(207) 622-7523,207-622-7523,Maine State Bar Association,bar_association,Maine,state_org,main,https://www.mainebar.org/page/Contact
++14106857878,(410) 685-7878,410-685-7878,Maryland State Bar Association,bar_association,Maryland,state_org,main,https://www.msba.org/site/site/content/About/Contact-us.aspx
++16173380500,(617) 338-0500,617-338-0500,Massachusetts State Bar Association,bar_association,Massachusetts,state_org,main,https://www.massbar.org/about-the-mba/contact-us
++18662277448,(866) 227-7448,866-227-7448,AARP Michigan,consumer_advocacy,Michigan,state_org,main,https://states.aarp.org/michigan/welcome-to-aarp-michigan
++15173466300,(517) 346-6300,517-346-6300,Michigan State Bar Association,bar_association,Michigan,state_org,main,https://www.michbar.org/
++16123331183,(612) 333-1183,612-333-1183,Minnesota State Bar Association,bar_association,Minnesota,state_org,main,https://mnbars.org/
++18008826722,(800) 882-6722,800-882-6722,Minnesota State Bar Association Toll-Free,bar_association,Minnesota,state_org,toll_free,https://mnbars.org/
++16019484471,(601) 948-4471,601-948-4471,Mississippi State Bar Association,bar_association,Mississippi,state_org,main,https://www.msbar.org/contact-us
++15736354128,(573) 635-4128,573-635-4128,Missouri State Bar Association,bar_association,Missouri,state_org,main,https://mobar.org/
++14064427660,(406) 442-7660,406-442-7660,Montana State Bar Association,bar_association,Montana,state_org,main,https://www.montanabar.org/
++14024757091,(402) 475-7091,402-475-7091,Nebraska State Bar Association,bar_association,Nebraska,state_org,main,https://www.nebar.com/
++18009270117,(800) 927-0117,800-927-0117,Nebraska State Bar Association Toll-Free,bar_association,Nebraska,state_org,toll_free,https://www.nebar.com/
++17023822200,(702) 382-2200,702-382-2200,Nevada State Bar Association,bar_association,Nevada,state_org,main,https://nvbar.org/about-us/office-locations/
++18002542797,(800) 254-2797,800-254-2797,Nevada State Bar Association Toll-Free,bar_association,Nevada,state_org,toll_free,https://nvbar.org/about-us/office-locations/
++16032246942,(603) 224-6942,603-224-6942,New Hampshire State Bar Association,bar_association,New Hampshire,state_org,main,https://www.nhbar.org/contact-us/
++17322495000,(732) 249-5000,732-249-5000,New Jersey State Bar Association,bar_association,New Jersey,state_org,main,https://njsba.com/contact/
++15057976000,(505) 797-6000,505-797-6000,New Mexico State Bar Association,bar_association,New Mexico,state_org,main,https://www.sbnm.org/contact-us
++18008766227,(800) 876-6227,800-876-6227,New Mexico State Bar Association Toll-Free,bar_association,New Mexico,state_org,toll_free,https://www.sbnm.org/contact-us
++18662277442,(866) 227-7442,866-227-7442,AARP New York,consumer_advocacy,New York,state_org,main,https://states.aarp.org/connect-with-aarp-new-york
++15184633200,(518) 463-3200,518-463-3200,New York State Bar Association,bar_association,New York,state_org,main,https://nysba.org/contact-us/
++18003423661,(800) 342-3661,800-342-3661,New York State Bar Lawyer Referral,bar_association,New York,state_org,lawyer_referral,https://nysba.org/contact-us/
++18663895650,(866) 389-5650,866-389-5650,AARP North Carolina,consumer_advocacy,North Carolina,state_org,main,https://states.aarp.org/north-carolina/aarp-north-carolina-contact-information
++19198284620,(919) 828-4620,919-828-4620,North Carolina State Bar Association,bar_association,North Carolina,state_org,main,https://www.ncbar.gov/about-us/contact-us/
++17012551404,(701) 255-1404,701-255-1404,North Dakota State Bar Association,bar_association,North Dakota,state_org,main,https://www.sband.org/page/contactus
++18004722685,(800) 472-2685,800-472-2685,North Dakota State Bar Association Toll-Free,bar_association,North Dakota,state_org,toll_free,https://www.sband.org/page/contactus
++16702354529,(670) 235-4529,670-235-4529,Northern Mariana Islands Bar Association,bar_association,Northern Mariana Islands,state_org,main,https://www.cnmibar.com/
++18663895653,(866) 389-5653,866-389-5653,AARP Ohio,consumer_advocacy,Ohio,state_org,main,https://states.aarp.org/ohio/aarp-ohio-contact-information
++18002826556,(800) 282-6556,800-282-6556,Ohio State Bar Association,bar_association,Ohio,state_org,main_toll_free,https://www.ohiobar.org/contact-us/
++14054167000,(405) 416-7000,405-416-7000,Oklahoma State Bar Association,bar_association,Oklahoma,state_org,main,https://www.okbar.org/about/
++18005228065,(800) 522-8065,800-522-8065,Oklahoma State Bar Association Toll-Free,bar_association,Oklahoma,state_org,toll_free,https://www.okbar.org/about/
++15036200222,(503) 620-0222,503-620-0222,Oregon State Bar Association,bar_association,Oregon,state_org,main,https://www.osbar.org/about.html
++18004528260,(800) 452-8260,800-452-8260,Oregon State Bar Association Toll-Free,bar_association,Oregon,state_org,toll_free,https://www.osbar.org/about.html
++15036843763,(503) 684-3763,503-684-3763,Oregon State Bar Lawyer Referral,bar_association,Oregon,state_org,lawyer_referral,https://www.osbar.org/about.html
++18663895654,(866) 389-5654,866-389-5654,AARP Pennsylvania,consumer_advocacy,Pennsylvania,state_org,main,https://states.aarp.org/pennsylvania/your-local-aarp-office
++18009320311,(800) 932-0311,800-932-0311,Pennsylvania State Bar Association,bar_association,Pennsylvania,state_org,main_toll_free,https://www.pabar.org/site/About-PBA/Contact-the-PBA
++17172386807,(717) 238-6807,717-238-6807,Pennsylvania State Bar Lawyer Referral,bar_association,Pennsylvania,state_org,lawyer_referral,https://www.pabar.org/site/About-PBA/Contact-the-PBA
++17877213358,(787) 721-3358,787-721-3358,Puerto Rico Bar Association,bar_association,Puerto Rico,state_org,main,https://capr.org/
++14014215740,(401) 421-5740,401-421-5740,Rhode Island State Bar Association,bar_association,Rhode Island,state_org,main,https://ribar.com/
++14014217799,(401) 421-7799,401-421-7799,Rhode Island State Bar Lawyer Referral,bar_association,Rhode Island,state_org,lawyer_referral,https://ribar.com/
++18037996653,(803) 799-6653,803-799-6653,South Carolina State Bar Association,bar_association,South Carolina,state_org,main,https://www.scbar.org/contact-us/
++16052247554,(605) 224-7554,605-224-7554,South Dakota State Bar Association,bar_association,South Dakota,state_org,main,https://www.statebarofsouthdakota.com/
++16153837421,(615) 383-7421,615-383-7421,Tennessee State Bar Association,bar_association,Tennessee,state_org,main,https://www.tba.org/
++18662277443,(866) 227-7443,866-227-7443,AARP Texas,consumer_advocacy,Texas,state_org,main,https://states.aarp.org/contact-aarp-texas
++15124271463,(512) 427-1463,512-427-1463,Texas State Bar Association,bar_association,Texas,state_org,main,https://www.texasbar.com/contactus/
++18002042222,(800) 204-2222,800-204-2222,Texas State Bar Association Toll-Free,bar_association,Texas,state_org,toll_free,https://www.texasbar.com/contactus/
++13407787497,(340) 778-7497,340-778-7497,Virgin Islands Bar Association,bar_association,U.S. Virgin Islands,state_org,main,https://www.usvibar.org/page/About
++18015319077,(801) 531-9077,801-531-9077,Utah State Bar Association,bar_association,Utah,state_org,main,https://www.utahbar.org/contact-us/
++18022232020,(802) 223-2020,802-223-2020,Vermont State Bar Association,bar_association,Vermont,state_org,main,https://www.vtbar.org/
++18047750500,(804) 775-0500,804-775-0500,Virginia State Bar Association,bar_association,Virginia,state_org,main,https://vsb.org/Site/Site/about/contact.aspx
++12064439722,(206) 443-9722,206-443-9722,Washington State Bar Association,bar_association,Washington,state_org,main,https://www.wsba.org/about-wsba/contact-us
++18009459722,(800) 945-9722,800-945-9722,Washington State Bar Association Toll-Free,bar_association,Washington,state_org,toll_free,https://www.wsba.org/about-wsba/contact-us
++13045537220,(304) 553-7220,304-553-7220,West Virginia State Bar Association,bar_association,West Virginia,state_org,main,https://wvbar.org/about-us/contact-us/
++18669898227,(866) 989-8227,866-989-8227,West Virginia State Bar Association Toll-Free,bar_association,West Virginia,state_org,toll_free,https://wvbar.org/about-us/contact-us/
++16082573838,(608) 257-3838,608-257-3838,Wisconsin State Bar Association,bar_association,Wisconsin,state_org,main,https://www.wisbar.org/ContactUs/Pages/default.aspx
++18007287788,(800) 728-7788,800-728-7788,Wisconsin State Bar Association Toll-Free,bar_association,Wisconsin,state_org,toll_free,https://www.wisbar.org/ContactUs/Pages/default.aspx
++13076329061,(307) 632-9061,307-632-9061,Wyoming State Bar Association,bar_association,Wyoming,state_org,main,https://www.wyomingbar.org/about-us/contact-us/
++18554458058,(855) 445-8058,855-445-8058,Wyoming State Bar Association Toll-Free,bar_association,Wyoming,state_org,toll_free,https://www.wyomingbar.org/about-us/contact-us/

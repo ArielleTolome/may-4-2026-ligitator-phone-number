@@ -114,25 +114,92 @@ US_AREA_CODES: dict[str, list[int]] = {
 # user requested 111-1111 through 999-9999 — i.e. digits 1..9.
 REPEATING_DIGITS = range(1, 10)
 
+# Sequential ascending 7-digit lines (CO must start 2-9, so we drop the
+# 0/1 starting positions).  Each NPA gets one line per starting digit.
+SEQUENTIAL_ASCENDING_STARTS = [2, 3, 4, 5, 6, 7, 8, 9]
+
+# Sequential descending 7-digit lines.  Same constraint on CO (first
+# digit 2-9).  Starting digits 9..2 produce strictly-decreasing strings.
+SEQUENTIAL_DESCENDING_STARTS = [9, 8, 7, 6, 5, 4, 3, 2]
+
+# Ascending-then-descending palindromes.  The 7-digit string forms a
+# pyramid (e.g. 2345432 — peak at position 4).  Peak digit P with valid
+# CO requires the leading digit P-3 ∈ {2..9}, so P ∈ {5..9} … but we
+# also include the wrap-around sequence 7890987 (peak 9) and 6789876
+# (peak 9) which are the two most memorable. Peak digits 5..9 cover six
+# canonical patterns; we also include 8901098 and 9012109 as recognised
+# vanity numbers.
+PALINDROME_PYRAMID_PATTERNS = [
+    "2345432",
+    "3456543",
+    "4567654",
+    "5678765",
+    "6789876",
+    "7890987",
+    "8901098",
+    "9012109",
+]
+
+# Fictional / reserved-for-TV-and-film line-number range.  NANPA reserves
+# 555-0100 through 555-0199 for fictional use; if any are quietly
+# assigned to a real line, calling them is a guaranteed plaintiff trap.
+FICTIONAL_555_LINE_RANGE = range(100, 200)  # 555-01XX
+FICTIONAL_555_CO = "555"
+
 OUTPUT_PATH = Path(__file__).with_name("blocked_numbers.csv")
 
 
+def _emit(npa: int, jurisdiction: str, pattern: str, seven: str):
+    """Helper: format a 7-digit line into the standard tuple."""
+    co, line = seven[:3], seven[3:]
+    e164 = f"+1{npa}{seven}"
+    formatted = f"({npa}) {co}-{line}"
+    dashed = f"{npa}-{co}-{line}"
+    return e164, formatted, dashed, npa, jurisdiction, pattern
+
+
 def iter_blocked_numbers():
-    """Yield (e164, formatted, dashed, area_code, jurisdiction, digit)."""
+    """Yield (e164, formatted, dashed, area_code, jurisdiction, pattern)."""
     for jurisdiction, codes in US_AREA_CODES.items():
         for npa in sorted(set(codes)):
+            # Repeating digits DDD-DDDD.
             for d in REPEATING_DIGITS:
-                co = str(d) * 3
-                line = str(d) * 4
-                e164 = f"+1{npa}{co}{line}"
-                formatted = f"({npa}) {co}-{line}"
-                dashed = f"{npa}-{co}-{line}"
-                yield e164, formatted, dashed, npa, jurisdiction, d
+                seven = str(d) * 7
+                yield _emit(npa, jurisdiction, f"repeating_{d}", seven)
+
+            # Sequential ascending.
+            for start in SEQUENTIAL_ASCENDING_STARTS:
+                seven = "".join(str((start + i) % 10) for i in range(7))
+                yield _emit(npa, jurisdiction, f"ascending_from_{start}", seven)
+
+            # Sequential descending.
+            for start in SEQUENTIAL_DESCENDING_STARTS:
+                seven = "".join(str((start - i) % 10) for i in range(7))
+                yield _emit(npa, jurisdiction, f"descending_from_{start}", seven)
+
+            # Pyramid palindromes.
+            for seven in PALINDROME_PYRAMID_PATTERNS:
+                yield _emit(npa, jurisdiction, f"palindrome_{seven}", seven)
+
+            # Fictional 555-01XX range.
+            for line in FICTIONAL_555_LINE_RANGE:
+                seven = f"{FICTIONAL_555_CO}{line:04d}"
+                yield _emit(npa, jurisdiction, "fictional_555_01XX", seven)
 
 
 def main() -> None:
     rows = list(iter_blocked_numbers())
-    rows.sort(key=lambda r: (r[3], r[5]))  # sort by area code, then digit
+    # Dedupe (e.g. ascending_from_5 == 5678901, doesn't collide today but
+    # cheap to guard) and sort by area code, then pattern, then number.
+    seen: set[str] = set()
+    deduped = []
+    for r in rows:
+        if r[0] in seen:
+            continue
+        seen.add(r[0])
+        deduped.append(r)
+    deduped.sort(key=lambda r: (r[3], r[5], r[0]))
+    rows = deduped
 
     with OUTPUT_PATH.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
@@ -143,7 +210,7 @@ def main() -> None:
                 "phone_number_dashed",
                 "area_code",
                 "state_or_territory",
-                "repeating_digit",
+                "pattern",
             ]
         )
         for row in rows:

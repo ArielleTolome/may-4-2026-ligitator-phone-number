@@ -65,12 +65,17 @@ def validate(entries: list[dict], label: str) -> list[dict]:
 
 def main() -> None:
     fed = validate(load_bucket("federal"), "federal")
+    fed_extra = validate(load_bucket("federal_additional"), "federal_additional")
     state = validate(load_bucket("state"), "state")
+    state_extra = validate(load_bucket("state_additional"), "state_additional")
     muni = validate(load_bucket("municipal"), "municipal")
+    county = validate(load_bucket("county"), "county")
+    bar_org = validate(load_bucket("bar_and_consumer_orgs"), "bar_and_consumer_orgs")
+    tcpa_firms = validate(load_bucket("tcpa_plaintiff_firms"), "tcpa_plaintiff_firms")
 
     seen: set[str] = set()
     deduped = []
-    for entry in fed + state + muni:
+    for entry in fed + fed_extra + state + state_extra + muni + county + bar_org + tcpa_firms:
         if entry["phone"] in seen:
             continue
         seen.add(entry["phone"])
@@ -110,9 +115,12 @@ def main() -> None:
             )
 
     print(
-        f"Wrote {len(deduped)} rows "
-        f"(federal={len(fed)}, state={len(state)}, municipal={len(muni)}) "
-        f"to {OUTPUT_PATH}"
+        f"Wrote {len(deduped)} rows to {OUTPUT_PATH}"
+        f" (federal={len(fed)}, federal_additional={len(fed_extra)},"
+        f" state={len(state)}, state_additional={len(state_extra)},"
+        f" municipal={len(muni)}, county={len(county)},"
+        f" bar_and_consumer_orgs={len(bar_org)},"
+        f" tcpa_plaintiff_firms={len(tcpa_firms)})"
     )
 
 
