@@ -6,14 +6,14 @@ Background:
     traceback signals.  Calling one in an outbound campaign can trigger
     a regulatory traceback, so we suppress all of them up front.
 
-Coverage:
-    * Federal — Congress, White House, Cabinet departments, regulatory
-      agencies (FCC, FTC, CFPB, SEC, etc.), federal courts.
-    * State — All 50 states + DC + 5 territories: governor, AG (incl.
-      consumer-protection division), PUC/PSC, secretary of state,
-      treasurer, comptroller, state legislatures, supreme court,
-      insurance commissioner, banking regulator, dept of revenue.
-    * Municipal — Top ~200 US cities: mayor, city hall, city council,
+Coverage (loaded from government_data/*.json):
+    * Federal — Congress (all 100 senators), White House, Cabinet
+      departments, regulatory agencies (FCC, FTC, CFPB, SEC, etc.),
+      federal courts.
+    * State — All 50 states + DC + 5 territories: governors (47),
+      attorneys general (all), AG consumer-protection lines, PUC/PSC,
+      secretaries of state, insurance commissioners, etc.
+    * Municipal — Top ~77 US cities: mayor, city hall, city council,
       city attorney, city clerk, police non-emergency, consumer affairs.
 
 The script writes ``government_blocked_numbers.csv`` next to it.  Run with::
@@ -24,47 +24,31 @@ The script writes ``government_blocked_numbers.csv`` next to it.  Run with::
 from __future__ import annotations
 
 import csv
+import json
 import re
 from pathlib import Path
 
+DATA_DIR = Path(__file__).with_name("government_data")
 OUTPUT_PATH = Path(__file__).with_name("government_blocked_numbers.csv")
-
-# ---------------------------------------------------------------------------
-# Data — populated by research agents.  Each entry must have these keys:
-#   phone, entity_name, entity_type, jurisdiction, level, office_type, source_url
-# Phone numbers are E.164 (+1XXXXXXXXXX, no formatting).
-# ---------------------------------------------------------------------------
-
-ENTRIES_FEDERAL: list[dict] = [
-    # Populated below from research
-]
-
-ENTRIES_STATE: list[dict] = [
-    # Populated below from research
-]
-
-ENTRIES_MUNICIPAL: list[dict] = [
-    # Populated below from research
-]
-
-
-# ---------------------------------------------------------------------------
-# Generation
-# ---------------------------------------------------------------------------
 
 E164_RE = re.compile(r"^\+1\d{10}$")
 
 
 def format_phone(e164: str) -> tuple[str, str]:
     """Return (formatted, dashed) variants for an E.164 +1NXXNXXXXXX number."""
-    digits = e164[2:]  # strip leading +1
-    formatted = f"({digits[:3]}) {digits[3:6]}-{digits[6:]}"
-    dashed = f"{digits[:3]}-{digits[3:6]}-{digits[6:]}"
-    return formatted, dashed
+    digits = e164[2:]
+    return (
+        f"({digits[:3]}) {digits[3:6]}-{digits[6:]}",
+        f"{digits[:3]}-{digits[3:6]}-{digits[6:]}",
+    )
+
+
+def load_bucket(name: str) -> list[dict]:
+    path = DATA_DIR / f"{name}.json"
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def validate(entries: list[dict], label: str) -> list[dict]:
-    """Filter out malformed entries and warn about them."""
     seen: set[str] = set()
     clean: list[dict] = []
     for e in entries:
@@ -80,20 +64,17 @@ def validate(entries: list[dict], label: str) -> list[dict]:
 
 
 def main() -> None:
-    fed = validate(ENTRIES_FEDERAL, "federal")
-    state = validate(ENTRIES_STATE, "state")
-    muni = validate(ENTRIES_MUNICIPAL, "municipal")
+    fed = validate(load_bucket("federal"), "federal")
+    state = validate(load_bucket("state"), "state")
+    muni = validate(load_bucket("municipal"), "municipal")
 
-    all_rows = fed + state + muni
-
-    # Cross-bucket dedup by phone (keep first occurrence)
     seen: set[str] = set()
     deduped = []
-    for e in all_rows:
-        if e["phone"] in seen:
+    for entry in fed + state + muni:
+        if entry["phone"] in seen:
             continue
-        seen.add(e["phone"])
-        deduped.append(e)
+        seen.add(entry["phone"])
+        deduped.append(entry)
 
     deduped.sort(key=lambda r: (r["level"], r["jurisdiction"], r["entity_name"]))
 

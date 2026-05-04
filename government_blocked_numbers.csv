@@ -1,0 +1,624 @@
+phone_number_e164,phone_number_formatted,phone_number_dashed,entity_name,entity_type,jurisdiction,level,office_type,source_url
++18008003855,(800) 800-3855,800-800-3855,"ATF (Bureau of Alcohol, Tobacco, Firearms and Explosives) main",agency,United States,federal,main,https://www.atf.gov/contact
++12026488500,(202) 648-8500,202-648-8500,ATF Headquarters Public Affairs,agency,United States,federal,public_affairs,https://www.atf.gov/contact/locations/contact-atf-headquarters
++12022281793,(202) 228-1793,202-228-1793,Architect of the Capitol,agency,United States,federal,main,https://www.aoc.gov/contact
++12022083710,(202) 208-3710,202-208-3710,Bureau of Indian Affairs (BIA),agency,United States,federal,main,https://www.bia.gov/
++12026916900,(202) 691-6900,202-691-6900,Bureau of Labor Statistics (BLS),agency,United States,federal,main,https://www.bls.gov/
++12022083801,(202) 208-3801,202-208-3801,Bureau of Land Management (BLM),agency,United States,federal,main,https://www.blm.gov/
++17037871300,(703) 787-1300,703-787-1300,Bureau of Ocean Energy Management (BOEM),agency,United States,federal,main,https://www.boem.gov/
++18772275511,(877) 227-5511,877-227-5511,CBP Information Center,agency,United States,federal,consumer,https://www.cbp.gov/contact
++12023258000,(202) 325-8000,202-325-8000,CBP from outside US,agency,United States,federal,intl_consumer,https://www.cbp.gov/contact
++14046397000,(404) 639-7000,404-639-7000,CDC main switchboard,agency,United States,federal,main,https://www.cdc.gov/contact/index.html
++18002324636,(800) 232-4636,800-232-4636,Centers for Disease Control (CDC) - CDC INFO,agency,United States,federal,info_line,https://www.cdc.gov/contact/index.html
++18772672323,(877) 267-2323,877-267-2323,Centers for Medicare & Medicaid Services (CMS),agency,United States,federal,main,https://www.cms.gov/about-cms/where-we-are/headquarters/main-contact-numbers
++12024185000,(202) 418-5000,202-418-5000,Commodity Futures Trading Commission (CFTC),regulator,United States,federal,main,https://www.cftc.gov/Contact/index.htm
++18554112372,(855) 411-2372,855-411-2372,Consumer Financial Protection Bureau (CFPB),regulator,United States,federal,consumer,https://www.consumerfinance.gov/about-us/contact-us/
++12023955084,(202) 395-5084,202-395-5084,Council of Economic Advisers (CEA),executive,United States,federal,main,https://www.whitehouse.gov/cea/
++12025143543,(202) 514-3543,202-514-3543,DOJ Antitrust Division,agency,United States,federal,division,https://www.justice.gov/atr
++12025144609,(202) 514-4609,202-514-4609,DOJ Civil Rights Division,agency,United States,federal,division,https://www.justice.gov/crt
++12025142401,(202) 514-2401,202-514-2401,DOJ Consumer Protection Branch,agency,United States,federal,branch,https://www.justice.gov/civil/consumer-protection-branch
++18008725327,(800) 872-5327,800-872-5327,Department of Education - 1-800-USA-LEARN,department,United States,federal,consumer,https://www.ed.gov/about/contact-us
++18008271000,(800) 827-1000,800-827-1000,Department of Veterans Affairs (VA) Main,department,United States,federal,main,https://www.va.gov/contact-us/
++12023071000,(202) 307-1000,202-307-1000,Drug Enforcement Administration (DEA),agency,United States,federal,main,https://www.dea.gov/who-we-are/contact-us
++12022720167,(202) 272-0167,202-272-0167,Environmental Protection Agency (EPA) HQ,regulator,United States,federal,main,https://www.epa.gov/aboutepa/mailing-addresses-and-phone-numbers
++18006694000,(800) 669-4000,800-669-4000,Equal Employment Opportunity Commission (EEOC),regulator,United States,federal,main,https://www.eeoc.gov/contact-eeoc
++18663226383,(866) 322-6383,866-322-6383,FAA Consumer Hotline (Aviation Consumer Protection),agency,United States,federal,consumer,https://www.transportation.gov/airconsumer
++12023243000,(202) 324-3000,202-324-3000,FBI Headquarters,agency,United States,federal,main,https://www.fbi.gov/contact-us/fbi-headquarters
++12022782000,(202) 278-2000,202-278-2000,FBI Washington Field Office,agency,United States,federal,field_office,https://www.fbi.gov/contact-us/field-offices/washingtondc
++18444322275,(844) 432-2275,844-432-2275,FCC ASL Video Call,regulator,United States,federal,asl,https://www.fcc.gov/consumers
++12024181400,(202) 418-1400,202-418-1400,FCC Consumer & Governmental Affairs Bureau (TCPA traceback),regulator,United States,federal,tcpa_bureau,https://www.fcc.gov/consumer-governmental-affairs-bureau
++18882255322,(888) 225-5322,888-225-5322,FCC Consumer Complaints (1-888-CALL-FCC),regulator,United States,federal,consumer_tcpa,https://www.fcc.gov/consumers
++18888355322,(888) 835-5322,888-835-5322,FCC TTY (1-888-TELL-FCC),regulator,United States,federal,tty,https://www.fcc.gov/consumers
++18772753342,(877) 275-3342,877-275-3342,FDIC Call Center (1-877-ASK-FDIC),regulator,United States,federal,consumer,https://www.fdic.gov/about/contact-fdic
++18882064662,(888) 206-4662,888-206-4662,FDIC Customer Assistance Online,regulator,United States,federal,consumer,https://www.fdic.gov/about/contact-fdic
++18006213362,(800) 621-3362,800-621-3362,FEMA Helpline,agency,United States,federal,main,https://www.fema.gov/about/contact
++18662083372,(866) 208-3372,866-208-3372,FERC Toll-free,regulator,United States,federal,consumer,https://www.ferc.gov/contact-us
++18008325660,(800) 832-5660,800-832-5660,FMCSA Toll-free,agency,United States,federal,consumer,https://www.fmcsa.dot.gov/contact-us
++18773824357,(877) 382-4357,877-382-4357,FTC Consumer Response Center (1-877-FTC-HELP),regulator,United States,federal,consumer,https://www.ftc.gov/about-ftc/contact
++12022673254,(202) 267-3254,202-267-3254,Federal Aviation Administration (FAA),agency,United States,federal,main,https://www.faa.gov/
++12023073198,(202) 307-3198,202-307-3198,Federal Bureau of Prisons (BOP),agency,United States,federal,main,https://www.bop.gov/contact/
++12024181000,(202) 418-1000,202-418-1000,Federal Communications Commission (FCC) - main,regulator,United States,federal,main,https://www.fcc.gov/about/contact
++12025026088,(202) 502-6088,202-502-6088,Federal Energy Regulatory Commission (FERC),regulator,United States,federal,main,https://www.ferc.gov/contact-us
++12026493800,(202) 649-3800,202-649-3800,Federal Housing Finance Agency (FHFA),regulator,United States,federal,main,https://www.fhfa.gov/contact
++12025235725,(202) 523-5725,202-523-5725,Federal Maritime Commission (FMC),regulator,United States,federal,main,https://www.fmc.gov/
++12023668810,(202) 366-8810,202-366-8810,Federal Motor Carrier Safety Administration (FMCSA),agency,United States,federal,main,https://www.fmcsa.dot.gov/contact-us
++12024936010,(202) 493-6010,202-493-6010,Federal Railroad Administration (FRA),agency,United States,federal,main,https://railroads.dot.gov/
++14044988500,(404) 498-8500,404-498-8500,Federal Reserve Bank of Atlanta,regulator,United States,federal,regional_bank,https://www.atlantafed.org/
++16179733000,(617) 973-3000,617-973-3000,Federal Reserve Bank of Boston,regulator,United States,federal,regional_bank,https://www.bostonfed.org/contact-us.aspx
++13123225322,(312) 322-5322,312-322-5322,Federal Reserve Bank of Chicago,regulator,United States,federal,regional_bank,https://www.chicagofed.org/
++12165792000,(216) 579-2000,216-579-2000,Federal Reserve Bank of Cleveland,regulator,United States,federal,regional_bank,https://www.clevelandfed.org/
++12149226000,(214) 922-6000,214-922-6000,Federal Reserve Bank of Dallas,regulator,United States,federal,regional_bank,https://www.dallasfed.org/
++18168812000,(816) 881-2000,816-881-2000,Federal Reserve Bank of Kansas City,regulator,United States,federal,regional_bank,https://www.kansascityfed.org/
++16122046000,(612) 204-6000,612-204-6000,Federal Reserve Bank of Minneapolis,regulator,United States,federal,regional_bank,https://www.minneapolisfed.org/
++12127205000,(212) 720-5000,212-720-5000,Federal Reserve Bank of New York,regulator,United States,federal,regional_bank,https://www.newyorkfed.org/
++12155746000,(215) 574-6000,215-574-6000,Federal Reserve Bank of Philadelphia,regulator,United States,federal,regional_bank,https://www.philadelphiafed.org/
++18046978000,(804) 697-8000,804-697-8000,Federal Reserve Bank of Richmond,regulator,United States,federal,regional_bank,https://www.richmondfed.org/
++14159742000,(415) 974-2000,415-974-2000,Federal Reserve Bank of San Francisco,regulator,United States,federal,regional_bank,https://www.frbsf.org/
++13144448444,(314) 444-8444,314-444-8444,Federal Reserve Bank of St. Louis,regulator,United States,federal,regional_bank,https://www.stlouisfed.org/about-us/contact-us
++12024523000,(202) 452-3000,202-452-3000,Federal Reserve Board of Governors,regulator,United States,federal,main,https://www.federalreserve.gov/aboutthefed/contact-main-telephone.htm
++12023263100,(202) 326-3100,202-326-3100,Federal Trade Commission (FTC),regulator,United States,federal,main,https://www.ftc.gov/about-ftc/contact
++18007492640,(800) 749-2640,800-749-2640,FinCEN Regulatory Helpline,agency,United States,federal,helpline,https://www.fincen.gov/
++18884636332,(888) 463-6332,888-463-6332,Food and Drug Administration (FDA) main,agency,United States,federal,main,https://www.fda.gov/about-fda/contact-fda
++18004883111,(800) 488-3111,800-488-3111,GAO FraudNet Hotline,agency,United States,federal,hotline,https://www.gao.gov/about/contact-us
++18665121800,(866) 512-1800,866-512-1800,GPO Toll-free,agency,United States,federal,consumer,https://www.gpo.gov/
++12027081234,(202) 708-1234,202-708-1234,GSA Headquarters,agency,United States,federal,hq,https://www.gsa.gov/contact
++18444723434,(844) 472-3434,844-472-3434,General Services Administration (GSA),agency,United States,federal,main,https://www.gsa.gov/contact
++18663472423,(866) 347-2423,866-347-2423,ICE HSI Tip Line,agency,United States,federal,tip_line,https://www.ice.gov/contact
++18008294933,(800) 829-4933,800-829-4933,Internal Revenue Service (IRS) - business,agency,United States,federal,business,https://www.irs.gov/help/contact-your-local-irs-office
++18008291040,(800) 829-1040,800-829-1040,Internal Revenue Service (IRS) - individual taxpayers,agency,United States,federal,individual,https://www.irs.gov/help/contact-your-local-irs-office
++12027075000,(202) 707-5000,202-707-5000,Library of Congress,agency,United States,federal,main,https://www.loc.gov/
++18006334227,(800) 633-4227,800-633-4227,Medicare Beneficiary Helpline (1-800-MEDICARE),agency,United States,federal,consumer,https://www.medicare.gov/
++12026939400,(202) 693-9400,202-693-9400,Mine Safety and Health Administration (MSHA),agency,United States,federal,main,https://www.msha.gov/
++18666676572,(866) 667-6572,866-667-6572,NLRB Toll-free,regulator,United States,federal,consumer,https://www.nlrb.gov/
++17035186300,(703) 518-6300,703-518-6300,National Credit Union Administration (NCUA),regulator,United States,federal,main,https://ncua.gov/contact-us
++18883274236,(888) 327-4236,888-327-4236,National Highway Traffic Safety Administration (NHTSA) Auto Safety Hotline,agency,United States,federal,consumer,https://www.nhtsa.gov/about-nhtsa/contact-us
++13019756478,(301) 975-6478,301-975-6478,National Institute of Standards and Technology (NIST),agency,United States,federal,main,https://www.nist.gov/
++13014964000,(301) 496-4000,301-496-4000,National Institutes of Health (NIH),agency,United States,federal,main,https://www.nih.gov/about-nih/contact-us
++12022731991,(202) 273-1991,202-273-1991,National Labor Relations Board (NLRB),regulator,United States,federal,main,https://www.nlrb.gov/
++12024826090,(202) 482-6090,202-482-6090,National Oceanic and Atmospheric Administration (NOAA),agency,United States,federal,main,https://www.noaa.gov/
++12022086843,(202) 208-6843,202-208-6843,National Park Service (NPS),agency,United States,federal,main,https://www.nps.gov/
++12024821840,(202) 482-1840,202-482-1840,National Telecommunications and Information Administration (NTIA),agency,United States,federal,main,https://www.ntia.gov/
++12023146000,(202) 314-6000,202-314-6000,National Transportation Safety Board (NTSB),regulator,United States,federal,main,https://www.ntsb.gov/about/Pages/OfficeLocation.aspx
++13014157000,(301) 415-7000,301-415-7000,Nuclear Regulatory Commission (NRC),regulator,United States,federal,main,https://www.nrc.gov/
++18006136743,(800) 613-6743,800-613-6743,OCC Customer Assistance / HelpWithMyBank,agency,United States,federal,consumer,https://www.helpwithmybank.gov/contact/index-contact-us.html
++18003216742,(800) 321-6742,800-321-6742,OSHA (Occupational Safety and Health Administration),agency,United States,federal,main,https://www.osha.gov/contactus
++12023953080,(202) 395-3080,202-395-3080,Office of Management and Budget (OMB),executive,United States,federal,main,https://www.whitehouse.gov/omb/
++12023956618,(202) 395-6618,202-395-6618,Office of National Drug Control Policy (ONDCP) - media,executive,United States,federal,media,https://www.whitehouse.gov/ondcp/
++12023956622,(202) 395-6622,202-395-6622,Office of National Drug Control Policy (ONDCP) - public liaison,executive,United States,federal,public_liaison,https://www.whitehouse.gov/ondcp/
++12026061800,(202) 606-1800,202-606-1800,Office of Personnel Management (OPM),agency,United States,federal,main,https://www.opm.gov/about-us/contact-us/
++12024564444,(202) 456-4444,202-456-4444,Office of Science and Technology Policy (OSTP),executive,United States,federal,main,https://www.whitehouse.gov/ostp/
++12026496800,(202) 649-6800,202-649-6800,Office of the Comptroller of the Currency (OCC),agency,United States,federal,main,https://www.occ.treas.gov/about/connect-with-us/contact-the-occ/index-contact-the-occ.html
++12023957360,(202) 395-7360,202-395-7360,Office of the U.S. Trade Representative (USTR),executive,United States,federal,main,https://ustr.gov/about-us/contact-us
++18007320330,(800) 732-0330,800-732-0330,SEC Investor Assistance,regulator,United States,federal,consumer,https://www.sec.gov/oiea/Article/help.html
++12025517500,(202) 551-7500,202-551-7500,Securities and Exchange Commission (SEC) - main,regulator,United States,federal,main,https://www.sec.gov/contact-information/sec-directory
++12022243841,(202) 224-3841,202-224-3841,Sen. Adam Schiff (D-CA),legislator,United States,federal,DC office,https://www.schiff.senate.gov/
++12022243553,(202) 224-3553,202-224-3553,Sen. Alex Padilla (D-CA),legislator,United States,federal,DC office,https://www.padilla.senate.gov/
++12022243244,(202) 224-3244,202-224-3244,Sen. Amy Klobuchar (D-MN),legislator,United States,federal,DC office,https://www.klobuchar.senate.gov/
++12022244744,(202) 224-4744,202-224-4744,Sen. Andy Kim (D-NJ),legislator,United States,federal,DC office,https://www.kim.senate.gov/
++12022244524,(202) 224-4524,202-224-4524,Sen. Angela Alsobrooks (D-MD),legislator,United States,federal,DC office,https://www.alsobrooks.senate.gov/
++12022245344,(202) 224-5344,202-224-5344,Sen. Angus King (I-ME),legislator,United States,federal,DC office,https://www.king.senate.gov/
++12022243041,(202) 224-3041,202-224-3041,Sen. Ashley Moody (R-FL),legislator,United States,federal,DC office,https://www.moody.senate.gov/
++12022246621,(202) 224-6621,202-224-6621,Sen. Ben Ray Lujan (D-NM),legislator,United States,federal,DC office,https://www.lujan.senate.gov/
++12022242315,(202) 224-2315,202-224-2315,Sen. Bernie Moreno (R-OH),legislator,United States,federal,DC office,https://www.moreno.senate.gov/
++12022245141,(202) 224-5141,202-224-5141,Sen. Bernie Sanders (I-VT),legislator,United States,federal,DC office,https://www.sanders.senate.gov/contact/
++12022245824,(202) 224-5824,202-224-5824,Sen. Bill Cassidy (R-LA),legislator,United States,federal,DC office,https://www.cassidy.senate.gov/
++12022244944,(202) 224-4944,202-224-4944,Sen. Bill Hagerty (R-TN),legislator,United States,federal,DC office,https://www.hagerty.senate.gov/
++12022243934,(202) 224-3934,202-224-3934,Sen. Brian Schatz (D-HI),legislator,United States,federal,DC office,https://www.schatz.senate.gov/
++12022243542,(202) 224-3542,202-224-3542,Sen. Catherine Cortez Masto (D-NV),legislator,United States,federal,DC office,https://www.cortezmasto.senate.gov/
++12022245042,(202) 224-5042,202-224-5042,Sen. Chris Coons (D-DE),legislator,United States,federal,DC office,https://www.coons.senate.gov/
++12022244041,(202) 224-4041,202-224-4041,Sen. Chris Murphy (D-CT),legislator,United States,federal,DC office,https://www.murphy.senate.gov/
++12022244654,(202) 224-4654,202-224-4654,Sen. Chris Van Hollen (D-MD),legislator,United States,federal,DC office,https://www.vanhollen.senate.gov/
++12022243744,(202) 224-3744,202-224-3744,Sen. Chuck Grassley (R-IA),legislator,United States,federal,DC office,https://www.grassley.senate.gov/
++12022246542,(202) 224-6542,202-224-6542,Sen. Chuck Schumer (D-NY),legislator,United States,federal,DC office,https://www.schumer.senate.gov/contact
++12022245054,(202) 224-5054,202-224-5054,Sen. Cindy Hyde-Smith (R-MS),legislator,United States,federal,DC office,https://www.hydesmith.senate.gov/
++12022243224,(202) 224-3224,202-224-3224,Sen. Cory Booker (D-NJ),legislator,United States,federal,DC office,https://www.booker.senate.gov/contact
++12022243424,(202) 224-3424,202-224-3424,Sen. Cynthia Lummis (R-WY),legislator,United States,federal,DC office,https://www.lummis.senate.gov/
++12022243004,(202) 224-3004,202-224-3004,Sen. Dan Sullivan (R-AK),legislator,United States,federal,DC office,https://www.sullivan.senate.gov/
++12022246324,(202) 224-6324,202-224-6324,Sen. Dave McCormick (R-PA),legislator,United States,federal,DC office,https://www.mccormick.senate.gov/contact/
++12022246551,(202) 224-6551,202-224-6551,Sen. Deb Fischer (R-NE),legislator,United States,federal,DC office,https://www.fischer.senate.gov/
++12022242152,(202) 224-2152,202-224-2152,Sen. Dick Durbin (D-IL),legislator,United States,federal,DC office,https://www.durbin.senate.gov/
++12022242742,(202) 224-2742,202-224-2742,Sen. Ed Markey (D-MA),legislator,United States,federal,DC office,https://www.markey.senate.gov/contact
++12022244822,(202) 224-4822,202-224-4822,Sen. Elissa Slotkin (D-MI),legislator,United States,federal,DC office,https://www.slotkin.senate.gov/
++12022244543,(202) 224-4543,202-224-4543,Sen. Elizabeth Warren (D-MA),legislator,United States,federal,DC office,https://www.warren.senate.gov/contact
++12022245721,(202) 224-5721,202-224-5721,Sen. Eric Schmitt (R-MO),legislator,United States,federal,DC office,https://www.schmitt.senate.gov/
++12022246221,(202) 224-6221,202-224-6221,Sen. Gary Peters (D-MI),legislator,United States,federal,DC office,https://www.peters.senate.gov/
++12022244642,(202) 224-4642,202-224-4642,Sen. Jack Reed (D-RI),legislator,United States,federal,DC office,https://www.reed.senate.gov/contact
++12022246244,(202) 224-6244,202-224-6244,Sen. Jacky Rosen (D-NV),legislator,United States,federal,DC office,https://www.rosen.senate.gov/
++12022245754,(202) 224-5754,202-224-5754,Sen. James Lankford (R-OK),legislator,United States,federal,DC office,https://www.lankford.senate.gov/
++12022242841,(202) 224-2841,202-224-2841,Sen. Jeanne Shaheen (D-NH),legislator,United States,federal,DC office,https://www.shaheen.senate.gov/
++12022243753,(202) 224-3753,202-224-3753,Sen. Jeff Merkley (D-OR),legislator,United States,federal,DC office,https://www.merkley.senate.gov/
++12022246521,(202) 224-6521,202-224-6521,Sen. Jerry Moran (R-KS),legislator,United States,federal,DC office,https://www.moran.senate.gov/
++12022244814,(202) 224-4814,202-224-4814,Sen. Jim Banks (R-IN),legislator,United States,federal,DC office,https://www.banks.senate.gov/
++12022243954,(202) 224-3954,202-224-3954,Sen. Jim Justice (R-WV),legislator,United States,federal,DC office,https://www.justice.senate.gov/
++12022242752,(202) 224-2752,202-224-2752,Sen. Jim Risch (R-ID),legislator,United States,federal,DC office,https://www.risch.senate.gov/
++12022246441,(202) 224-6441,202-224-6441,Sen. John Barrasso (R-WY),legislator,United States,federal,DC office,https://www.barrasso.senate.gov/
++12022244843,(202) 224-4843,202-224-4843,Sen. John Boozman (R-AR),legislator,United States,federal,DC office,https://www.boozman.senate.gov/
++12022242934,(202) 224-2934,202-224-2934,Sen. John Cornyn (R-TX),legislator,United States,federal,DC office,https://www.cornyn.senate.gov/
++12022245251,(202) 224-5251,202-224-5251,Sen. John Curtis (R-UT),legislator,United States,federal,DC office,https://www.curtis.senate.gov/
++12022244254,(202) 224-4254,202-224-4254,Sen. John Fetterman (D-PA),legislator,United States,federal,DC office,https://www.fetterman.senate.gov/contact/
++12022245941,(202) 224-5941,202-224-5941,Sen. John Hickenlooper (D-CO),legislator,United States,federal,DC office,https://www.hickenlooper.senate.gov/
++12022242551,(202) 224-2551,202-224-2551,Sen. John Hoeven (R-ND),legislator,United States,federal,DC office,https://www.hoeven.senate.gov/
++12022244623,(202) 224-4623,202-224-4623,Sen. John Kennedy (R-LA),legislator,United States,federal,DC office,https://www.kennedy.senate.gov/
++12022242321,(202) 224-2321,202-224-2321,Sen. John Thune (R-SD),legislator,United States,federal,DC office,https://www.thune.senate.gov/
++12022243353,(202) 224-3353,202-224-3353,Sen. Jon Husted (R-OH),legislator,United States,federal,DC office,https://www.husted.senate.gov/
++12022243643,(202) 224-3643,202-224-3643,Sen. Jon Ossoff (D-GA),legislator,United States,federal,DC office,https://www.ossoff.senate.gov/
++12022243254,(202) 224-3254,202-224-3254,Sen. Joni Ernst (R-IA),legislator,United States,federal,DC office,https://www.ernst.senate.gov/
++12022246154,(202) 224-6154,202-224-6154,Sen. Josh Hawley (R-MO),legislator,United States,federal,DC office,https://www.hawley.senate.gov/
++12022245744,(202) 224-5744,202-224-5744,Sen. Katie Britt (R-AL),legislator,United States,federal,DC office,https://www.britt.senate.gov/
++12022242043,(202) 224-2043,202-224-2043,Sen. Kevin Cramer (R-ND),legislator,United States,federal,DC office,https://www.cramer.senate.gov/
++12022244451,(202) 224-4451,202-224-4451,Sen. Kirsten Gillibrand (D-NY),legislator,United States,federal,DC office,https://www.gillibrand.senate.gov/
++12022245972,(202) 224-5972,202-224-5972,Sen. Lindsey Graham (R-SC),legislator,United States,federal,DC office,https://www.lgraham.senate.gov/
++12022242441,(202) 224-2441,202-224-2441,Sen. Lisa Blunt Rochester (D-DE),legislator,United States,federal,DC office,https://www.bluntrochester.senate.gov/
++12022246665,(202) 224-6665,202-224-6665,Sen. Lisa Murkowski (R-AK),legislator,United States,federal,DC office,https://www.murkowski.senate.gov/
++12022243324,(202) 224-3324,202-224-3324,Sen. Maggie Hassan (D-NH),legislator,United States,federal,DC office,https://www.hassan.senate.gov/
++12022243441,(202) 224-3441,202-224-3441,Sen. Maria Cantwell (D-WA),legislator,United States,federal,DC office,https://www.cantwell.senate.gov/contact
++12022242235,(202) 224-2235,202-224-2235,Sen. Mark Kelly (D-AZ),legislator,United States,federal,DC office,https://www.kelly.senate.gov/
++12022242023,(202) 224-2023,202-224-2023,Sen. Mark Warner (D-VA),legislator,United States,federal,DC office,https://www.warner.senate.gov/
++12022244721,(202) 224-4721,202-224-4721,Sen. Markwayne Mullin (R-OK),legislator,United States,federal,DC office,https://www.mullin.senate.gov/
++12022243344,(202) 224-3344,202-224-3344,Sen. Marsha Blackburn (R-TN),legislator,United States,federal,DC office,https://www.blackburn.senate.gov/
++12022245521,(202) 224-5521,202-224-5521,Sen. Martin Heinrich (D-NM),legislator,United States,federal,DC office,https://www.heinrich.senate.gov/
++12022246361,(202) 224-6361,202-224-6361,Sen. Mazie Hirono (D-HI),legislator,United States,federal,DC office,https://www.hirono.senate.gov/
++12022245852,(202) 224-5852,202-224-5852,Sen. Michael Bennet (D-CO),legislator,United States,federal,DC office,https://www.bennet.senate.gov/
++12022246142,(202) 224-6142,202-224-6142,Sen. Mike Crapo (R-ID),legislator,United States,federal,DC office,https://www.crapo.senate.gov/
++12022245444,(202) 224-5444,202-224-5444,Sen. Mike Lee (R-UT),legislator,United States,federal,DC office,https://www.lee.senate.gov/
++12022245842,(202) 224-5842,202-224-5842,Sen. Mike Rounds (R-SD),legislator,United States,federal,DC office,https://www.rounds.senate.gov/
++12022242541,(202) 224-2541,202-224-2541,Sen. Mitch McConnell (R-KY),legislator,United States,federal,DC office,https://www.mcconnell.senate.gov/
++12022242621,(202) 224-2621,202-224-2621,Sen. Patty Murray (D-WA),legislator,United States,federal,DC office,https://www.murray.senate.gov/
++12022244224,(202) 224-4224,202-224-4224,Sen. Pete Ricketts (R-NE),legislator,United States,federal,DC office,https://www.ricketts.senate.gov/
++12022244242,(202) 224-4242,202-224-4242,Sen. Peter Welch (D-VT),legislator,United States,federal,DC office,https://www.welch.senate.gov/
++12022244343,(202) 224-4343,202-224-4343,Sen. Rand Paul (R-KY),legislator,United States,federal,DC office,https://www.paul.senate.gov/
++12022240278,(202) 224-0278,202-224-0278,Sen. Raphael Warnock (D-GA),legislator,United States,federal,DC office,https://www.warnock.senate.gov/
++12022242823,(202) 224-2823,202-224-2823,Sen. Richard Blumenthal (D-CT),legislator,United States,federal,DC office,https://www.blumenthal.senate.gov/
++12022245274,(202) 224-5274,202-224-5274,Sen. Rick Scott (R-FL),legislator,United States,federal,DC office,https://www.rickscott.senate.gov/
++12022244774,(202) 224-4774,202-224-4774,Sen. Roger Marshall (R-KS),legislator,United States,federal,DC office,https://www.marshall.senate.gov/
++12022246253,(202) 224-6253,202-224-6253,Sen. Roger Wicker (R-MS),legislator,United States,federal,DC office,https://www.wicker.senate.gov/
++12022245323,(202) 224-5323,202-224-5323,Sen. Ron Johnson (R-WI),legislator,United States,federal,DC office,https://www.ronjohnson.senate.gov/
++12022245244,(202) 224-5244,202-224-5244,Sen. Ron Wyden (D-OR),legislator,United States,federal,DC office,https://www.wyden.senate.gov/
++12022244521,(202) 224-4521,202-224-4521,Sen. Ruben Gallego (D-AZ),legislator,United States,federal,DC office,https://www.gallego.senate.gov/
++12022242921,(202) 224-2921,202-224-2921,Sen. Sheldon Whitehouse (D-RI),legislator,United States,federal,DC office,https://www.whitehouse.senate.gov/
++12022246472,(202) 224-6472,202-224-6472,Sen. Shelley Moore Capito (R-WV),legislator,United States,federal,DC office,https://www.capito.senate.gov/
++12022242651,(202) 224-2651,202-224-2651,Sen. Steve Daines (R-MT),legislator,United States,federal,DC office,https://www.daines.senate.gov/
++12022242523,(202) 224-2523,202-224-2523,Sen. Susan Collins (R-ME),legislator,United States,federal,DC office,https://www.collins.senate.gov/
++12022245653,(202) 224-5653,202-224-5653,Sen. Tammy Baldwin (D-WI),legislator,United States,federal,DC office,https://www.baldwin.senate.gov/
++12022242854,(202) 224-2854,202-224-2854,Sen. Tammy Duckworth (D-IL),legislator,United States,federal,DC office,https://www.duckworth.senate.gov/
++12022243154,(202) 224-3154,202-224-3154,Sen. Ted Budd (R-NC),legislator,United States,federal,DC office,https://www.budd.senate.gov/
++12022245922,(202) 224-5922,202-224-5922,Sen. Ted Cruz (R-TX),legislator,United States,federal,DC office,https://www.cruz.senate.gov/
++12022246342,(202) 224-6342,202-224-6342,Sen. Thom Tillis (R-NC),legislator,United States,federal,DC office,https://www.tillis.senate.gov/
++12022244024,(202) 224-4024,202-224-4024,Sen. Tim Kaine (D-VA),legislator,United States,federal,DC office,https://www.kaine.senate.gov/
++12022246121,(202) 224-6121,202-224-6121,Sen. Tim Scott (R-SC),legislator,United States,federal,DC office,https://www.scott.senate.gov/
++12022242644,(202) 224-2644,202-224-2644,Sen. Tim Sheehy (R-MT),legislator,United States,federal,DC office,https://www.sheehy.senate.gov/
++12022245641,(202) 224-5641,202-224-5641,Sen. Tina Smith (D-MN),legislator,United States,federal,DC office,https://www.smith.senate.gov/
++12022245623,(202) 224-5623,202-224-5623,Sen. Todd Young (R-IN),legislator,United States,federal,DC office,https://www.young.senate.gov/
++12022242353,(202) 224-2353,202-224-2353,Sen. Tom Cotton (R-AR),legislator,United States,federal,DC office,https://www.cotton.senate.gov/
++12022244124,(202) 224-4124,202-224-4124,Sen. Tommy Tuberville (R-AL),legislator,United States,federal,DC office,https://www.tuberville.senate.gov/contact/
++12026335000,(202) 633-5000,202-633-5000,Smithsonian Institution,agency,United States,federal,main,https://www.si.edu/
++12026331000,(202) 633-1000,202-633-1000,Smithsonian Visitor Information,agency,United States,federal,consumer,https://www.si.edu/
++12024793000,(202) 479-3000,202-479-3000,Supreme Court of the United States,court,United States,federal,main,https://www.supremecourt.gov/contact/contactus.aspx
++18662898668,(866) 289-8668,866-289-8668,TSA Contact Center,agency,United States,federal,main,https://www.tsa.gov/contact-center
++18004109417,(800) 410-9417,800-410-9417,Treasury OFAC Compliance Hotline,agency,United States,federal,compliance_hotline,https://ofac.treasury.gov/contact-ofac
++12022250911,(202) 225-0911,202-225-0911,U.S. Capitol Police - House side,law_enforcement,United States,federal,main,https://www.uscp.gov/contact
++12022241677,(202) 224-1677,202-224-1677,U.S. Capitol Police - Public Information Office,law_enforcement,United States,federal,PIO,https://www.uscp.gov/contact
++12022240911,(202) 224-0911,202-224-0911,U.S. Capitol Police - Senate side,law_enforcement,United States,federal,main,https://www.uscp.gov/contact
++12022243121,(202) 224-3121,202-224-3121,U.S. Capitol Switchboard,switchboard,United States,federal,main,https://www.senate.gov/general/contacting.htm
++13017634040,(301) 763-4040,301-763-4040,U.S. Census Bureau,agency,United States,federal,main,https://www.census.gov/
++18004248802,(800) 424-8802,800-424-8802,U.S. Coast Guard National Response Center,agency,United States,federal,hotline,https://www.uscg.mil/
++12022167000,(202) 216-7000,202-216-7000,U.S. Court of Appeals for the D.C. Circuit,court,United States,federal,main,https://www.cadc.uscourts.gov/
++13142442400,(314) 244-2400,314-244-2400,U.S. Court of Appeals for the Eighth Circuit,court,United States,federal,main,https://www.ca8.uscourts.gov/
++14043356100,(404) 335-6100,404-335-6100,U.S. Court of Appeals for the Eleventh Circuit,court,United States,federal,main,https://www.ca11.uscourts.gov/
++12022758000,(202) 275-8000,202-275-8000,U.S. Court of Appeals for the Federal Circuit,court,United States,federal,main,https://www.cafc.uscourts.gov/contact-us/
++15043107700,(504) 310-7700,504-310-7700,U.S. Court of Appeals for the Fifth Circuit,court,United States,federal,main,https://www.ca5.uscourts.gov/
++16177489057,(617) 748-9057,617-748-9057,U.S. Court of Appeals for the First Circuit,court,United States,federal,main,https://www.ca1.uscourts.gov/clerks-office
++18049162700,(804) 916-2700,804-916-2700,U.S. Court of Appeals for the Fourth Circuit,court,United States,federal,main,https://www.ca4.uscourts.gov/contact
++14153558000,(415) 355-8000,415-355-8000,U.S. Court of Appeals for the Ninth Circuit,court,United States,federal,main,https://www.ca9.uscourts.gov/
++12128578500,(212) 857-8500,212-857-8500,U.S. Court of Appeals for the Second Circuit,court,United States,federal,main,https://www.ca2.uscourts.gov/clerk/clerks_office.html
++13124355850,(312) 435-5850,312-435-5850,U.S. Court of Appeals for the Seventh Circuit,court,United States,federal,main,https://www.ca7.uscourts.gov/
++15135647000,(513) 564-7000,513-564-7000,U.S. Court of Appeals for the Sixth Circuit,court,United States,federal,main,https://www.ca6.uscourts.gov/
++13038443157,(303) 844-3157,303-844-3157,U.S. Court of Appeals for the Tenth Circuit,court,United States,federal,main,https://www.ca10.uscourts.gov/contact
++12155972995,(215) 597-2995,215-597-2995,U.S. Court of Appeals for the Third Circuit,court,United States,federal,main,https://www.ca3.uscourts.gov/clerks-office
++12023576400,(202) 357-6400,202-357-6400,U.S. Court of Federal Claims,court,United States,federal,main,https://www.uscfc.uscourts.gov/contact-us
++12122642800,(212) 264-2800,212-264-2800,U.S. Court of International Trade,court,United States,federal,main,https://www.cit.uscourts.gov/
++12027202791,(202) 720-2791,202-720-2791,U.S. Department of Agriculture (USDA) Information Hotline,department,United States,federal,main,https://www.usda.gov/contact-us
++12024822000,(202) 482-2000,202-482-2000,U.S. Department of Commerce,department,United States,federal,main,https://www.commerce.gov/about/contact-us
++17035456700,(703) 545-6700,703-545-6700,U.S. Department of Defense (Pentagon),department,United States,federal,main,https://www.defense.gov/
++12024012000,(202) 401-2000,202-401-2000,U.S. Department of Education,department,United States,federal,main,https://www.ed.gov/about/contact-us
++12025861234,(202) 586-1234,202-586-1234,U.S. Department of Energy (DOE),department,United States,federal,main,https://www.energy.gov/contact-us
++12026897560,(202) 689-7560,202-689-7560,U.S. Department of Health and Human Services (HHS),department,United States,federal,main,https://www.hhs.gov/about/contact-us/index.html
++12022828495,(202) 282-8495,202-282-8495,U.S. Department of Homeland Security (DHS) Comment Line,department,United States,federal,comments,https://www.dhs.gov/contact-us
++12027081112,(202) 708-1112,202-708-1112,U.S. Department of Housing and Urban Development (HUD),department,United States,federal,main,https://www.hud.gov/contact
++12025142000,(202) 514-2000,202-514-2000,U.S. Department of Justice (DOJ),department,United States,federal,switchboard,https://www.justice.gov/contact-us
++12026933000,(202) 693-3000,202-693-3000,U.S. Department of Labor,department,United States,federal,main,https://www.dol.gov/general/contact
++12026474000,(202) 647-4000,202-647-4000,U.S. Department of State,department,United States,federal,main,https://www.state.gov/
++12023664000,(202) 366-4000,202-366-4000,U.S. Department of Transportation (DOT),department,United States,federal,main,https://www.transportation.gov/
++12022083100,(202) 208-3100,202-208-3100,U.S. Department of the Interior,department,United States,federal,main,https://www.doi.gov/contact-us
++12026222000,(202) 622-2000,202-622-2000,U.S. Department of the Treasury,department,United States,federal,main,https://home.treasury.gov/utility/contact
++18884474722,(888) 447-4722,888-447-4722,U.S. Geological Survey (USGS),agency,United States,federal,main,https://www.usgs.gov/
++12025124400,(202) 512-4400,202-512-4400,U.S. Government Accountability Office (GAO),agency,United States,federal,main,https://www.gao.gov/about/contact-us
++12025121800,(202) 512-1800,202-512-1800,U.S. Government Publishing Office (GPO),agency,United States,federal,main,https://www.gpo.gov/
++12023079100,(202) 307-9100,202-307-9100,U.S. Marshals Service (USMS),agency,United States,federal,main,https://www.usmarshals.gov/who-we-are/contact-us
++15712721000,(571) 272-1000,571-272-1000,U.S. Patent and Trademark Office (USPTO),agency,United States,federal,main,https://www.uspto.gov/about-us/contact-us
++18006543339,(800) 654-3339,800-654-3339,U.S. Postal Inspection Service - mail crime,law_enforcement,United States,federal,tip_line,https://www.uspis.gov/
++18772876355,(877) 287-6355,877-287-6355,U.S. Postal Inspection Service alt,law_enforcement,United States,federal,tip_line,https://www.uspis.gov/
++12024061900,(202) 406-1900,202-406-1900,U.S. Secret Service,agency,United States,federal,main,https://www.secretservice.gov/contact
++12025210700,(202) 521-0700,202-521-0700,U.S. Tax Court,court,United States,federal,main,https://www.ustaxcourt.gov/
++18003755283,(800) 375-5283,800-375-5283,USCIS National Customer Service Center,agency,United States,federal,consumer,https://www.uscis.gov/contactcenter
++18002758777,(800) 275-8777,800-275-8777,USPS Customer Service (1-800-ASK-USPS),agency,United States,federal,consumer,https://www.usps.com/help/contact-us.htm
++12022682000,(202) 268-2000,202-268-2000,USPS Headquarters,agency,United States,federal,main,https://www.usps.com/
++18007869199,(800) 786-9199,800-786-9199,USPTO Inventor Assistance,agency,United States,federal,consumer,https://www.uspto.gov/about-us/contact-us
++18884424551,(888) 442-4551,888-442-4551,VA GI Bill Hotline,department,United States,federal,hotline,https://www.va.gov/education/
++12024561111,(202) 456-1111,202-456-1111,White House Comments Line,executive,United States,federal,comments,https://www.whitehouse.gov/contact/
++12024566213,(202) 456-6213,202-456-6213,White House Comments TTY,executive,United States,federal,comments_tty,https://www.whitehouse.gov/contact/
++12024561414,(202) 456-1414,202-456-1414,White House Switchboard,executive,United States,federal,switchboard,https://www.whitehouse.gov/contact/
++12024562121,(202) 456-2121,202-456-2121,White House Visitor's Office,executive,United States,federal,visitors,https://www.whitehouse.gov/contact/
++15057682000,(505) 768-2000,505-768-2000,Albuquerque City Hall / 311,city_hall,"Albuquerque, NM",municipal,main,https://www.cabq.gov/mayor/311/311-information/contacting-311/
++15052422677,(505) 242-2677,505-242-2677,Albuquerque Police Department non-emergency (242-COPS),police_non_emergency,"Albuquerque, NM",municipal,main,https://www.cabq.gov/police/contact-the-police
++17147655247,(714) 765-5247,714-765-5247,Anaheim Mayor's Office,mayor,"Anaheim, CA",municipal,main,https://www.anaheim.net/2495/Customer-Service
++17147651900,(714) 765-1900,714-765-1900,Anaheim Police Department non-emergency,police_non_emergency,"Anaheim, CA",municipal,main,https://pd.anaheim.net/214/Contact
++19077868900,(907) 786-8900,907-786-8900,Anchorage Police Department main / non-emergency,police_non_emergency,"Anchorage, AK",municipal,main,https://www.anchoragepolice.com/phone-list
++18172744444,(817) 274-4444,817-274-4444,Arlington Police Department non-emergency,police_non_emergency,"Arlington, TX",municipal,main,https://www.arlingtontx.gov/City-Services/Public-Safety/Police-Department/About-the-Police-Department/Contact-the-Police-Department
++14043306050,(404) 330-6050,404-330-6050,Atlanta City Hall General,city_hall,"Atlanta, GA",municipal,main,https://citycouncil.atlantaga.gov/how-do-i/contacts
++14043306054,(404) 330-6054,404-330-6054,Atlanta Mayor's Office,mayor,"Atlanta, GA",municipal,main,https://www.atlantaga.gov/government/mayor-s-office
++14046586666,(404) 658-6666,404-658-6666,Atlanta Police Department non-emergency,police_non_emergency,"Atlanta, GA",municipal,main,https://www.atlantapd.org/about-apd/contact-us
++13037397000,(303) 739-7000,303-739-7000,Aurora City Hall (Access Aurora),city_hall,"Aurora, CO",municipal,main,https://www.auroragov.org/city_hall/contact_us
++13037397015,(303) 739-7015,303-739-7015,Aurora Mayor / Council Office,mayor,"Aurora, CO",municipal,main,https://www.auroragov.org/city_hall/mayor___city_council/mayor___council_members/mike_coffman
++13036273100,(303) 627-3100,303-627-3100,Aurora Police non-emergency (Aurora911 dispatch),police_non_emergency,"Aurora, CO",municipal,main,https://www.auroragov.org/residents/public_safety/police/important_phone_numbers
++15129742268,(512) 974-2268,512-974-2268,Austin City Attorney's Office,city_attorney,"Austin, TX",municipal,main,https://www.austintexas.gov/department/law
++15129742210,(512) 974-2210,512-974-2210,Austin City Clerk's Office,city_clerk,"Austin, TX",municipal,main,https://www.austintexas.gov/clerk
++15129742000,(512) 974-2000,512-974-2000,Austin City Hall (311),city_hall,"Austin, TX",municipal,main,https://www.austintexas.gov/3-1-1
++15129782100,(512) 978-2100,512-978-2100,Austin Mayor's Office,mayor,"Austin, TX",municipal,main,https://www.austintexas.gov/department/mayors-office-contact-information
++16613277111,(661) 327-7111,661-327-7111,Bakersfield Police Department non-emergency,police_non_emergency,"Bakersfield, CA",municipal,main,https://www.bakersfieldcity.us/257/Police
++14103963297,(410) 396-3297,410-396-3297,Baltimore City Solicitor / Law Department,city_attorney,"Baltimore, MD",municipal,main,https://law.baltimorecity.gov/
++14103963835,(410) 396-3835,410-396-3835,Baltimore Mayor's Office,mayor,"Baltimore, MD",municipal,main,https://mayor.baltimorecity.gov/bc/contact
++14432632220,(443) 263-2220,443-263-2220,Baltimore Police non-emergency (311 outside city),police_non_emergency,"Baltimore, MD",municipal,main,https://www.baltimorepolice.org/contact-baltimore-police-department
++16176354058,(617) 635-4058,617-635-4058,Boston Law Department,city_attorney,"Boston, MA",municipal,main,https://www.boston.gov/departments/law
++16176354500,(617) 635-4500,617-635-4500,Boston Mayor's Office,mayor,"Boston, MA",municipal,main,https://www.boston.gov/departments/mayors-office
++16173434200,(617) 343-4200,617-343-4200,Boston Police Department non-emergency,police_non_emergency,"Boston, MA",municipal,main,https://police.boston.gov/directory/
++17168515169,(716) 851-5169,716-851-5169,Buffalo Mayor's Office,mayor,"Buffalo, NY",municipal,main,https://www.buffalony.gov/1139/Christopher-P-Scanlon
++17168532222,(716) 853-2222,716-853-2222,Buffalo Police non-emergency,police_non_emergency,"Buffalo, NY",municipal,main,https://www.bpdny.org/149/Contact-Information
++14807824130,(480) 782-4130,480-782-4130,Chandler Police Department non-emergency,police_non_emergency,"Chandler, AZ",municipal,main,https://chandlerazpd.gov/contact-cpd/
++17043362241,(704) 336-2241,704-336-2241,Charlotte Mayor's Office,mayor,"Charlotte, NC",municipal,main,https://www.charlottenc.gov/City-Government/Leadership/Mayor
++13127425375,(312) 742-5375,312-742-5375,Chicago City Clerk (312-742-CLERK),city_clerk,"Chicago, IL",municipal,main,https://www.chicityclerk.com/contact-us
++13127446870,(312) 744-6870,312-744-6870,Chicago City Council Division (City Clerk Council Div),city_council,"Chicago, IL",municipal,main,https://www.chicityclerk.com/contact-us
++13127446249,(312) 744-6249,312-744-6249,Chicago Department of Business Affairs and Consumer Protection (BACP),consumer_affairs,"Chicago, IL",municipal,main,https://www.chicago.gov/city/en/depts/bacp.html
++13127446975,(312) 744-6975,312-744-6975,Chicago Law Department (Corporation Counsel),city_attorney,"Chicago, IL",municipal,main,https://www.chicago.gov/city/en/depts/dol.html
++13127443334,(312) 744-3334,312-744-3334,Chicago Mayor's Press Office,mayor,"Chicago, IL",municipal,press,https://www.chicago.gov/city/en/depts/mayor.html
++15133523250,(513) 352-3250,513-352-3250,Cincinnati Mayor's Office,mayor,"Cincinnati, OH",municipal,main,https://www.cincinnati-oh.gov/mayor/contact-the-mayor/
++15137651212,(513) 765-1212,513-765-1212,Cincinnati Police non-emergency,police_non_emergency,"Cincinnati, OH",municipal,main,https://www.cincinnati-oh.gov/police/contact-us/
++12166642000,(216) 664-2000,216-664-2000,Cleveland 311 City Hall,city_hall,"Cleveland, OH",municipal,main,https://www.clevelandohio.gov/contact
++12166211234,(216) 621-1234,216-621-1234,Cleveland Police Department non-emergency,police_non_emergency,"Cleveland, OH",municipal,main,https://www.clevelandohio.gov/police/contact-us/
++17193855900,(719) 385-5900,719-385-5900,Colorado Springs Mayor's Office,mayor,"Colorado Springs, CO",municipal,main,https://coloradosprings.gov/mayor
++17194447000,(719) 444-7000,719-444-7000,Colorado Springs Police Department non-emergency,police_non_emergency,"Colorado Springs, CO",municipal,main,https://coloradosprings.gov/police-department/page/police-department-contact-us
++16146457385,(614) 645-7385,614-645-7385,Columbus City Attorney's Office,city_attorney,"Columbus, OH",municipal,main,https://city-attorney.columbus.gov/
++16146457671,(614) 645-7671,614-645-7671,Columbus Mayor's Office,mayor,"Columbus, OH",municipal,main,https://www.columbus.gov/Government/Mayors-Office
++16146454545,(614) 645-4545,614-645-4545,Columbus Police non-emergency,police_non_emergency,"Columbus, OH",municipal,main,https://www.columbus.gov/Services/Public-Safety/Police/About-the-Columbus-Division-of-Police/Contact-the-Division-of-Police
++13618268489,(361) 826-8489,361-826-8489,Corpus Christi 311 / City Hall,city_hall,"Corpus Christi, TX",municipal,main,https://www.corpuschristitx.gov/department-directory/communications/311-call-center/
++13618862600,(361) 886-2600,361-886-2600,Corpus Christi Police Department non-emergency,police_non_emergency,"Corpus Christi, TX",municipal,main,https://www.corpuschristitx.gov/department-directory/police-department/
++12146703111,(214) 670-3111,214-670-3111,Dallas City Attorney's Office,city_attorney,"Dallas, TX",municipal,main,https://dallascityhall.com/departments/city-attorney/Pages/Tammy-Palomino-Bio.aspx
++12146703297,(214) 670-3297,214-670-3297,Dallas City Manager's Office,city_manager,"Dallas, TX",municipal,main,https://dallascityhall.com/government/citymanager/Pages/contacts.aspx
++12146716736,(214) 671-6736,214-671-6736,Dallas City Secretary's Office (Open Records),city_clerk,"Dallas, TX",municipal,main,https://dallascityhall.com/government/citysecretary/openrecords/Pages/contacts.aspx
++12146703301,(214) 670-3301,214-670-3301,Dallas Mayor's Office,mayor,"Dallas, TX",municipal,main,https://dallascityhall.com/government/citymayor/Pages/contact.aspx
++12146714500,(214) 671-4500,214-671-4500,Dallas Police Department non-emergency,police_non_emergency,"Dallas, TX",municipal,main,https://www.dallaspolice.net/about/Pages/Contact.aspx
++17209138050,(720) 913-8050,720-913-8050,Denver City Attorney's Office (Criminal Division),city_attorney,"Denver, CO",municipal,main,https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/City-Attorneys-Office
++17208659000,(720) 865-9000,720-865-9000,Denver Mayor's Office,mayor,"Denver, CO",municipal,main,https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Mayors-Office
++17209132000,(720) 913-2000,720-913-2000,Denver Police Department non-emergency,police_non_emergency,"Denver, CO",municipal,main,https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Police-Department
++13132244550,(313) 224-4550,313-224-4550,Detroit Law Department (Corporation Counsel),city_attorney,"Detroit, MI",municipal,main,https://detroitmi.gov/departments/law-department
++13132674600,(313) 267-4600,313-267-4600,Detroit Police non-emergency (TCRU),police_non_emergency,"Detroit, MI",municipal,main,https://detroitmi.gov/departments/police-department/report-crime
++19152120033,(915) 212-0033,915-212-0033,El Paso City Attorney's Office,city_attorney,"El Paso, TX",municipal,main,https://www.elpasotexas.gov/city-attorney/
++19152120049,(915) 212-0049,915-212-0049,El Paso City Clerk,city_clerk,"El Paso, TX",municipal,main,https://www.elpasotexas.gov/departments
++19155414000,(915) 541-4000,915-541-4000,El Paso City Hall,city_hall,"El Paso, TX",municipal,main,https://www.elpasotexas.gov/contact
++19155414145,(915) 541-4145,915-541-4145,El Paso Mayor's Office,mayor,"El Paso, TX",municipal,main,https://www.elpasotexas.gov/government/mayor/
++19158324400,(915) 832-4400,915-832-4400,El Paso Police Department non-emergency,police_non_emergency,"El Paso, TX",municipal,main,https://eppd.org/public-services/report-a-crime
++12604272146,(260) 427-2146,260-427-2146,Fort Wayne Mayor's Office,mayor,"Fort Wayne, IN",municipal,main,https://www.cityoffortwayne.in.gov/427/Mayors-Office
++12604271222,(260) 427-1222,260-427-1222,Fort Wayne Police non-emergency,police_non_emergency,"Fort Wayne, IN",municipal,main,https://www.fwpd.org/about-us/contact-us
++18173927600,(817) 392-7600,817-392-7600,Fort Worth City Attorney's Office,city_attorney,"Fort Worth, TX",municipal,main,https://www.fortworthtexas.gov/departments/cityattorney
++18173926161,(817) 392-6161,817-392-6161,Fort Worth City Hall,city_hall,"Fort Worth, TX",municipal,main,https://www.fortworthtexas.gov/government/elected-officials/mattie-parker
++18173926150,(817) 392-6150,817-392-6150,Fort Worth City Secretary's Office,city_clerk,"Fort Worth, TX",municipal,main,https://www.fortworthtexas.gov/departments/citysecretary
++18173926118,(817) 392-6118,817-392-6118,Fort Worth Mayor's Office,mayor,"Fort Worth, TX",municipal,main,https://www.fortworthtexas.gov/government/mayor
++18173924222,(817) 392-4222,817-392-4222,Fort Worth Police non-emergency,police_non_emergency,"Fort Worth, TX",municipal,main,https://police.fortworthtexas.gov/Contact
++15596217500,(559) 621-7500,559-621-7500,Fresno City Attorney's Office,city_attorney,"Fresno, CA",municipal,main,https://www.fresno.gov/cityattorney/
++15596217650,(559) 621-7650,559-621-7650,Fresno City Clerk,city_clerk,"Fresno, CA",municipal,main,https://www.fresno.gov/cityclerk/
++15596218000,(559) 621-8000,559-621-8000,Fresno Mayor's Office,mayor,"Fresno, CA",municipal,main,https://www.fresno.gov/mayor/
++15596217000,(559) 621-7000,559-621-7000,Fresno Police Department non-emergency,police_non_emergency,"Fresno, CA",municipal,main,https://www.fresno.gov/police/police-contacts/
++13363732489,(336) 373-2489,336-373-2489,Greensboro Mayor's Office / City Hall,mayor,"Greensboro, NC",municipal,main,https://www.greensboro-nc.gov/departments/contact-us
++13363732222,(336) 373-2222,336-373-2222,Greensboro Police Department non-emergency,police_non_emergency,"Greensboro, NC",municipal,main,https://www.greensboro-nc.gov/departments/police
++17022672323,(702) 267-2323,702-267-2323,Henderson Mayor's Office,mayor,"Henderson, NV",municipal,main,https://www.cityofhenderson.com/government/mayor-and-city-council/mayor-michelle-romero
++17022675000,(702) 267-5000,702-267-5000,Henderson Police Department non-emergency,police_non_emergency,"Henderson, NV",municipal,main,https://www.cityofhenderson.com/government/departments/police
++18087684141,(808) 768-4141,808-768-4141,Honolulu Mayor's Office,mayor,"Honolulu, HI",municipal,main,https://www.honolulu.gov/mayor/
++18085293111,(808) 529-3111,808-529-3111,Honolulu Police Department non-emergency main,police_non_emergency,"Honolulu, HI",municipal,main,https://www.honolulupd.org/contact-us/
++18323936491,(832) 393-6491,832-393-6491,Houston City Attorney / Legal Department,city_attorney,"Houston, TX",municipal,main,https://www.houstontx.gov/legal/
++17138370311,(713) 837-0311,713-837-0311,Houston City Hall Switchboard,city_hall,"Houston, TX",municipal,main,https://www.houstontx.gov/contactus/
++18323930830,(832) 393-0830,832-393-0830,Houston Mayor's Office of Communications,mayor,"Houston, TX",municipal,press,https://www.houstontx.gov/moc/
++18323931100,(832) 393-1100,832-393-1100,Houston Office of the City Secretary (City Council),city_council,"Houston, TX",municipal,main,https://www.houstontx.gov/citysec/
++17138843131,(713) 884-3131,713-884-3131,Houston Police Department non-emergency,police_non_emergency,"Houston, TX",municipal,main,https://www.houstontx.gov/police/contact/
++13173274242,(317) 327-4242,317-327-4242,Indianapolis City-County Council,city_council,"Indianapolis, IN",municipal,main,https://www.indy.gov/agency/city-county-council
++13173273601,(317) 327-3601,317-327-3601,Indianapolis Mayor's Office,mayor,"Indianapolis, IN",municipal,main,https://www.indy.gov/agency/office-of-the-mayor
++13173273811,(317) 327-3811,317-327-3811,Indianapolis Metropolitan Police Department non-emergency,police_non_emergency,"Indianapolis, IN",municipal,main,https://www.indy.gov/activity/contact-impd
++19042555000,(904) 255-5000,904-255-5000,Jacksonville Mayor's Office,mayor,"Jacksonville, FL",municipal,main,https://www.jacksonville.gov/mayor
++19042555100,(904) 255-5100,904-255-5100,Jacksonville Office of General Counsel,city_attorney,"Jacksonville, FL",municipal,main,https://www.jacksonville.gov/ogc/contact-us
++19046300500,(904) 630-0500,904-630-0500,Jacksonville Sheriff's Office non-emergency (JSO),police_non_emergency,"Jacksonville, FL",municipal,main,https://www.jaxsheriff.org/Contact-Us.aspx
++12015475477,(201) 547-5477,201-547-5477,Jersey City Police non-emergency,police_non_emergency,"Jersey City, NJ",municipal,main,https://www.jerseycitynj.gov/cityhall/public_safety/Police
++18165133600,(816) 513-3600,816-513-3600,Kansas City Mayor's Office,mayor,"Kansas City, MO",municipal,main,https://www.kcmo.gov/city-hall/city-officials/mayor-quinton-lucas
++18162345111,(816) 234-5111,816-234-5111,Kansas City Police Department non-emergency,police_non_emergency,"Kansas City, MO",municipal,main,https://kcpolice.org/contact-us/
++17022296629,(702) 229-6629,702-229-6629,Las Vegas City Attorney's Office,city_attorney,"Las Vegas, NV",municipal,main,https://www.lasvegasnevada.gov/Government/Departments/City-Attorney
++17022296241,(702) 229-6241,702-229-6241,Las Vegas Mayor's Office,mayor,"Las Vegas, NV",municipal,main,https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Mayor
++17028283111,(702) 828-3111,702-828-3111,Las Vegas Metro Police non-emergency / Dispatch,police_non_emergency,"Las Vegas, NV",municipal,main,https://www.lvmpd.com/contact/contact-us
++18592583100,(859) 258-3100,859-258-3100,Lexington Mayor's Office,mayor,"Lexington, KY",municipal,main,https://www.lexingtonky.gov/government/mayors-office/about-mayor-linda-gorton
++18592583600,(859) 258-3600,859-258-3600,Lexington Police non-emergency,police_non_emergency,"Lexington, KY",municipal,main,https://www.lexingtonky.gov/contacting-police
++14024417511,(402) 441-7511,402-441-7511,Lincoln Mayor's Office,mayor,"Lincoln, NE",municipal,main,https://www.lincoln.ne.gov/City/Mayor
++14024417204,(402) 441-7204,402-441-7204,Lincoln Police Department non-emergency,police_non_emergency,"Lincoln, NE",municipal,main,https://www.lincoln.ne.gov/City/Departments/Police
++15625706801,(562) 570-6801,562-570-6801,Long Beach Mayor's Office,mayor,"Long Beach, CA",municipal,main,https://www.longbeach.gov/mayor/
++15624356711,(562) 435-6711,562-435-6711,Long Beach Police Department non-emergency,police_non_emergency,"Long Beach, CA",municipal,main,https://www.longbeach.gov/police/contact-us/
++12139788100,(213) 978-8100,213-978-8100,LA City Attorney's Office,city_attorney,"Los Angeles, CA",municipal,main,https://cityattorney.lacity.gov/
++12139781133,(213) 978-1133,213-978-1133,LA City Clerk,city_clerk,"Los Angeles, CA",municipal,main,https://clerk.lacity.gov/contact-us
++12139781043,(213) 978-1043,213-978-1043,LA City Council main intake,city_council,"Los Angeles, CA",municipal,main,https://lacity.gov/government
++12134733231,(213) 473-3231,213-473-3231,LA City Hall / 311,city_hall,"Los Angeles, CA",municipal,main,https://lacity.gov/residents/request-services-report-problems
++12139780600,(213) 978-0600,213-978-0600,LA Mayor's Office,mayor,"Los Angeles, CA",municipal,main,https://locator.lacounty.gov/lac/Location/3069129/city-of-los-angeles-office-of-the-mayor
++18772755273,(877) 275-5273,877-275-5273,LAPD non-emergency (1-877-ASK-LAPD),police_non_emergency,"Los Angeles, CA",municipal,main,https://www.lapdonline.org/contact-us/
++15025742003,(502) 574-2003,502-574-2003,Louisville Mayor's Office,mayor,"Louisville, KY",municipal,main,https://louisvilleky.gov/government/mayor-craig-greenberg/contact-office-mayor-craig-greenberg
++15025747111,(502) 574-7111,502-574-7111,Louisville Metro Police non-emergency,police_non_emergency,"Louisville, KY",municipal,main,https://www.lmpd.gov/237/Important-Phone-Numbers
++16082664611,(608) 266-4611,608-266-4611,Madison Mayor's Office,mayor,"Madison, WI",municipal,main,https://www.cityofmadison.com/mayor/contact
++16082552345,(608) 255-2345,608-255-2345,Madison Police non-emergency,police_non_emergency,"Madison, WI",municipal,main,https://www.cityofmadison.com/police/contact
++19016366735,(901) 636-6735,901-636-6735,Memphis City Attorney / Law Division,city_attorney,"Memphis, TN",municipal,main,https://memphistn.gov/law/
++19016366000,(901) 636-6000,901-636-6000,Memphis Mayor's Office,mayor,"Memphis, TN",municipal,main,https://memphistn.gov/government-mayor/
++19015452677,(901) 545-2677,901-545-2677,Memphis Police Department non-emergency (545-COPS),police_non_emergency,"Memphis, TN",municipal,main,https://www.memphispolice.org/divisions/administrative/communications/
++14806442388,(480) 644-2388,480-644-2388,Mesa Mayor's Office,mayor,"Mesa, AZ",municipal,main,https://www.mesaaz.gov/Government/Mayor-City-Council
++14806442211,(480) 644-2211,480-644-2211,Mesa Police Department non-emergency,police_non_emergency,"Mesa, AZ",municipal,main,https://www.mesaaz.gov/Public-Safety/Mesa-Police/About-Mesa-Police/Communications/Non-Emergency-Menu
++13052505300,(305) 250-5300,305-250-5300,Miami Mayor's Office,mayor,"Miami, FL",municipal,main,https://www.miami.gov/My-Government/City-Officials/Mayor-Francis-Suarez
++13055796111,(305) 579-6111,305-579-6111,Miami Police Department non-emergency,police_non_emergency,"Miami, FL",municipal,main,https://www.miami-police.org/contact.html
++14142862676,(414) 286-2676,414-286-2676,Milwaukee City Attorney's Office,city_attorney,"Milwaukee, WI",municipal,main,https://city.milwaukee.gov/CityAttorney/Shares/Contact-Us.htm
++14142862221,(414) 286-2221,414-286-2221,Milwaukee City Clerk,city_clerk,"Milwaukee, WI",municipal,main,https://city.milwaukee.gov/cityclerk
++14142862200,(414) 286-2200,414-286-2200,Milwaukee Mayor's Office,mayor,"Milwaukee, WI",municipal,main,https://city.milwaukee.gov/mayor/Shares/Contact
++14149334444,(414) 933-4444,414-933-4444,Milwaukee Police non-emergency,police_non_emergency,"Milwaukee, WI",municipal,main,https://city.milwaukee.gov/police/Contact-MPD
++16126733000,(612) 673-3000,612-673-3000,Minneapolis 311 / non-emergency relay,police_non_emergency,"Minneapolis, MN",municipal,main,https://www.minneapolismn.gov/government/departments/police/
++16126732100,(612) 673-2100,612-673-2100,Minneapolis Mayor's Office,mayor,"Minneapolis, MN",municipal,main,https://www.minneapolismn.gov/government/mayor/contact/
++16158626000,(615) 862-6000,615-862-6000,Nashville Mayor's Office,mayor,"Nashville, TN",municipal,main,https://www.nashville.gov/departments/mayor
++16158626341,(615) 862-6341,615-862-6341,Nashville Metro Law Department,city_attorney,"Nashville, TN",municipal,main,https://www.nashville.gov/departments/law
++16158628600,(615) 862-8600,615-862-8600,Nashville Metro Police non-emergency,police_non_emergency,"Nashville, TN",municipal,main,https://www.nashville.gov/departments/emergency-communications/frequently-asked-questions
++15046582299,(504) 658-2299,504-658-2299,New Orleans 311 City Hall,city_hall,"New Orleans, LA",municipal,main,https://nola311.org/
++15046584980,(504) 658-4980,504-658-4980,New Orleans Mayor's Office of Neighborhood Engagement,mayor,"New Orleans, LA",municipal,neighborhood,https://nola311.org/
++15048212222,(504) 821-2222,504-821-2222,New Orleans Police Department non-emergency,police_non_emergency,"New Orleans, LA",municipal,main,https://nola.gov/next/nopd/contact/
++12126399675,(212) 639-9675,212-639-9675,NYC 311 / City Hall General,city_hall,"New York, NY",municipal,main,https://www.nyc.gov/main/your-government/contact-nyc-government
++12128601950,(212) 860-1950,212-860-1950,NYC City Council Speaker's Office,city_council,"New York, NY",municipal,main,https://council.nyc.gov/julie-menin/
++12124360042,(212) 436-0042,212-436-0042,NYC Department of Consumer and Worker Protection (DCWP) Press,consumer_affairs,"New York, NY",municipal,press,https://www.nyc.gov/site/dca/about/contact-us.page
++12123561000,(212) 356-1000,212-356-1000,NYC Law Department (Corporation Counsel),city_attorney,"New York, NY",municipal,main,https://www.nyc.gov/site/law/contact/office-locations.page
++12127883000,(212) 788-3000,212-788-3000,NYC Mayor's Office,mayor,"New York, NY",municipal,main,https://www.nyc.gov/mayors-office/contact-the-mayor
++12126698077,(212) 669-8077,212-669-8077,NYC Office of the City Clerk,city_clerk,"New York, NY",municipal,main,https://www.cityclerk.nyc.gov/content/contact-the-city-clerks-office
++16466105000,(646) 610-5000,646-610-5000,NYPD General Inquiries (non-emergency),police_non_emergency,"New York, NY",municipal,main,https://www.nyc.gov/site/nypd/about/about-nypd/contact-us.page
++19737336400,(973) 733-6400,973-733-6400,Newark Mayor's Office,mayor,"Newark, NJ",municipal,main,https://www.newarknj.gov/161/Office-of-the-Mayor
++19737336000,(973) 733-6000,973-733-6000,Newark Police non-emergency,police_non_emergency,"Newark, NJ",municipal,main,https://www.newarkpublicsafety.org/
++17576644679,(757) 664-4679,757-664-4679,Norfolk Mayor's Office,mayor,"Norfolk, VA",municipal,main,https://www.norfolk.gov/3515/Mayor-Kenneth-Cooper-Alexander-PhD
++17574415610,(757) 441-5610,757-441-5610,Norfolk Police non-emergency,police_non_emergency,"Norfolk, VA",municipal,main,https://www.norfolk.gov/3253/Calling-the-Non-Emergency-Number
++15102383141,(510) 238-3141,510-238-3141,Oakland Mayor's Office,mayor,"Oakland, CA",municipal,main,https://www.oaklandca.gov/Government/Departments
++15107773211,(510) 777-3211,510-777-3211,Oakland Police Department non-emergency,police_non_emergency,"Oakland, CA",municipal,main,https://www.oaklandca.gov/departments/police
++14052972535,(405) 297-2535,405-297-2535,Oklahoma City Action Center / City Hall,city_hall,"Oklahoma City, OK",municipal,main,https://www.okc.gov/government/contact-us
++14052972451,(405) 297-2451,405-297-2451,Oklahoma City Municipal Counselor,city_attorney,"Oklahoma City, OK",municipal,main,https://www.okc.gov/Government/Departments/Municipal-Counselor
++14052312121,(405) 231-2121,405-231-2121,Oklahoma City Police non-emergency,police_non_emergency,"Oklahoma City, OK",municipal,main,https://www.okc.gov/departments/police/contact-us
++14024445555,(402) 444-5555,402-444-5555,Omaha Mayor's Office,mayor,"Omaha, NE",municipal,main,https://mayors-office.cityofomaha.org/
++14024445600,(402) 444-5600,402-444-5600,Omaha Police Department non-emergency,police_non_emergency,"Omaha, NE",municipal,main,https://police.cityofomaha.org/about-us/opd-phone-directory
++12156868686,(215) 686-8686,215-686-8686,Philadelphia 311 City Hall (outside city),city_hall,"Philadelphia, PA",municipal,main,https://www.phila.gov/departments/mayor/
++12156863410,(215) 686-3410,215-686-3410,Philadelphia City Council Chief Clerk,city_council,"Philadelphia, PA",municipal,main,https://phlcouncil.com/
++12156835000,(215) 683-5000,215-683-5000,Philadelphia Law Department (City Solicitor),city_attorney,"Philadelphia, PA",municipal,main,https://www.phila.gov/departments/law-department/
++12156862181,(215) 686-2181,215-686-2181,Philadelphia Mayor's Office,mayor,"Philadelphia, PA",municipal,main,https://www.phila.gov/departments/mayor/
++16022626761,(602) 262-6761,602-262-6761,Phoenix City Attorney's Office,city_attorney,"Phoenix, AZ",municipal,main,https://www.phoenix.gov/administration/departments/law/contact-us.html
++16022626557,(602) 262-6557,602-262-6557,Phoenix City Clerk Department,city_clerk,"Phoenix, AZ",municipal,main,https://www.phoenix.gov/cityclerk/contactus
++16022623111,(602) 262-3111,602-262-3111,Phoenix City Hall General,city_hall,"Phoenix, AZ",municipal,main,https://www.phoenix.gov/contact-us.html
++16022627111,(602) 262-7111,602-262-7111,Phoenix Mayor's Office,mayor,"Phoenix, AZ",municipal,main,https://www.phoenix.gov/administration/mayor/contact.html
++16022626151,(602) 262-6151,602-262-6151,Phoenix Police Crime Stop (non-emergency),police_non_emergency,"Phoenix, AZ",municipal,main,https://www.phoenix.gov/administration/departments/police/contact-us.html
++14122552621,(412) 255-2621,412-255-2621,Pittsburgh 311 (outside city),city_hall,"Pittsburgh, PA",municipal,main,https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Directory/Mayors-Office
++14122552626,(412) 255-2626,412-255-2626,Pittsburgh Mayor's Office,mayor,"Pittsburgh, PA",municipal,main,https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Directory/Mayors-Office
++14123237800,(412) 323-7800,412-323-7800,Pittsburgh Police Headquarters non-emergency,police_non_emergency,"Pittsburgh, PA",municipal,main,https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Headquarters
++19729417000,(972) 941-7000,972-941-7000,Plano City Hall main,city_hall,"Plano, TX",municipal,main,https://www.plano.gov/
++19729417107,(972) 941-7107,972-941-7107,Plano Mayor's Office,mayor,"Plano, TX",municipal,main,https://www.plano.gov/1349/Mayor-John-B-Muns
++19724245678,(972) 424-5678,972-424-5678,Plano Police Department non-emergency,police_non_emergency,"Plano, TX",municipal,main,https://www.plano.gov/1061/Police
++19199963050,(919) 996-3050,919-996-3050,Raleigh Mayor's Office,mayor,"Raleigh, NC",municipal,main,https://raleighnc.gov/mayors-corner
++19198291911,(919) 829-1911,919-829-1911,Raleigh Police Department non-emergency,police_non_emergency,"Raleigh, NC",municipal,main,https://raleighnc.gov/police
++17753344636,(775) 334-4636,775-334-4636,Reno City of Reno main / Mayor's Office (334-INFO),mayor,"Reno, NV",municipal,main,https://www.reno.gov/government/city-council/mayor-hillary-schieve
++17753342677,(775) 334-2677,775-334-2677,Reno Public Safety Dispatch non-emergency (334-COPS),police_non_emergency,"Reno, NV",municipal,main,https://www.reno.gov/government/departments/public-safety-dispatch
++19518265551,(951) 826-5551,951-826-5551,Riverside Mayor's Office,mayor,"Riverside, CA",municipal,main,https://riversideca.gov/mayor/contact-info
++19513542007,(951) 354-2007,951-354-2007,Riverside Police Department non-emergency,police_non_emergency,"Riverside, CA",municipal,main,https://riversideca.gov/rpd/about-contact
++19168356647,(916) 835-6647,916-835-6647,Sacramento Mayor's Office,mayor,"Sacramento, CA",municipal,main,https://www.cityofsacramento.gov/mayor-council/mayor
++19162645471,(916) 264-5471,916-264-5471,Sacramento Police Department non-emergency,police_non_emergency,"Sacramento, CA",municipal,main,https://www.cityofsacramento.gov/police/your-sacpd/about/contact-us/department-directory
++16512668560,(651) 266-8560,651-266-8560,Saint Paul City Council,city_council,"Saint Paul, MN",municipal,main,https://www.stpaul.gov/city-directory
++16512668510,(651) 266-8510,651-266-8510,Saint Paul Mayor's Office,mayor,"Saint Paul, MN",municipal,main,https://www.stpaul.gov/departments/mayors-office/contact-mayor
++16512911111,(651) 291-1111,651-291-1111,Saint Paul Police non-emergency (Ramsey County Dispatch),police_non_emergency,"Saint Paul, MN",municipal,main,https://www.stpaul.gov/departments/police
++12102078940,(210) 207-8940,210-207-8940,San Antonio City Attorney's Office,city_attorney,"San Antonio, TX",municipal,main,https://www.sa.gov/Directory/Departments/CAO
++12102077253,(210) 207-7253,210-207-7253,San Antonio City Clerk,city_clerk,"San Antonio, TX",municipal,main,https://www.sa.gov/Directory/Departments/OCC/Contact
++12102077080,(210) 207-7080,210-207-7080,San Antonio City Hall / Main,city_hall,"San Antonio, TX",municipal,main,https://www.sanantonio.gov/contact/contactus
++12102077107,(210) 207-7107,210-207-7107,San Antonio Mayor's Office,mayor,"San Antonio, TX",municipal,main,https://www.sa.gov/Directory/Departments/Mayor-Council/Mayor
++12102077273,(210) 207-7273,210-207-7273,San Antonio Police Department non-emergency (207-SAPD),police_non_emergency,"San Antonio, TX",municipal,main,https://www.sa.gov/Directory/Departments/SAPD/Contact
++16192366220,(619) 236-6220,619-236-6220,San Diego City Attorney's Office,city_attorney,"San Diego, CA",municipal,main,https://www.sandiego.gov/city-attorney/contact
++16192365555,(619) 236-5555,619-236-5555,San Diego City Information Center,city_hall,"San Diego, CA",municipal,main,https://www.sandiego.gov/contact
++16192366330,(619) 236-6330,619-236-6330,San Diego Mayor's Office,mayor,"San Diego, CA",municipal,main,https://www.sandiego.gov/mayor/contact
++16195312000,(619) 531-2000,619-531-2000,San Diego Police non-emergency,police_non_emergency,"San Diego, CA",municipal,main,https://www.sandiego.gov/police/contact
++14085353500,(408) 535-3500,408-535-3500,San Jose Contact Center / City Hall,city_hall,"San Jose, CA",municipal,main,https://www.sanjoseca.gov/your-government/departments-offices/mayor-and-city-council/city-resources/contact-the-city
++14085354900,(408) 535-4900,408-535-4900,San Jose Mayor's Office,mayor,"San Jose, CA",municipal,main,https://www.sjmayormatt.com/contact-us
++14085351260,(408) 535-1260,408-535-1260,San Jose Office of the City Clerk,city_clerk,"San Jose, CA",municipal,main,https://www.sanjoseca.gov/your-government/city-clerk
++14082778900,(408) 277-8900,408-277-8900,San Jose Police Department non-emergency,police_non_emergency,"San Jose, CA",municipal,main,https://www.sjpd.org/i-want-to/contact-us/phone-directory
++17142458665,(714) 245-8665,714-245-8665,Santa Ana Police Department non-emergency,police_non_emergency,"Santa Ana, CA",municipal,main,https://www.santa-ana.org/police-directory/
++12066848200,(206) 684-8200,206-684-8200,Seattle City Attorney's Office,city_attorney,"Seattle, WA",municipal,main,https://www.seattle.gov/cityattorney
++12066848344,(206) 684-8344,206-684-8344,Seattle City Clerk,city_clerk,"Seattle, WA",municipal,main,https://www.seattle.gov/cityclerk/about/contact-the-office-of-city-clerk
++12066848888,(206) 684-8888,206-684-8888,Seattle City Council Support Team,city_council,"Seattle, WA",municipal,main,https://www.seattle.gov/cityclerk/agendas-and-legislative-resources/city-council-agendas/contact-the-city-council
++12066844000,(206) 684-4000,206-684-4000,Seattle Mayor's Office,mayor,"Seattle, WA",municipal,main,https://www.seattle.gov/mayor/contact
++12066255011,(206) 625-5011,206-625-5011,Seattle Police Department non-emergency,police_non_emergency,"Seattle, WA",municipal,main,https://www.seattle.gov/police/about-us/contact-us
++13146223201,(314) 622-3201,314-622-3201,St. Louis Mayor's Office,mayor,"St. Louis, MO",municipal,main,https://www.stlouis-mo.gov/government/departments/mayor/index.cfm
++13142311212,(314) 231-1212,314-231-1212,St. Louis Metropolitan Police Department non-emergency,police_non_emergency,"St. Louis, MO",municipal,main,https://slmpd.org/contact/
++12099378499,(209) 937-8499,209-937-8499,Stockton Mayor's Office,mayor,"Stockton, CA",municipal,main,https://www.stocktonca.gov/government/city_council/index.php
++12099378377,(209) 937-8377,209-937-8377,Stockton Police Department non-emergency,police_non_emergency,"Stockton, CA",municipal,main,https://www.stocktonca.gov/services/police_department/contact_us.php
++18132748251,(813) 274-8251,813-274-8251,Tampa Mayor's Office,mayor,"Tampa, FL",municipal,main,https://www.tampa.gov/mayor/contact
++18132316130,(813) 231-6130,813-231-6130,Tampa Police Department non-emergency,police_non_emergency,"Tampa, FL",municipal,main,https://www.tampa.gov/police/contact-us
++14199362020,(419) 936-2020,419-936-2020,Toledo Engage 311 non-emergency,city_hall,"Toledo, OH",municipal,main,https://toledo.oh.gov/engage-toledo
++14192451001,(419) 245-1001,419-245-1001,Toledo Mayor's Office,mayor,"Toledo, OH",municipal,main,https://toledo.oh.gov/government/mayor
++14192458443,(419) 245-8443,419-245-8443,Toledo Police non-emergency,police_non_emergency,"Toledo, OH",municipal,main,https://toledopolice.com/
++15207914201,(520) 791-4201,520-791-4201,Tucson Mayor's Office,mayor,"Tucson, AZ",municipal,main,https://www.tucsonaz.gov/Government/Mayor-Council-and-City-Manager/Mayor-Regina-Romero
++15207914444,(520) 791-4444,520-791-4444,Tucson Police Department non-emergency,police_non_emergency,"Tucson, AZ",municipal,main,https://www.tucsonaz.gov/Departments/Police/Contact-TPD
++19185962100,(918) 596-2100,918-596-2100,Tulsa Mayor's Action Center / City Hall,city_hall,"Tulsa, OK",municipal,main,https://www.cityoftulsa.org/connect/contact-the-city/
++19185969222,(918) 596-9222,918-596-9222,Tulsa Police Department non-emergency,police_non_emergency,"Tulsa, OK",municipal,main,https://www.tulsapolice.org/contacttulsapolicedepartment
++17573854141,(757) 385-4141,757-385-4141,Virginia Beach City Hall,city_hall,"Virginia Beach, VA",municipal,main,https://virginiabeach.gov/city-hall/mayors-office
++17573855000,(757) 385-5000,757-385-5000,Virginia Beach Police Department non-emergency,police_non_emergency,"Virginia Beach, VA",municipal,main,https://police.virginiabeach.gov/community/contact
++12027271000,(202) 727-1000,202-727-1000,DC Metropolitan Police non-emergency,police_non_emergency,"Washington, DC",municipal,main,https://mpdc.dc.gov/page/who-do-i-call
++12024429828,(202) 442-9828,202-442-9828,DC Office of the Attorney General Consumer Protection,consumer_affairs,"Washington, DC",municipal,consumer,https://oag.dc.gov/about-oag/contact-us
++13162684331,(316) 268-4331,316-268-4331,Wichita Mayor's Office,mayor,"Wichita, KS",municipal,main,https://www.wichita.gov/785/Mayor-Lily-Wu
++13162684221,(316) 268-4221,316-268-4221,Wichita Police Department Case Desk,police_non_emergency,"Wichita, KS",municipal,main,https://www.wichita.gov/536/Police
++18003925658,(800) 392-5658,800-392-5658,Alabama AG Consumer Interest Division,attorney_general_consumer_protection,Alabama,state,consumer_complaint,https://www.alabamaag.gov/divisions/consumer-interest-division/
++13342427300,(334) 242-7300,334-242-7300,Alabama Attorney General,attorney_general,Alabama,state,main,https://www.alabamaag.gov/general-contact/
++13342427100,(334) 242-7100,334-242-7100,Alabama Governor,governor,Alabama,state,main,https://governor.alabama.gov/
++18003928050,(800) 392-8050,800-392-8050,Alabama PSC Consumer Services,public_utility_commission,Alabama,state,consumer_complaint,https://psc.alabama.gov/
++13342425218,(334) 242-5218,334-242-5218,Alabama Public Service Commission,public_utility_commission,Alabama,state,main,https://psc.alabama.gov/contacts/
++19072695100,(907) 269-5100,907-269-5100,Alaska Attorney General (Department of Law),attorney_general,Alaska,state,main,https://law.alaska.gov/department/about.html
++19074653500,(907) 465-3500,907-465-3500,Alaska Governor,governor,Alaska,state,main,https://gov.alaska.gov/contact/
++16846331900,(684) 633-1900,684-633-1900,American Samoa Attorney General,attorney_general,American Samoa,state,main,https://www.americansamoa.gov/
++16025425763,(602) 542-5763,602-542-5763,Arizona AG Consumer Protection,attorney_general_consumer_protection,Arizona,state,consumer_complaint,https://www.azag.gov/contact-us
++16025425025,(602) 542-5025,602-542-5025,Arizona Attorney General,attorney_general,Arizona,state,main,https://www.azag.gov/contact-us
++16025422237,(602) 542-2237,602-542-2237,Arizona Corporation Commission,public_utility_commission,Arizona,state,main,https://azcc.gov/contact
++16025424331,(602) 542-4331,602-542-4331,Arizona Governor,governor,Arizona,state,main,https://azgovernor.gov/
++18004828982,(800) 482-8982,800-482-8982,Arkansas AG Consumer Protection,attorney_general_consumer_protection,Arkansas,state,consumer_complaint,https://arkansasag.gov/contact-us/
++15016822007,(501) 682-2007,501-682-2007,Arkansas Attorney General,attorney_general,Arkansas,state,main,https://arkansasag.gov/contact-us/
++15016822345,(501) 682-2345,501-682-2345,Arkansas Governor,governor,Arkansas,state,main,https://governor.arkansas.gov/
++19163192800,(916) 319-2800,916-319-2800,California Assembly Committee on Rules,state_house,California,state,main,https://www.assembly.ca.gov/
++18009525225,(800) 952-5225,800-952-5225,California Attorney General Public Inquiry/Consumer Hotline,attorney_general,California,state,main,https://oag.ca.gov/contact
++19164459555,(916) 445-9555,916-445-9555,California Attorney General Sacramento Office,attorney_general,California,state,regional,https://oag.ca.gov/contact/mailing-addresses
++18009679331,(800) 967-9331,800-967-9331,California Department of Insurance,insurance_commissioner,California,state,consumer_hotline,https://www.insurance.ca.gov/0500-about-us/05-contact/
++18004007115,(800) 400-7115,800-400-7115,California Franchise Tax Board / Tax Service Center,department_of_revenue,California,state,consumer_hotline,https://taxes.ca.gov/contact-us/
++19164452841,(916) 445-2841,916-445-2841,California Governor,governor,California,state,main,https://www.gov.ca.gov/contact/
++18006497570,(800) 649-7570,800-649-7570,California Public Utilities Commission Consumer Affairs,public_utility_commission,California,state,consumer_complaint,https://www.cpuc.ca.gov/about-cpuc/contacting-the-puc
++19166536814,(916) 653-6814,916-653-6814,California Secretary of State,secretary_of_state,California,state,main,https://www.sos.ca.gov/contact-information
++19166514171,(916) 651-4171,916-651-4171,California Senate Secretary,state_senate,California,state,main,https://secretary.senate.ca.gov/contactus
++13038664500,(303) 866-4500,303-866-4500,Colorado Attorney General,attorney_general,Colorado,state,main,https://coag.gov/contact-us/
++13038662471,(303) 866-2471,303-866-2471,Colorado Governor,governor,Colorado,state,main,https://www.colorado.gov/governor
++13038942070,(303) 894-2070,303-894-2070,Colorado PUC Consumer Assistance,public_utility_commission,Colorado,state,consumer_complaint,https://puc.colorado.gov/about-the-puc/contact-the-puc
++13038942000,(303) 894-2000,303-894-2000,Colorado Public Utilities Commission,public_utility_commission,Colorado,state,main,https://puc.colorado.gov/about-the-puc/contact-the-puc
++18608085318,(860) 808-5318,860-808-5318,Connecticut Attorney General,attorney_general,Connecticut,state,main,https://portal.ct.gov/AG/Contact-Us
++18605664840,(860) 566-4840,860-566-4840,Connecticut Governor,governor,Connecticut,state,main,https://portal.ct.gov/governor/contact/mailing-address-and-phone-numbers
++18608271553,(860) 827-1553,860-827-1553,Connecticut Public Utilities Regulatory Authority,public_utility_commission,Connecticut,state,main,https://portal.ct.gov/pura/about/contact-us
++13025778338,(302) 577-8338,302-577-8338,Delaware Attorney General,attorney_general,Delaware,state,main,https://attorneygeneral.delaware.gov/contact/
++13027444101,(302) 744-4101,302-744-4101,Delaware Governor (Dover),governor,Delaware,state,main,https://governor.delaware.gov/contact/
++13025773210,(302) 577-3210,302-577-3210,Delaware Governor (Wilmington),governor,Delaware,state,main,https://governor.delaware.gov/contact/
++12027273400,(202) 727-3400,202-727-3400,DC Attorney General,attorney_general,District of Columbia,state,main,https://oag.dc.gov/about-oag/contact-us
++12027272643,(202) 727-2643,202-727-2643,DC Mayor,governor,District of Columbia,state,main,https://mayor.dc.gov/agency/executive-office-of-the-mayor
++18504143990,(850) 414-3990,850-414-3990,Florida Attorney General,attorney_general,Florida,state,main,https://www.myfloridalegal.com/how-to-contact-us/ag-office-and-phone-numbers
++18669667226,(866) 966-7226,866-966-7226,Florida Attorney General Citizen Services Hotline,attorney_general_consumer_protection,Florida,state,consumer_complaint,https://www.myfloridalegal.com/how-to-contact-us/ag-office-and-phone-numbers
++18003523671,(800) 352-3671,800-352-3671,Florida Department of Revenue,department_of_revenue,Florida,state,main,https://floridarevenue.com/Pages/contact.aspx
++18502456500,(850) 245-6500,850-245-6500,Florida Department of State,secretary_of_state,Florida,state,main,https://dos.fl.gov/contact-us/
++18504887146,(850) 488-7146,850-488-7146,Florida Governor,governor,Florida,state,main,https://www.flgov.com/eog/leadership/people/ron-desantis/contact
++18504133089,(850) 413-3089,850-413-3089,Florida Office of Insurance Regulation Consumer Helpline,insurance_commissioner,Florida,state,consumer_hotline,https://floir.gov/about-us/contact-us
++18003423552,(800) 342-3552,800-342-3552,Florida PSC Consumer Hotline,public_utility_commission,Florida,state,consumer_complaint,https://www.psc.state.fl.us/about
++18504136100,(850) 413-6100,850-413-6100,Florida Public Service Commission,public_utility_commission,Florida,state,main,https://www.psc.state.fl.us/about
++14046563300,(404) 656-3300,404-656-3300,Georgia Attorney General,attorney_general,Georgia,state,main,https://law.georgia.gov/
++14046561776,(404) 656-1776,404-656-1776,Georgia Governor,governor,Georgia,state,main,https://gov.georgia.gov/
++14046562070,(404) 656-2070,404-656-2070,Georgia Office of Insurance Commissioner,insurance_commissioner,Georgia,state,main,https://oci.georgia.gov/
++18002825813,(800) 282-5813,800-282-5813,Georgia PSC Toll-Free,public_utility_commission,Georgia,state,consumer_complaint,https://psc.ga.gov/contact-the-gpsc/
++14046564501,(404) 656-4501,404-656-4501,Georgia Public Service Commission,public_utility_commission,Georgia,state,main,https://psc.ga.gov/contact-the-gpsc/
++16714753409,(671) 475-3409,671-475-3409,Guam Attorney General,attorney_general,Guam,state,main,https://www.oagguam.org/
++18085861500,(808) 586-1500,808-586-1500,Hawaii Attorney General,attorney_general,Hawaii,state,main,https://ag.hawaii.gov/contact-us/
++18085860034,(808) 586-0034,808-586-0034,Hawaii Governor,governor,Hawaii,state,main,https://governor.hawaii.gov/
++12083342400,(208) 334-2400,208-334-2400,Idaho Attorney General,attorney_general,Idaho,state,main,https://www.ag.idaho.gov/contact/
++12083342100,(208) 334-2100,208-334-2100,Idaho Governor,governor,Idaho,state,main,https://gov.idaho.gov/contact-us/
++12083340300,(208) 334-0300,208-334-0300,Idaho Public Utilities Commission,public_utility_commission,Idaho,state,main,https://puc.idaho.gov/Page/Standard/11
++12177821090,(217) 782-1090,217-782-1090,Illinois Attorney General (Springfield),attorney_general,Illinois,state,main,https://illinoisattorneygeneral.gov/
++12177827907,(217) 782-7907,217-782-7907,Illinois Commerce Commission (Springfield),public_utility_commission,Illinois,state,main,https://www.icc.illinois.gov/about/contact-us
++18005240795,(800) 524-0795,800-524-0795,Illinois Commerce Commission Consumer Services,public_utility_commission,Illinois,state,consumer_complaint,https://www.icc.illinois.gov/about/contact-us
++12177824515,(217) 782-4515,217-782-4515,Illinois Department of Insurance,insurance_commissioner,Illinois,state,main,https://idoi.illinois.gov/aboutus/contactus.html
++12177826830,(217) 782-6830,217-782-6830,Illinois Governor,governor,Illinois,state,main,https://gov.illinois.gov/contact-us/contact-the-governor.html
++12177826961,(217) 782-6961,217-782-6961,Illinois Secretary of State,secretary_of_state,Illinois,state,main,https://www.ilsos.gov/
++13172326201,(317) 232-6201,317-232-6201,Indiana Attorney General,attorney_general,Indiana,state,main,https://www.in.gov/attorneygeneral/
++13172324567,(317) 232-4567,317-232-4567,Indiana Governor,governor,Indiana,state,main,https://www.in.gov/gov/contact-the-governor/
++15152815164,(515) 281-5164,515-281-5164,Iowa Attorney General,attorney_general,Iowa,state,main,https://www.iowaattorneygeneral.gov/contact-us
++15152815211,(515) 281-5211,515-281-5211,Iowa Governor,governor,Iowa,state,main,https://governor.iowa.gov/contact-us
++17852962215,(785) 296-2215,785-296-2215,Kansas Attorney General,attorney_general,Kansas,state,main,https://ag.ks.gov/
++17852963232,(785) 296-3232,785-296-3232,Kansas Governor,governor,Kansas,state,main,https://governor.kansas.gov/
++15026965300,(502) 696-5300,502-696-5300,Kentucky Attorney General,attorney_general,Kentucky,state,main,https://www.ag.ky.gov/
++15025642611,(502) 564-2611,502-564-2611,Kentucky Governor,governor,Kentucky,state,main,https://governor.ky.gov/contact/contact-us
++12253266079,(225) 326-6079,225-326-6079,Louisiana Attorney General,attorney_general,Louisiana,state,main,https://ag.louisiana.gov/
++12253420991,(225) 342-0991,225-342-0991,Louisiana Governor,governor,Louisiana,state,main,https://gov.louisiana.gov/
++12076268800,(207) 626-8800,207-626-8800,Maine Attorney General,attorney_general,Maine,state,main,https://www.maine.gov/ag/
++12072873531,(207) 287-3531,207-287-3531,Maine Governor,governor,Maine,state,main,https://www.maine.gov/governor/
++14105766300,(410) 576-6300,410-576-6300,Maryland Attorney General,attorney_general,Maryland,state,main,https://www.marylandattorneygeneral.gov/
++16177278400,(617) 727-8400,617-727-8400,Massachusetts Attorney General,attorney_general,Massachusetts,state,main,https://www.mass.gov/contact-the-attorney-generals-office
++16177372836,(617) 737-2836,617-737-2836,Massachusetts DPU Consumer Division,public_utility_commission,Massachusetts,state,consumer_complaint,https://www.mass.gov/orgs/consumer-division
++16173053500,(617) 305-3500,617-305-3500,Massachusetts Department of Public Utilities,public_utility_commission,Massachusetts,state,main,https://www.mass.gov/orgs/department-of-public-utilities
++16175217794,(617) 521-7794,617-521-7794,Massachusetts Division of Insurance,insurance_commissioner,Massachusetts,state,main,https://www.mass.gov/orgs/division-of-insurance
++16177254005,(617) 725-4005,617-725-4005,Massachusetts Governor,governor,Massachusetts,state,main,https://www.mass.gov/orgs/office-of-the-governor
++16177279640,(617) 727-9640,617-727-9640,Massachusetts Secretary of the Commonwealth,secretary_of_state,Massachusetts,state,main,https://www.sec.state.ma.us/
++15173357622,(517) 335-7622,517-335-7622,Michigan Attorney General,attorney_general,Michigan,state,main,https://www.michigan.gov/ag/ag-contact-directory
++15172848800,(517) 284-8800,517-284-8800,Michigan Department of Insurance and Financial Services,insurance_commissioner,Michigan,state,main,https://www.michigan.gov/difs
++15173733400,(517) 373-3400,517-373-3400,Michigan Governor,governor,Michigan,state,main,https://www.michigan.gov/whitmer/contact
++15172848100,(517) 284-8100,517-284-8100,Michigan Public Service Commission,public_utility_commission,Michigan,state,main,https://www.michigan.gov/mpsc/about/contact-us
++18002929555,(800) 292-9555,800-292-9555,Michigan Public Service Commission Consumer Hotline,public_utility_commission,Michigan,state,consumer_complaint,https://www.michigan.gov/mpsc/about/contact-us
++18887676424,(888) 767-6424,888-767-6424,Michigan Secretary of State,secretary_of_state,Michigan,state,main,https://www.michigan.gov/sos
++18006573787,(800) 657-3787,800-657-3787,Minnesota AG Statewide Toll-Free,attorney_general_consumer_protection,Minnesota,state,consumer_complaint,https://www.ag.state.mn.us/office/contactus.asp
++16512963353,(651) 296-3353,651-296-3353,Minnesota Attorney General,attorney_general,Minnesota,state,main,https://www.ag.state.mn.us/office/contactus.asp
++16512013400,(651) 201-3400,651-201-3400,Minnesota Governor,governor,Minnesota,state,main,https://mn.gov/governor/
++16013593680,(601) 359-3680,601-359-3680,Mississippi Attorney General,attorney_general,Mississippi,state,main,https://www.ago.state.ms.us/
++16013593150,(601) 359-3150,601-359-3150,Mississippi Governor,governor,Mississippi,state,main,https://www.governor.ms.gov/
++15737513321,(573) 751-3321,573-751-3321,Missouri Attorney General,attorney_general,Missouri,state,main,https://ago.mo.gov/
++15737513222,(573) 751-3222,573-751-3222,Missouri Governor,governor,Missouri,state,main,https://governor.mo.gov/contact-us/mo-governor
++14064442026,(406) 444-2026,406-444-2026,Montana Attorney General,attorney_general,Montana,state,main,https://dojmt.gov/
++14064443111,(406) 444-3111,406-444-3111,Montana Governor,governor,Montana,state,main,https://governor.mt.gov/contact/
++14024712683,(402) 471-2683,402-471-2683,Nebraska Attorney General,attorney_general,Nebraska,state,main,https://ago.nebraska.gov/contact-us
++14024712244,(402) 471-2244,402-471-2244,Nebraska Governor,governor,Nebraska,state,main,https://governor.nebraska.gov/contact-governor
++17756841100,(775) 684-1100,775-684-1100,Nevada Attorney General,attorney_general,Nevada,state,main,https://ag.nv.gov/
++17756845670,(775) 684-5670,775-684-5670,Nevada Governor,governor,Nevada,state,main,https://gov.nv.gov/contact/contact/
++16032713658,(603) 271-3658,603-271-3658,New Hampshire Attorney General,attorney_general,New Hampshire,state,main,https://www.doj.nh.gov/
++16032712121,(603) 271-2121,603-271-2121,New Hampshire Governor,governor,New Hampshire,state,main,https://www.governor.nh.gov/contact-governor-ayotte
++19735046200,(973) 504-6200,973-504-6200,New Jersey Attorney General,attorney_general,New Jersey,state,main,https://www.njoag.gov/
++15058276000,(505) 827-6000,505-827-6000,New Mexico Attorney General (Department of Justice),attorney_general,New Mexico,state,main,https://nmdoj.gov/contact-us/
++15054762200,(505) 476-2200,505-476-2200,New Mexico Governor,governor,New Mexico,state,main,https://www.governor.state.nm.us/contact-the-governor/
++15187762000,(518) 776-2000,518-776-2000,New York Attorney General,attorney_general,New York,state,main,https://ag.ny.gov/contact-attorney-general-letitia-james
++18007717755,(800) 771-7755,800-771-7755,New York Attorney General Consumer Hotline,attorney_general_consumer_protection,New York,state,consumer_complaint,https://ag.ny.gov/contact-attorney-general-letitia-james
++18003423736,(800) 342-3736,800-342-3736,New York DFS Licensing,insurance_commissioner,New York,state,consumer_hotline,https://www.dfs.ny.gov/contact_us/main
++12124806400,(212) 480-6400,212-480-6400,New York Department of Financial Services (Insurance),insurance_commissioner,New York,state,main,https://www.dfs.ny.gov/contact_us/main
++15184732492,(518) 473-2492,518-473-2492,New York Department of State,secretary_of_state,New York,state,main,https://dos.ny.gov/form/contact-us
++15184575149,(518) 457-5149,518-457-5149,New York Department of Taxation and Finance,department_of_revenue,New York,state,main,https://www.tax.ny.gov/
++15184748390,(518) 474-8390,518-474-8390,New York Governor,governor,New York,state,main,https://www.governor.ny.gov/content/governor-contact-form
++18003423377,(800) 342-3377,800-342-3377,New York PSC Consumer Services,public_utility_commission,New York,state,consumer_complaint,https://dps.ny.gov/helpful-information-about-public-service-commission
++15184746530,(518) 474-6530,518-474-6530,New York Public Service Commission,public_utility_commission,New York,state,main,https://dps.ny.gov/contact-us
++19197166400,(919) 716-6400,919-716-6400,North Carolina Attorney General,attorney_general,North Carolina,state,main,https://ncdoj.gov/
++19198142000,(919) 814-2000,919-814-2000,North Carolina Governor,governor,North Carolina,state,main,https://governor.nc.gov/contact
++19197337328,(919) 733-7328,919-733-7328,North Carolina Utilities Commission,public_utility_commission,North Carolina,state,main,https://www.ncuc.gov/contactus.html
++17013282210,(701) 328-2210,701-328-2210,North Dakota Attorney General,attorney_general,North Dakota,state,main,https://attorneygeneral.nd.gov/attorney-generals-office/contact-us/
++17013282200,(701) 328-2200,701-328-2200,North Dakota Governor,governor,North Dakota,state,main,https://www.governor.nd.gov/contact
++16706642341,(670) 664-2341,670-664-2341,Northern Mariana Islands Attorney General,attorney_general,Northern Mariana Islands,state,main,https://www.cnmioag.org/
++16144664320,(614) 466-4320,614-466-4320,Ohio Attorney General,attorney_general,Ohio,state,main,https://www.ohioattorneygeneral.gov/
++16146442658,(614) 644-2658,614-644-2658,Ohio Department of Insurance,insurance_commissioner,Ohio,state,main,https://insurance.ohio.gov/
++16144663555,(614) 466-3555,614-466-3555,Ohio Governor,governor,Ohio,state,main,https://governor.ohio.gov/
++18006867826,(800) 686-7826,800-686-7826,Ohio PUCO Consumer Hotline,public_utility_commission,Ohio,state,consumer_complaint,https://www.puco.ohio.gov/
++16144662655,(614) 466-2655,614-466-2655,Ohio Secretary of State,secretary_of_state,Ohio,state,main,https://www.ohiosos.gov/
++16144662552,(614) 466-2552,614-466-2552,Public Utilities Commission of Ohio,public_utility_commission,Ohio,state,main,https://www.puco.ohio.gov/
++14055213921,(405) 521-3921,405-521-3921,Oklahoma Attorney General,attorney_general,Oklahoma,state,main,https://www.oag.ok.gov/contact
++14055212342,(405) 521-2342,405-521-2342,Oklahoma Governor,governor,Oklahoma,state,main,https://oklahoma.gov/governor/contact/general-information/contact-the-governor.html
++15033784732,(503) 378-4732,503-378-4732,Oregon Attorney General (DOJ),attorney_general,Oregon,state,main,https://www.doj.state.or.us/
++15033784582,(503) 378-4582,503-378-4582,Oregon Governor,governor,Oregon,state,main,https://www.oregon.gov/gov/pages/contact-us.aspx
++17177873391,(717) 787-3391,717-787-3391,Pennsylvania Attorney General,attorney_general,Pennsylvania,state,main,https://www.attorneygeneral.gov/
++18887282937,(888) 728-2937,888-728-2937,Pennsylvania Department of Revenue,department_of_revenue,Pennsylvania,state,main,https://www.pa.gov/agencies/revenue/contact-us/contact-us-by-phone
++17177876458,(717) 787-6458,717-787-6458,Pennsylvania Department of State,secretary_of_state,Pennsylvania,state,main,https://www.pa.gov/agencies/dos.html
++18006927380,(800) 692-7380,800-692-7380,Pennsylvania PUC Consumer,public_utility_commission,Pennsylvania,state,consumer_complaint,https://www.puc.pa.gov/about-the-puc/contact-us/
++17877212900,(787) 721-2900,787-721-2900,Puerto Rico Department of Justice,attorney_general,Puerto Rico,state,main,https://www.justicia.pr.gov/
++14012744400,(401) 274-4400,401-274-4400,Rhode Island Attorney General,attorney_general,Rhode Island,state,main,https://riag.ri.gov/about-our-office/contact-us
++14012222080,(401) 222-2080,401-222-2080,Rhode Island Governor,governor,Rhode Island,state,main,https://governor.ri.gov/contact
++18037343970,(803) 734-3970,803-734-3970,South Carolina Attorney General,attorney_general,South Carolina,state,main,https://www.scag.gov/
++18037342100,(803) 734-2100,803-734-2100,South Carolina Governor,governor,South Carolina,state,main,https://governor.sc.gov/
++16057733215,(605) 773-3215,605-773-3215,South Dakota Attorney General,attorney_general,South Dakota,state,main,https://atg.sd.gov/contact.aspx
++16057733212,(605) 773-3212,605-773-3212,South Dakota Governor,governor,South Dakota,state,main,https://governor.sd.gov/
++16157413491,(615) 741-3491,615-741-3491,Tennessee Attorney General,attorney_general,Tennessee,state,main,https://www.tn.gov/attorneygeneral/contact-us.html
++16157412001,(615) 741-2001,615-741-2001,Tennessee Governor,governor,Tennessee,state,main,https://www.tn.gov/governor/contact-us.html
++15129367000,(512) 936-7000,512-936-7000,Public Utility Commission of Texas,public_utility_commission,Texas,state,main,https://www.puc.texas.gov/agency/about/contact/directions/Default.aspx
++15129361200,(512) 936-1200,512-936-1200,Texas Attorney General,attorney_general,Texas,state,main,https://www.texasattorneygeneral.gov/contact-us
++18006210508,(800) 621-0508,800-621-0508,Texas Attorney General Consumer Protection Hotline,attorney_general_consumer_protection,Texas,state,consumer_complaint,https://www.texasattorneygeneral.gov/contact-us
++15126766000,(512) 676-6000,512-676-6000,Texas Department of Insurance,insurance_commissioner,Texas,state,main,https://www.tdi.texas.gov/general/contactus.html
++18002523439,(800) 252-3439,800-252-3439,Texas Department of Insurance Help Line,insurance_commissioner,Texas,state,consumer_hotline,https://www.tdi.texas.gov/general/contactus.html
++15124632000,(512) 463-2000,512-463-2000,Texas Governor,governor,Texas,state,main,https://gov.texas.gov/contact
++15124635555,(512) 463-5555,512-463-5555,Texas Secretary of State,secretary_of_state,Texas,state,main,https://www.sos.texas.gov/
++13407745666,(340) 774-5666,340-774-5666,US Virgin Islands Attorney General,attorney_general,US Virgin Islands,state,main,https://www.justice.gov.vi/
++18013660260,(801) 366-0260,801-366-0260,Utah Attorney General,attorney_general,Utah,state,main,https://attorneygeneral.utah.gov/contact-us/
++18015381000,(801) 538-1000,801-538-1000,Utah Governor,governor,Utah,state,main,https://governor.utah.gov/contact/
++18028283171,(802) 828-3171,802-828-3171,Vermont Attorney General,attorney_general,Vermont,state,main,https://ago.vermont.gov/
++18028283333,(802) 828-3333,802-828-3333,Vermont Governor,governor,Vermont,state,main,https://governor.vermont.gov/contact
++18047862071,(804) 786-2071,804-786-2071,Virginia Attorney General,attorney_general,Virginia,state,main,https://www.oag.state.va.us/contact-us/contact-info
++18047862211,(804) 786-2211,804-786-2211,Virginia Governor,governor,Virginia,state,main,https://www.governor.virginia.gov/
++12064646684,(206) 464-6684,206-464-6684,Washington Attorney General,attorney_general,Washington,state,main,https://www.atg.wa.gov/
++13609024111,(360) 902-4111,360-902-4111,Washington Governor,governor,Washington,state,main,https://governor.wa.gov/contacting-governor/contacting-governors-office
++13045582021,(304) 558-2021,304-558-2021,West Virginia Attorney General,attorney_general,West Virginia,state,main,https://ago.wv.gov/contact-us-0
++13045582000,(304) 558-2000,304-558-2000,West Virginia Governor,governor,West Virginia,state,main,https://governor.wv.gov/
++16082661221,(608) 266-1221,608-266-1221,Wisconsin Attorney General (DOJ),attorney_general,Wisconsin,state,main,https://www.doj.state.wi.us/
++16082661212,(608) 266-1212,608-266-1212,Wisconsin Governor,governor,Wisconsin,state,main,https://evers.wi.gov/Pages/Connect.aspx
++13077777841,(307) 777-7841,307-777-7841,Wyoming Attorney General,attorney_general,Wyoming,state,main,https://attorneygeneral.wyo.gov/contact-us
++13077777434,(307) 777-7434,307-777-7434,Wyoming Governor,governor,Wyoming,state,main,https://governor.wyo.gov/contact/governor
